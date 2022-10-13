@@ -1,0 +1,16 @@
+!function(){"use strict";
+/*! *****************************************************************************
+    Copyright (c) Microsoft Corporation.
+
+    Permission to use, copy, modify, and/or distribute this software for any
+    purpose with or without fee is hereby granted.
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+    REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+    AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+    INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+    LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+    OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+    PERFORMANCE OF THIS SOFTWARE.
+    ***************************************************************************** */var e=function(){return(e=Object.assign||function(e){for(var t,n=1,o=arguments.length;n<o;n++)for(var i in t=arguments[n])Object.prototype.hasOwnProperty.call(t,i)&&(e[i]=t[i]);return e}).apply(this,arguments)};window.onload=function(){var t=window.__cmp,n=void 0===t?"":t,o=window.history,i=window.rapidInstance,a=window.rapidPageConfig,r=window.wafer,c=window.YAHOO,d=r.base,l=r.utils,s=l.elementInView,u=l.debounce,w=c.comscore,p=a.rapidConfig,f=p&&p.keys||{},v=c.i13n&&c.i13n.SPACEID,g={c1:"2",c2:"7241469",c5:v,c14:-1},b=""+window.location.pathname+window.location.search;function h(t,o){i&&i.beaconRouteChange({location:o,keys:e(e({},f),{pt:"content",pct:"story",paid:"engadget_479=bsd:"+t,pstaid:""+t,st_sec:"us.engadget",spaceid:v,referrer:document.location.href,ver:"carbon",expn:"perpetual-post"})}),function(t){var o=new Image,i="https://sb.scorecardresearch.com/p?c7="+encodeURIComponent(t)+"&ns__t="+(new Date).getTime(),a=e(e({},w),g);for(var r in a)g.hasOwnProperty(r)&&(i=i+"&"+r+"="+encodeURIComponent(g[r]));n?n("getVendorConsents",null,(function(e,t){t&&e&&e.gdprApplies&&e.vendorConsents&&(i+="&cs_ucfr="+(e.vendorConsents[77]?1:0)),o.src=i})):o.src=i}(o)}function m(e){JAC&&["ATF","BTF"].forEach((function(t){var n="RR-MULTI_"+t+"-"+e,o=document.querySelector("#"+n),i=null==o?void 0:o.getAttribute("data-ad-mn");JAC.createPosition(n,{service:{alias:i,sizes:"RR"},client:{flexible:{enabledByAds:!0},safeFrame:{features:{expandPush:{enabled:!0},resize:{enabled:!0}}},targetElement:n,render:{requireViewable:!0},rotation:{enabled:!0}}})}))}function A(e,t){document.title=e,o.pushState({state:o.state},e,""+t+window.location.search),b=""+t+window.location.search}window.addEventListener("scroll",u((function(){for(var e=document.querySelectorAll(".articles"),t=e.length-1;t>=0;t--){var n=e[t],o=null==n?void 0:n.getAttribute("data-fetch-container-id"),i=null==n?void 0:n.getAttribute("data-article-id"),a=null==n?void 0:n.getAttribute("data-article-url"),r=new URL(null==n?void 0:n.getAttribute("data-article-url")).pathname,c=void 0===r?"":r,l=null==n?void 0:n.getAttribute("data-article-title"),u=document.querySelector("#"+o),w=null==u?void 0:u.getAttribute("class");if((!w||-1!==w.indexOf("wafer-fetch-complete"))&&s(n,{},d.viewport)){b!==""+c+window.location.search&&(A(l,c),h(i,a),t&&m(i));break}}}),100))}}();
+//# sourceMappingURL=newArticleFlow.js.map

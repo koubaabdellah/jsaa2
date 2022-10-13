@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{1315:function(t,e,n){"use strict";n.r(e);var o=n(12).default.component("ShortcodeCmgAnchorSatelliteLink",{components:{},props:{linkText:{default:"",type:String},id:{default:"",type:String},uuid:{default:"",type:String}},data:()=>({}),computed:{},methods:{}}),l=n(10),component=Object(l.a)(o,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("span",{domProps:{innerHTML:t._s(t.linkText)}})}),[],!1,null,null,null);e.default=component.exports}}]);
+//# sourceMappingURL=ee7dd7d.modern.js.map

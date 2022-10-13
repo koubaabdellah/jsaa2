@@ -1,0 +1,5 @@
+/**
+ * @file
+ * Fix iOS app node scraping.
+ */
+!function($){"use strict";"?mobile=ios"!==location.search&&"?ios-app"!==location.search||setTimeout(function(){$(".header-sticky").remove(),$(".omni-skybox-plus-sticky").remove(),$(".leader-plus-bottom").remove(),$(".story__by").remove(),$(".sharethis-wrapper").remove(),$(".story__footer").remove(),$(".block").remove(),$("#main-below").remove(),$("#sponsorText").remove(),$("#footer").remove(),$(".sidebar").remove(),$(".story__links").remove(),$("header.story__header").remove(),$(".story__content .video_wrapper").first().remove(),$(".story__content .field-article-video").first().remove(),$(".story__content > .field-type-image--content-image").first().remove(),$(".story__content > figcaption.field-credit--content-image").first().remove()}(),5e3)}(jQuery);

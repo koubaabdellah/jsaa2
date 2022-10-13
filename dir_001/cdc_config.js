@@ -1,0 +1,1 @@
+var CDC_CONFIG = {"solr":"https:\/\/search.cdc.gov\/srch\/internet_wcms\/select","tax":"https:\/\/www.cdc.gov\/config\/tax"};

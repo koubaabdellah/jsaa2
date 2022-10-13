@@ -1,0 +1,1 @@
+!function(o){"use strict";o(".jolly .dropdown").hover(function(){o(this).addClass("open")},function(){o(this).removeClass("open")})}(jQuery);

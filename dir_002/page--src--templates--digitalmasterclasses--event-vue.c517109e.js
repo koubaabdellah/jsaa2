@@ -1,0 +1,7089 @@
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["page--src--templates--digitalmasterclasses--event-vue"],{
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/date.svg":
+/*!*****************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/date.svg ***!
+  \*****************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/svg+xml","src":"/events-assets/static/date.cbda223.65e325ddcc33c6799dfc0f7f896b168e.svg","size":{"width":512,"height":512},"sizes":"(max-width: 512px) 100vw, 512px","srcset":["/events-assets/static/date.cbda223.65e325ddcc33c6799dfc0f7f896b168e.svg 512w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-0a4277fd0ae16e9e7bedc17aef77e36c'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-0a4277fd0ae16e9e7bedc17aef77e36c)' width='512' height='512' xlink:href='data:image/svg%2bxml%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGvklEQVR42u1bS28cRRDenbUTP3bXIZEVHI7JKRFWTs49QVxsIjm/A58tThgpNyenxD8iUjhxwJJj7CABAhKucAogwwUckPHYDgI8VJmv7W9qe3Z2vK828kilne2uflRNdfXXNTWlUotXkiQHhPtIqEx1ZS2zfCG1b%2bviTvf39yMqH5H/I/TfO4l%2bt%2b%2bIAnhw%2bX9N6LHQr0pSrvfX7CRCad8pJfDgvyf/XX%2bBEpSlJhFS%2b04sgTLuP8SAj4QmQI9Q9pjWZDDtC5m5Wz%2bG3OCjMLt/hC5R20so%2b0V5eBKBtLdONNO7KlWytCdrbVjqdoS23UA0sVjrlCdLyf1sL%2bUp2fS/EjuYEm8t8l87rYJqGPx1TECpRhOoUbnyDKMslPasrPKB4GwJrgCFs0IrQi/RYUyd630i/Fs8Afmvg21hHTK/pV63d/ebwqMy3bFL3q6xu8nR9adnMjHqtjxPoGUBetw%2bhizuuptylLouUHAHDK%2bE5oTGnfmBWjJB0bTXhPvU3vUxDpleQcZZtKuwA1xB5VyTnaKZE9pG3XCo7UU5c1hCK6mljw5ewlTGnXaOsw2p82xnG%2btSe2fl45BxkxVYgpm49VLN2B7dJB5Di4dABPetApmettdf8vpV8hFVq4CY15bFAgaHe6Go8FzNgqL9bE/KqNkHbS1AnUg16zBCePxq3mHEbK1BtFfZrJwNCuAlkHUW5%2bOoUpHjbL/aZ8npq6g1w9LOqZhzeWScZh71un3ZgxgzFTBc%2bp9etI02VYAPiJx08gGplAJahaInnbxQ%2blQBp0vg1Anmb4Oy7ZRRlkWlgPkLbYNVxtA%2bANIkYsu4Owh%2bA6KqhRTggZKDnnP64EnhL6wAkNPmbaENoV140xj3GzKR2%2b7AEhI/EGJ7CsD9IAZLKPDgAhMJBh2k/oLh75QCatDuNs7gI6AJmoANUQXB3ykFVKlj%2byRi1FVNf0Hwn1pAr3yA50kEwd%2b2AozX/Qmad7y7KGOvW4ifQl2d6n/D8LePAwh8VAAnh0DDFHHtFv%2bAfSBUVoHpD%2bG37qB8R3BAEYE4BleUnybYwE88DS9tsRTOgiLPK/3IExVuewnsEe9eCybaEr%2bCF8MfI9b/1GCAG0ILQstCP2Dd/yH0Pcq0bsqEy6LggZD8t/yO9wl4bgrPJ0n62se6300aryfaxliF2z63Q98Gh0TYc0K6DAaEHpBgqqhFoWmhy0JjSsJ7WWgadRvE/8DtCNqn3P8Ny6qHCIRiFdpkga1BEFXQfGri2afBOnh38RZpjXDBp0JrJY9p9NsCdqCAOsrUsT2F8N8KTRqHWHFnf4oNVJyTBd8k2uq1RnGCis0RCAEI/Yi6dZQ9JOEnyFeUs/KZKPWlTEBogpTwEDxlmycUAhCaEfpN6COht8nsJ53weUmQRhFlwgST5ChvMkgKAgjREz1rchXmjyO8eX3mfufNrpLKD%2bgrEAKvQ3dTtEzqNj7ZJAPscEz8XkRWyEX8H4P1JQ4nHL5e6ycQcpOniX8Az71oEzUKCH9B6EsI%2by4p%2bR7K3mf%2bvgIhT%2bByGQqYNgqIKLrrC9o64c8LPcM4X7iMF/Iz2vfHRXeBXp3XzwDS7iuwycgWiTztfMJ/JX28ZuqvoO6FjhUEEDKeexS4XpU35hSA3zeFUgJ5zP5QeOYln6R%2bYBd5hqNBACEzToMCSPgEAl5gMJQnvFHiOfS95ZKp%2bg6EzHG1YQnQxJ9ZJfjM3grPKcB5SyD2PRlPHH7HxuGdV9dtxUR4mvJzxIaWwTImOWMwAAv6DcxZMf/zJk/eLpN3wLuc5QTjZm%2bG8GRtEvNgkwBHy/w0yQVMctFj6qyEz4U%2bw/3XPuE9eYL3sQss2G0wM1HS7tMZKMyXn3MsfgQ8LBCyzu45HXdVIeebCM/r/2e0uXG4oxRJle3ha%2bzVDCjMSnAW4BWe/Ipr%2bx76XE35OGo4m5Usjfy6blOd/M1b7jAkY9vDUOTJBs16G%2byW23WgUL1upc4L7CXlPi9dvlu0jSjNGgm6ZI/DeBtcst8MmjfG9jj8htB36GvJFy63Ds99MLHp%2bWCiFwqokANdzwmIRDkBkesk/DoduI6U5kuIJsfYyzyeugfu1kkJLiQ21oIPGcOa34PXXyeHGjV8LmO%2bG6p0/KPD4329FpElLJmg6D2Z6wyAjQqrAdQr2Ofvk7c/MHupG8j9sjTns7mekU8JuL8lgqx6wt9ZYfFV5/C6%2blltt6yAlFA2iphSIAPE%2bAIHmy3A22Wtc/u8/dA6FQUK/TJn/XQM70g4PTuM4hR5JuvV2Il58i1YQyozPIO3UkTwfwFntLz8GXnEbAAAAABJRU5ErkJggg==' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/ticket.svg":
+/*!*******************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/ticket.svg ***!
+  \*******************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/svg+xml","src":"/events-assets/static/ticket.543306f.7194fa1cd3a4b00debd1b9bc15a0c4d3.svg","size":{"width":404,"height":404},"sizes":"(max-width: 404px) 100vw, 404px","srcset":["/events-assets/static/ticket.543306f.7194fa1cd3a4b00debd1b9bc15a0c4d3.svg 404w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 404 404' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-fda6c68812e253f7fc1474fc5f8ada51'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-fda6c68812e253f7fc1474fc5f8ada51)' width='404' height='404' xlink:href='data:image/svg%2bxml%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAGjElEQVR42u1aa4hVVRS%2bLxUqIyxDLIuspEHzhT9kcixSCRnHMp3UoiwKi9AIJc0ICTV/GJklWdCDkhR6kVJaWomKkVOZVvb6IRRhD5LMHlpNOX0bvmWfa/a5c68jcm6cBR/nnH3X3metdfZee621by6XUUYZZZRRRhlllFFG7aitre3IVXH48OFUwmSzq%2brQWeWLQMGAwVMJlZEyHx8j/B9mcdWdxHp5WHcRrpuA14h1cp8KQEaV6W3gAaAUdLDlUDFxHRVogKFttUvDqU%2bh4pkgzq7I57Ec7C9gN7AF2IZBU4UgE2XbBfxNmSdQh%2boMQKuV%2bHwXBzsEDEqrb5Al2w/4jTIvcLpU/PV1wBYO9jnQJcaXFpjPAj6gzLtkKefK%2bgNlwH1Xtt1oiwntC9lWtL02hbAvPU/8wO1s6%2brjmiMPUChPb1%2bUtT8EOMBBfgR6mYXTut2ZbLieBuyl7L9Dr0vs4xF5Iq4QOjSifZ9YcZoNUAM%2bwGScJPIfgE6TIn3yObFYb2AcGF92W8lC9aRHTZ/0zQC7t3V/tyoC3UKMcDXQJ%2bhszMuB74BfnOJ/osOMyOC1krvYcrgZOOh0%2bxX4AViRiwQPYbo8j2t/Lod8THlNNrxzsd%2b8s4zx%2b6Qlxn%2bMs0BnwoXASuAnr2z4sZX374R1A4HOkwGD5yyZc3QoyLbTLvGQ9qIkU17Yonwp3y%2bvikTeb7BIL%2bn3bvLOc4CrgM3UuTXHCC/QYmEsVmjxfMJWWkjit1kRG8ePp7PvOCyPotzfqwZopYNYypdasHMK0ARMpOMIsyN41gnANUA9%2bYYDd8gebF74ZKAZfe7DdS7Q4JQ7CW2zgQHkL8l7ZwEXicDhHVPQZyLlCWgOTjt84bBl47fJlG0idwDjC22n850W39wfM8CDNu15beog0QjrqQS8qYmHCPxVpM/TYqDxbFsl/boAG1wYG0Lbf8rIMQLY2YGsd3L8brwuLGcA/YLjGBPMYoc9QXDOBJsBW/nbKD6fK84mfPmzgGH0MYHmk%2b86vvdFCVLWk%2bd14FQaYAjbvqCyI8NsAi7juGGZDA4zBBgNvGsGRN8xlLeHm2VlDVCIrNF%2b5NkZWVtbnAGW8HmZ4zsT%2bAN4i8%2bTyfccFX2F73jVBCXfAPK9X%2bFaf4njjIrsEMWKDCAdzB8MY4dP6HWLkmFtZf9L%2bWxfwGZISSw/CKjj/RTyvYC%2bj/H%2bU3m/vXsgf/sGmA7cBtwKzATGSL5v03st%2ba%2bM5ACVGUD2cV8U%2bVj274JbAg183sN8vM4ZtOic4FQLuEwYXpudLxpcZm1vi6Tva/hbk77/RBjAZsCHHG%2boJiC8D2tyLO%2bvlRB1Cb16oH147i1CDxQfUIffBgD9QzuuPSPT%2b8QYQL6s%2bYDL%2bfwUn6e7lxboHL/msyn8hgi4km1rvQEgy46k8p17zxryN/mYpGoDROqCH0VmwGbnBEdICj2SxuoO2Dp/Vn0AxnnCOcpvyTdD0nLzP2GH6Ys%2bfXE9H9c%2bXjlxpuM7PQPEAIPY4cvIDNiuPoBtc2Wd7mU5LdBnwNnkmep2AVvz17P9IJ8v7mCPn%2bb2%2bHXUpzESAVZtAA1QHgdukXg9L4o8E%2bIGC1/Z3sA%2bm7ivz7G9nb/3AlbL0tGlt0Ai07CLzMH1UWAZ7h8BHiaWSyRpyjWBbxWuPXx4XdYAoIdk20o8WOjoN01Fk/KBpDGPtdbgEyrvH2TsUiwUtmRokTAX3NrJaQaoCY0/htJzBX69vPDkHU%2b7bFDai1qi51gx%2bGyynTyWYcrzPTEDBGfWaLU/LYAm5f1J%2bb0q44yVWA%2bI8VVTD4j1NWM6J3uF5C%2btsYJIqAU%2bGbysD41r4awwoSAS6gArWAVqVxAJGdp%2blol82eimclWhtJGbrQXZbvdHdPvZtuTA1DPk32Te4Jjn1XBRdKbTZROMFLLQurAcckl1fmZqB6Tj5Bosi48T%2bcPZwA3RGWPblnhPs169nLF9D5yh%2b3zKD0a6S0EmJFujJWu0%2bmT%2bqNMh5zwsKpsuVpwvyU3aj8Zmi9yzrNTnd7SjzgnLHDbaQeNuXQIpPyBtkfpCFx8slV3CMkjJxfWHLOxM%2bTZ4gRzyLHa6VLWe/B8kQsi8g3W7jdwt0oSNmNLrge1WRA1VZJ9nVGwASXeH1fBfZOqr/odIQqy/FHiP4fJmFkHSCJOvJWSP4syzv8l1Kqa2f1nZ3plmWNje6Rwm6dQ37QYodxqdUUYZZZRRRhlllFFG/9G/nnAqdJ/Au7kAAAAASUVORK5CYII=' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch.png":
+/*!****************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch.png ***!
+  \****************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/png","src":"/events-assets/static/DMC5_SBS_deutsch.175c05c.e687f2bf72edea52caad3283089f49e4.png","size":{"width":1080,"height":2769},"sizes":"(max-width: 1080px) 100vw, 1080px","srcset":["/events-assets/static/DMC5_SBS_deutsch.82a2fbd.e687f2bf72edea52caad3283089f49e4.png 480w","/events-assets/static/DMC5_SBS_deutsch.175c05c.e687f2bf72edea52caad3283089f49e4.png 1080w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 1080 2769' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-f9bee97f21577586ac724689b538c182'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-f9bee97f21577586ac724689b538c182)' width='1080' height='2769' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAACkCAIAAACo3r8dAAAACXBIWXMAAAsSAAALEgHS3X78AAAgAElEQVR42t18B1hU2bIu7/veu%2b8eZ4ygYMQIShJRQSWHJudkVkwo5qwg0N00GXMgGcg5dJNzTgYwoWKYcObMuTNzzoTjaDeZ3u9fe3cjZnR07rnv%2b%2brbU3vt2qur1qqq9VdtHBmqeNz/aJL5/8oAcZFsf6HcpyLxn21A0TiqbAxV/eUno9Kxf54BWHuqfPTj2LmJe6zTD5qnH7JIO0gofQilDWHSDkjHD1sytwxJBAhj/kv6VKyIuOhPMaC/UJaq/iLnqKmGwkndmSELJvIWKPA0JwQsnhyM6wJ53vzxAYsmB2kpBILBVXsqxnnzJwRojg/QmRaydHooaIliCAa1FHhLFEN1Z4Tci1SjKkcOYOY/wQDyM9VfFvga6s8OMZntE3Io%2b7snP7ZUP9i3%2bnJz1YPG8nutDY8wWJR54/7Nvyadrz66KeF6/aObzY9To2ttNHmseWxTZX83vfD6svbK/Fs2moHm8/wfxqhQFSP7aQOwD4SKaSqS0Kc3IN/XGEvrvCRM%2bLy7peZx2JG8NaxzuYnXKIqqLrznvyOju7O3tuTBoQ1JUWHl/f0DMeEVeHTCt2DJlGNmKjwL9aCmqof9ff02C0JNlNgd0apU7YiB8tFUyVj4J1U%2biiodQ8IMfMUoQiWfwQD4g51W8LeP/9kp6kk8X8dSDbTUCIKWm%2byiHLTDu7v7vur4MfQw/6RfYXd373HfAjw6E1CsM8nHSiN4ofxR/52ZPd29VvNDjJU4j2Ln/Z416etLSiLBhP9Knv63uNlCvvzP6VP/kaL4t/hZ38XP6s0fTxWPpYrGkvxBiGb%2biAF5x4yWzQwznu3nsuzEKf9CKBcVUma3KAzMgfWJyw1P9XT3VeTd3eF26QSt%2bsP2H/LTWu0WhRrP4ZirBepM9gn3zuvu6rXSDDGczf0%2bYXa%2bn2HImpUxXg6x2%2b0awrT32XiWcvWOe7hf2mF7ZqNLX6HcQOX4nmr5nlr5nhr53ir5gTI5iTEfGQN%2bxtpTglYZn3x49%2b91Jfehov%2bOdEedcNqAhJVGpwYGxN999XNUaFns8UooajSbvXTKMRMlLkslwEItUHuS9wk/YpjNghCY9Nc4pbbT87N9DeP3WINaIhb6ua4v4eiHrllZHrCs8rgudVP2efMU4VVComuTO69N7ro6qbdRXlwhS3bmo1zISEcxxEYzKMInvzj7ZsC%2bHINZbFut0DPcYjf9k1Dr%2bLGCuDM13D1Z8CjwZvMCQKaguWB4BjPZ6y0vnPQrgOOZzuUiiBHBPyRN786b8DBa5WH0vOc5k35Kmf5j8vQf82f9Ujvjt3rFp3XTuuondtcqCKsm/1Kp%2bM%2bqGT9WzPqtVlFYNHGYNrzqQktnhJrO5WAtF8kfhUtAM2MlLnij2Rys9GKFo1pyhzGuP8MfPJ4OJdoGMm6iTAx7FDsX7t5yfBH8/kGUqjBnIrS/enxha6xW02Wdm8la12MX1kfoPIlV/i5u1t1z6jdOLagOX1YfubTx0pI7qZpU1TiqcPgHGa6lY3/LnHI/UrUjRuVRrBroYaxqR7QK6NFFtY4Ywj%2b%2bqAZ6FKv6MEYVDPN0KGH8kXS8SzChSyD/LHsSdkDEV%2bgvku3NG/8Lf9p3xcq/1kz/vWRKF38C8xQESVyF2Qo9hRN%2bKZ/%2br/ppXY0TxSUfCuaQ46pGfjJC9gQhddIMDY3G9jbJd1%2bHoysQoIHxMsnTF8LFY8WVsp0tk4QtU/oqx5PU9EFgDr70qYiSHluSHYajlsqJmiYjcPsqJJq9cpyJpaisu04BkY3rezPSnwini8b1V4wXtkzubJokLn0nviga21c1ATvQ1TBR/BH1AH3Oy9IbOhbMJ0NjUKsSBkzpbJz0njN4iKS4RPbDDCCqVxIP7s2fAAIjBhXJfhIDPnwHJn3YDgzQoPrJJWU/Vw9XbR8b1UPeThsfxqoAxkhtgOPKEiqRk5KsdEQ6SMTATKBpvJTBuJy4TF7UrChsUeyrlKcKR5PZiICcRHKIJpIYqB1mDNCn9wCSbvnIxxeVbTT8taeFL53G2e%2bRaqxyymiW7/0oKTAulZ4vRSOpwi9oGkVPJEsVjqQHvyQKFY2h8v%2bDUMEIKv//EgYhC4H8/%2biu%2bVLYNK6rdgxVMZMqnUy/NZbK/z9U4QjJzIXjBsrlRM2TsVfDykLItUgO/eXjeysnULWy%2b2y36kwLN1Xy89ueAbDJ25umN%2beEl9kOkvWKRlMt1lSTMdVsQaheh2oyoypmU00m1DVHqlKJHlxK6GEA1bqSurmeat9L3dlB3XCjHrIJf911oH1z98MNnbdNeju8qAd%2b1M2NVIc/dcOdurefqlSmCkZCGbj%2bMP2HGNDZMBGpTdg0pfe6wrcFyvYLfXUV2Yc3JvlsTV1lcuakX37QIYHpHO/vE%2bZQZV%2bIaxZRjUZU/RJybdCjmkypmvlUowHhYcBVe6pOm5h0eyvR/s526sZy6u5O2hgP6vYW6tZm6u7u/gc7u%2b45dbYu7rm/duDWGjJ4exvVukpcjvQqC%2b1FLZOxA/3lcsNBdTIQBT1vmtLXKv8kT9VkzlG/7ZlnuEUaYw9utIkMOyqw1gxhqfh3pKhRtaMHKtWoillUlTLVYEDVLiLq1i2myqdRjcbEAIxUzqKq1YlV8JCyqeQ34EIFX1AFf6EK/0L8JP8/ce2pGSdsnihskhM1ysGdumtAYzsbFLDwJPk0Te6vkBsmJqUNaJrU2TCpu2FiZ83k9QZ7XPQvhB7O8dmaFrA320kndNm0gNX6h36rU%2bxslu%2b5aStudadqtIgvXXembriStS9VIBty1Za4yq2NxB/II3fq1hayVy/CXUoI8WLZvir5zsYpopapwqvTJNQyBb7QXTdRAqqHiUaR2pDUSCQgRqu%2brAjU1ZDjOeicvhBcCvi5bHqAjmJETgiLujXhOfm9yZ2NE/uRQ4oRXqMIlU4iOaR4jCTVMFmFCWvsVak8naPefK4hx%2bPXe2tQDyj01Cj0Vk0YKJP90JpGZmgdRNJoxahSjqHzwqPLFNkGswJcFvnwfYyo2rGd9YxrThIiPzRP7q0eT78lSxKOBPeOlVCR9LZo9PshcdHYl%2bkPd%2bbIPpSPfpo9pe3MwhsntX7NmAKTGGCDw4WEO73RopYpWDPJSr80g%2byQEbnh6lHySVuL5MwisPQLqvoLqmz0i2O4cOxAqSzwCZMlYAlKQaro37U3CncaeB1BEMcd11U3kewDoh9nTfWE/14bZN6oej/KbRoSE%2bYVM2h1u%2bthw2TGhmEm7D/JAAI/gUOrRxIvolulYhqTvipWQp84tAHDAb1/XncaIfs0e1Ksl80OlicoytP%2b10wSx0NsoMMU4L58PHMIwp2QAenk817QKjsMmY81gI7d0f9MnbZeb6/B3FNWC05aaJ7QVzq5UufAfyXNRGoiAsiMhOjUWTSmp2a8sHmSqEmhk6lfyckwVpJAIcOQRO8xdJYcTTOjhyTfT2cA8fXqUT72K1ZaJPET6pMv1MSfqUyNrLTWjj5ku56qpA2o1qCqVQlGACytnCeuVu68rtF93110TamvejJVt5Qqm0weAUeUK9JikwhEu2pDDrUSeapGkwANzAAqny4171O118tG/5qhaK58cN%2b6pBO%2b%2bdtcLu5ZFXeWV7zRNspM2fvH5FlU2QhxvT7Vtoa67gLsRdS65tR/36v7sVdXu3339UXUnV1U7QKqgZZpXUEgXTOLqpxDwNw1J%2brWJqptNYEbeBcYBMAJYPsPe5TM0DP4%2b8Q5JnO8t7tdcdIJt9QI8t%2bZcelk1Wb7GKPZvl9dmkdVfDlQMpGsKNyAQRCVygNV00RXZ3fdZnW1aosbdanahWR1gSaqVCVgjuBWA1pe/sXmEDF1gjv%2b8CYM7gCOw7E9%2bQpuWrt2rUjw3pwYdjSPtz8n%2bFD2/nVJDhp7RfzJVMlIcYsNWdrrTlSLFVWtQtaybXX3LVbvj5f7fogV/7OEehxK3T9MtVhSbeuov14kePvmBupRANVxjHrIJfSIR319hvr2AvVtFCkSAGwROX9gH2ReAhE1X6YcMNNTOrfZLnqz3fmjmxKObkkxnBd5eYclHpGSrWouVQ1crUl%2bGCgai12zoKdxbudtY1Hrwt6WRVS1JqlyquYRgi/B9SFWs4AsOQodbAWiCFbhUZ0OLTDjAzahaNwLyCRlXjvIysbEbLPVn%2bm/gHyGCTGdF3h2o8NAKQFnYpI9R0nqRsKMIXzBF32VskD2wqYJ3TXjpNCfFoOLM1lLUnyOoOlLIlBA84zAcFUfB5gN6IpyGccorgS9lsq9BuZwrRz17RWlYrZhob/RVxeVqYrRQ1p8skOIQaOyOBCELVNFzaQIpGt8uZfFXqOSQQG5YTkPUV22q15S7tAFDDlASU%2b7ebLMm5tClaMIkgNVjhIXvrM1RC8Mc6INp43zEe0wzN/ZRFfJ9RMl1UupLEzCDuAXZd7Q2ZPCIQYIvVF78WsGCIdnwDBBh%2bRH6aIH2otIn3TCq98%2b6I9uMiR2iyRdUdJ6IPh5HAPgMEL8nv7INUB/uJaKjaG/n9JwtWhcXynO48k91yd2oVgrIsBugBGj0RSZRDobOX3LR0v5cZIZpGJkscj3Ujm66Tsa/EDBOFQdz1um9qAGLB2N36UX9CUxGarmC/qr22iqdkRPgdzznInkG3XVl0TLGuJCz7Im9cPc2hGSj3O1I7rzx4tyFYiDVY0k8zaO6m1V%2bLF8VneTPFX7BVGociRVM6JLMEHEl6cnGUnPNkJcNuZZ1mRx2WjwZISIfSHiK0CSiGHyMiI2UDoWYuSjYN2XPdcm9l%2bXw2%2bJchTwu2R%2bIka0hVbPsifJZB5mAf/8kDQjZb/FFpPdbtpHTqx3v31WA/M2hi8OWLHWaaHPHqtteT7Gv2VM%2bVv8rPg9NhsM967QOXx2k8u9SFVhrkJV%2bDLvlZscFh7b7%2bBZzDZ4mjXp68tKF3fYr9Xbv2rpwaitjo9j5z7LnljO1T3quMlJy8fbaWMFTxcr9ShmbuRWx5VLD63T339ph903l5WeZk0u8jc4YOcJMX%2bX9Zj5n9Uzbl%2bef3ajy3Kdw/jdhD3W38fP%2bi1jqsDHeLflNpdF3jKLp4ZbqrHNVTiLpkbozgwxmB0ERn92kJ2m79LpodrTwg3nBIJZPDXCSt3fbB530ZQIvZnBjJjhnCDb%2bb5LFEN1poURMUUib6PhbzI3gIjNCtanxYyUeDbz/XQUw3UUwwyVApcohoGxne9npBQIMchAEoyJcoC1hh9pCk4PxWzaimFLpofZavqBxyQGtNjCKRGseVwrdfZiiM2AWJAMS4VrrMwDsVQ44GEJsUeVYzo3wEKVzdhmoUoGzeYFQAAMbiViKrQYRtQ4jBh4jDBimAQMCCPQFT8MIk9pBiOMJPN5CoyJMg%2bm4pEZLWZGMxgBz/wQFAADMWOIqUjEZIZ84eLqzwxePDlcewpNU6XMh9LUCIbBVHozgpmf%2bXwkM1T7I26bi08a8kPNBOHmgjAzQRiLXMEzRHgWzbw2HmZKEwbNBKFGEMAkmCrAY63%2brKDPaoPM4A4umRZ66YgD9XD0QNsEqu0L6rYCdXMMdXMs1TqCahtBtf6FahtNtX1Jtf4n1foFGWcGcQuxWxMItY2ibslS9%2bZCsr9Vlno0WhBqisAY9JPPawB%2bKXK/S3/bxKe18p1fcfo6f%2br9V5vornvP07bef7X2PnvY%2beRYz0/8XuG33f/IF951owcf9fxcIbyu86xhIuj59SW9T2/293Z1/8R/2jCnv21CeoDlsukh5rQBZi99kJUQw7/2ufZjDYg64EK1jRFe06IGuvp%2bzu1%2bsLrzxvyevwZTFNX3U2pXu5O477f%2bX/K77rl2P/SkxH09Xx8W9/6z7x9pwoYxoN6/HRf3/NT9cDPkOx/tFt/4j8xA66WKIYg5xCLSiNGcQPDGNI/cYjib3DJXIoOnyjwT6dOPM8CZfP5vURp4dpMS9/T9I0V0bR5gAhTquucsap4k7v1F3PND7/cnuzvWUQM9vd%2bfEvf93vdTgrBhlKh5aucNdVHThK67NsSA9lVwsMxAK%2byAm85Raw1/92WH7Rb4IjWBd1tyxHmxt%2bPCYzbz/R0X%2b2AEedZB65gFnbjclx6x1/I1pvPPBxqwH4XfhGcNCp03NHoeb4cevd8Fi1pmgOl%2buFF0dRbU7f9Z0NVuRwwQiwee3ej78Qp2SdQkL2qZJmwY2Xltrrj7771/P/esbhx1e0Ia1xIaN17UiT9mww81jfOxrTqvi2vJKcMkP%2bvaqKWXj9rVRC477rWc57G29JRBRqB5gq9NKsfy7G5XbMJwov/lGDjgMtA65vkN3X7Rk77fasVicdcDD2HLbDF2gGYG%2bn4f6P6x54fLXQ%2b9xAPdouvqz6r/l7BRQdg0DVfRDZ0B0WNKTOF1Ucd2xHcy285Z27s%2bZklemEm8j23kfmfwUQec0rkWSX42uSGmqRyrklMGcd62OcFm5/e6ZAWxEn1tUthWMQcd4UgfbADtQnLPm2f2PPLs%2byEayyxqGo%2bF73myu7N1EdYY4z3f%2bHQ/8uxs08YWdV6fSwPpKYTgPHfMe745ivGeb/2FN82QlDJ4VnDxlXqH4BLwFpx3rjreVhpsp8U%2bq/QOwm1ctL0dtHyt1NhgnBb5YBx%2btUr/EPYNB9bHuJD4Jlxo8vP6Uc/r/lNYP1rYNEXYOElY/6WwUV7YNFlYP1JY94WwfpSwcQLhmyaSQQlBUk5YN4KWGfGsjiRWuBBmPuDiucfBC0gBLu69YtNawwPOi332Om7b57wV4wddPCGA8NhpuwO3u%2b291pvsQ0CbfVAQ03%2bVwnNbcnSH7Q4v651eNru9bPZ4We8mPLkFv0vCENpNbsngzpdpt1RgzzbrXTtst6/UPQy9sfaW6mwWDQcQr1Ya/rDETtMPPHYGsQsgCIwAGyDpQCLbD299WBYyVSaE7QZQ%2b4TEZEMszaA/kEQJkjJMAqUF6BElCAcO03kkBphrsc21OKwFHNZ8LkuNyyAtBoT9cXp/FEr/Xmrw/PqgU4w2YDH7BS1is7Q4ZqqfF359YihB7wBRfZAsFvubz2czO2s2j/u54eQfxkLMJqoEmKlz4UgW2v7GmgEGGoGWWgg1tu6MkM8NJz8NmGPimIDquUHrLPbkHTfqyFHvyFbND9dfb7xfVwrraQT25gh746O3Cb/1EZ1LXrodvgGIXeSNTWa7fqrSoNqn9F4d33tjKvVg3i9VU5Ai8QhBaTSbYzSHYzyHw/wNoIky11iJEBj9mexl03zx1HAWx3A2rmyDmf66in5kZDbHYBabvDuboz/DH48MaQYvvqIrwo81n2QUcyQVTQ6cgniH8jB3gOS7oBtxqtQTI9ETf5xcXbdMO78KoB7p302dhwXD7601P7fK5IyjTsRyw9MslUAL9SCbBSG2WqHmqoHbXS/5bksH77zsBASclx5fa37%2bgEciBMC76Z90WByO8Q02UYTXDt/udsll2QlYYsaoiHp1wYtcQojhF7LN1LjvsEFm6PJvMN1LPsc3KXTdtQdUJl3/jo2dt81FTXLbrHbDkXa4xXpvST22Lc3XK/3wpuQ1rHNHt6SA32Ifzd6ZWVXQHh1eEX%2b2NjaiMjmq4TS3KDfx2qVT1ZdOViVF1lcWtGPw8qnqlOiG5Kj6pAv1rnonsRvEl1QCWAs5UBdrT3IgHZZgzOZzGWOIDe%2bFEsC9ODv7WuWfNwEYLwCk6f3byc62Zc/qUKNNPOjqqTM1xEItwBKrrhVqvzicpRpouzAUG4Ilx%2bZYqAdigbHeLFWe/eKw1aZnrTSC7RaFYQS32Kv96xIhwFLh4XWQ1fzgwROA%2bIw2m6XBedXvlYkZjA2mbynrXtTEQH8rdI/8UiXfc8%2bu%2b8nBrnaHnid7er%2bL6Gxb%2bLRu0nrjA7ozAr2cYw5vTAZttI30gs94pYd753F2Z%2b1wv7zC%2bHTEsXxvz9S9q%2bOdlx338UzdszrOf2eG3/b0lcZn9qyK27cmHhtFOhSIIiUEEleiohqXrL0m581%2bokzSIxGY/2aBIUGMTZgRkh1kSnXM6OzYJWw1eFYvJ3rgRX1jVBixTG9miOlcrpveyeWGp9wNTsLXXfVOgFlucMpV9wQGsRtrWeew8C7LjmOZ4eXwkOVGp9ZZnMNirzA8tYZ1FvJmKryXjlvlAGgG/YjnvN3REQmg9wQxNgEnl6Uau%2bqczkCbvPj2OPFtOXHruMaL2nQTCodaADKMwUw2HBc%2bQycTwjOEEf2Z/uTpbDaAjRGdqTCObIN8hUH6Eed1DVj0MWr6TgSB/SGRoPK%2bLMQ0koyUgryXb0rlWqUHWbI3eZiqc42kxRECTkpDeR6T1LG6hObxXpTt9MiQF9%2b0ulr06r7DgMFdeq8BTDoyV%2bHqzQhZNidETy3IaD7PfD7HbO5nPIlJBC96nwEL3rpLMm%2beVIVrpe1nreMHXGT6Obs6JEY16BjVeHsQq3CZDPv%2bg2xwEyxwCi4kZKHFZn1uIDQvQJLsVV6LY2XpFi1%2b63H2BhcyVA40UA9y0PNx1D%2bmNztEf2YQ63NvAp1JJYfuEEQEp5ccEZqcYYE5aG8wN3CL3a6K8zpf5Sl/LZhZdX6pp%2bUePdjABLEKj0XTYLzS1xfhCyICqoEslcFAD6B5Mj4Uxkmbc9K31LkWi9kW2qQgIXCIQUQ0oHiH9kMMwD6qcwxUA3e6ev1WO53626qBJ2sH/rqbeqD6e53cXsftwBHYB6RRXUVfoDQkR1yRJfVm%2bDEpUm86GUEyNaBRnd50PxOaR%2bpcNhW3/nqKpNLFEYZsi1PMmIA8NkCegTQLGyuzTdT9Scp/UV29C0RIDCAWa3HIa7Qj3k5Rp%2b7Mft6x%2b3nD%2bK5HO7v%2bnjJwR/lBxjxzVSRTLndPFsDMaU7RhaDSU/6FAXuzNwKc6Z0A1AE0wnEWuD/nNKc44VxtZEgZDmkP6wt4ChCx2S7ay%2bUidgYHnIfVBesFIesszns6xeIVgBEQsMYOt8vAiCZzuQgGmoaFqCUlpaW2v%2bF8nqfDLlHTROFVpZ7Hu7vuWHXdtez56mDnXafOpjG77HcvVAg4ujkp4Vxd6BEB8FlUaPn5oNLgQ3z8cMblZtwCYgDqAcPh6Rlu0fFj%2bYEHcoA6gd5gDwZXGJ6G3uydGdB7q1Msb1/2QY9EwA2CPpYeP%2biRtGd1PJA5AepKWC8Oan9yq4zw5TIY5PVuhQx9SnMsFrL1lIN2OmzvvT5B2DK755tj3R0eXfdX4Cq6bdN3ffQBl23Lpoda41hQDXTVPQnfsFtIgBrjzcYoDOagiudhEL9ntzAUj8zVAi01ghEb8CKsvfPSCAu1IGvNEMBpSLobnMJU8CKnpRFOSyLgwx5W563nw1F5EMOGrDA6TY45tUCIMf9WCmbj1kSZ%2b4aSkoC5WUHLlx75pXpqd6ty10NPUYtid7tT98NN3fdsn9bKrTU6rDud5%2buVCs/h7s7i7M7E6h7zSuPty8GGAM9tsosCD3QNPOfrlXbCtyDsqACQDg7D3pUZfDD3wPpEeBGcEMJHNqdwdmWG%2b%2bStMT8HcH6GW4xy4tjW9JBDAhQVoOADfO6urEMeScc8yVT71sZvto%2bODitfY3YWaze0mnsJzC2dHprKsaDuTRQ%2b9H5%2bZ/3zjn3CR/7UV7q5QXrLZoTBSCykFb1IANUWalgYrFYgFhULg/oGSwUCioYARqzmhwBjm6vysA%2bQxyPc4nUz6evgySAYzSBLzUAzdY714kCQ1SKe9WKeuWaAzeJglnrAStPTq0zPQEPmp1%2bJiqFgjnSgEKzFJwz7bylS9%2beI7ykO3J5eeU7PSt2fAXN0GuEyfknTKyMBTJHJMC8GlSR%2bLOEZQl5W45jNxxGLbOPPWujPWoSrn9kimqHJbKEfxk00/Uw0/FiabFNVjuk87iuR/RqYmxOoPyt4j/2W6P22MQds9jluMpgdOMxO93DOLPIratzBHP9SDfkWsljMsRjauVrwUq386klsRoiLrI8CDaQ7gw7TTwTmSGmiJa13F30sMe9qwQzOu8DcIH0qsEBOmz%2bi9xst0WLL/Am9JxZTm39a7aUk85YWleTz/R9qLRIkjHrlQxZ%2bMfuVXu0HG8AcCPB%2bRnUww/zU82aMOXyfXkj8gUX3sySEQNd6Wea9BsDjEbWuOkdSOVa3khfcTlmQwbNYsewwYw8DJFkqg31w3htKpHlSYPtu7QE86TUm7SBNrpk62SvTN30wxjiJH5SUzE4ufrsBpDE6K2iT2Z4fK5Soe3Ko6/tbFah78j9Xz/Ky2qlPtxaBHIE09WeyGUCqR3cOJc3Dmf5M89BgBttoLtt0gZ%2bRxjFcjXFFItf0M9PyB2Os4Wui6Wsy39dQxddgDkGseopkKqblSBh6HoJP50j6kKQBM9h4pKv7t%2b4Ayvmrl9Spx7rPrmoLmxSEjfK/N86m7ivfSlY3nUtai95bUi4Elx7amLTe8sIO98tAB47aERusI8m/8baNctU9sXdNAmdP5kqrE2vtT%2b3ffDngcIaH05k9Gy7uWhdrqc0N8s7cuS7moGf8ZscoyIOclhwHzvNyvQh%2btdk54FMGegAguuie8HSIWWt2DtNijczmDemfLngRVy8aW3Rr8cDzetmuu1adbUtFjeM7b%2bp2dazrumvb2TR2u82eRRMDAvZmCpKvA1dmXGkGisyKu7p75ZXQw/ys%2bJacxKvA0j7bUtPjGy6eKa8ovJ0YU5N2pf7K%2bcrIiOKkmJrNbufzM69dOl2VdL7%2bPK8041JzTHgF8Fleyo34s7VRIWUxEZXx52pjIipgUnb81fOBJXFnaoqzbl48UaU90dtcNfCl01Cd%2b5IB0tbizt5rY0Q3Tbvu2nXdse5%2bsLrrvqvoti3Q6EHXbUsVQ43nSPYXYBNw0kknAmsDdLnc4BQQqLlKoLNhmIGat7t5xLYVke7m4attTrqxwlZZH7fUBmLnOi4JQ2VDexopYuCQgLGkuTSbTTxnDkdS38xmg48u%2bskAABXtSURBVEdI6E73AyZdaXxG0gN%2b5VBHwanFkRmafFbqHfm1anx3u03PN/5d7Q7kG/ANze52h2d1sh4mB3WnB%2b50vwgsuWvFlfVWF4D%2bPR1jgOOBE/22p3N3Z3P3ZfKOZAQcSt%2b1Pna5eTh7f5rfvhQ40mGv%2bHV2p%2bF4KHEAyOh/cc975XvC0DqTGQF8As%2bY9OYPZ6SnzX0piJGC8sP0qcdqoo6dwtt2orvuwvb11CO1slNL9WeR1qL94jBHnQjUU7YLQ1Fb2WqFAlpiEIz9olBX0zCQi0movX4gyNEo2Mko2Nk4xMkw1HJ%2bELYLbg2gP/xPqO/%2bpPKG1iIgp62mX2PsIurmKPEdOfHtcdStsdfjFjguPMY055iGIalf5zBfOiSFEhgTNZJ5kGdM6YRDaIEfiCQiZVRSXDpZsV8pRz7pJyYpGjVWDvRfuyGTZ54VZM71WIf8Y/hqa5GpgSTngNlcHrK1hQQ2EuT4grTZLHUuEZA2ID7nNzJpNJPW4szgJYqhIObL0ntOYml37fXT6t0dkc9gAI5DSS%2bWy/wRI%2bmWvX5GzpOIvWjJAAhov4Z5SNP8TS%2b%2bMpvKy7O9VYz3RjVkJO8zNJtrMpMjkWbGUUNhBL4%2bKKPCM5nNIYOSn%2bGZaRADWBp%2b5lr%2bxAwJsc1U2CYzuRIxZjYlejalISN4OpNrMks6G0OIqBl0q3SIGHlx9ktqELGZHBmI4j%2bEZnDMlgSbG4eZot6bzjGZRa5IMuamYWZaQWSElsGVtTSEZRhqMocWm8llzfUzX8qxtAux0OWy1PxY8/1gDEvDn6UfwtIPNZ1FtIGKJoocUw0ym6lGIHgTyTiXZRDK0g0hAowYfnRBIPlRNR4tRkbwWyzDMNbSYCLDKAyxhUHmJmEytr7RFtYRFnbHbdkxjilJTrmp9qcuW60/g2fW287ZX4hzEqQ6xCfaHImysAy3cDphy4t1TEt2yk6xO37JcvVp/JLtvnMOsXFOeWmOcQm23hcsHUKt1x63D4t1zEh2ykqxC71kueKUuVmY9d4LDhcTnPJScQVvbhaOcbuwS45ZKY4ZKXZBFy3dTpqbh9scjHS4kojZHKLjrXeehxqWa07bHb/slJOK37UNiIUO0AT6OMYnQjcZ55J0TIoXJAw/1bko3bkojTDF6U6FhHHKp58KUp0ZJk/y1BlPBUReIlaQRl7BiJQhPBGjB0skYriVzAaGEcsjT8lbjFgBI0ZPMsgIJEo650vkoRWeyjjlpMA4%2bpqC5Sd6DN4yIwwNjgwOSm5TX7z4ihj/3WKpL8T4r80/KJab%2bu7ZZJwEsIMmMFjafAk557/gP4iwkC%2bNMPp9NpJxSb/imnbZNfWyiyDBZvc5RJ45K5xlEmasH2xqGALG1CiUIfBmxoQxo3lmECMWZuGIBJCFabiZcZjhsiATwxALTAIE4XzCMTOF7P7nM8At4YJbYqRb/IXlGZHWK8JMp9FFyXT/VYan7RaEmikHWKkFWagEWqoFmc/jgXBrqRpkphSAQWv1YOQy3Sm%2buGIEbxnNZG9zjLXXCkOtY4Z8tSSYhLIgVeIVn8MA54w45%2bxE58wEV0G8zerjSE9IulWF7f19A9999bP3ltR//Pj77087RcKe2IjK%2b7e%2b7%2bnp67jz94MeSb/%2bInz%2brOvXn5/7bE1D6YTTA4j6Uft/9fX2/%2bOHpxtso/Sn%2bpnrhcIAF0GKS26yCz/ZmZ/CEHgQfl46mPzayAtJXN9lAHF9UG6qc2mGzYazugrHNjvGUBSVFX8VONlKI9h/ZyZur5yuXs069/u/RKX8216ul1CLicXio1tS793821cPflw61ReQfZ3F%2bcy4lv1rE3q6%2b4C6dSZ4W%2biHOWUk2wsybHMzQQ656Q78NPvcDLvcDJvcLEd%2bGgbt%2ben0SCau0JUw/Aw8grBEIDedse0tBkiTABKTtccZo2ls20Wh1%2bqeQOk71/%2bKSgUAGDzQP0Dov34Vdnf1VRXe278uYWBA3FT1UPS8G7dLphyzUAvUVfSb9b93pcQ0Qn6by0Xdyb4W%2bqEOGSke%2bbHb8s5uzz%2bzKu%2bKuyDBIy9mY17UroKTbvykbQXn1uZdwsjm/AsYhK6e%2befX58VC45WCOAjgrXV5Fy1yc9%2b2Dy8ZgPMLLsRSC0QdBI2hR2RomblaIBjf7eksVR52oDCjbbNd9N7V8b29/XWlD6LDyp2WHmc%2b0%2b9flxgZXAbg%2be3jf5QL7iyR97HUD7FJz8ioXJ1avi6zclVhlXNW5craGgt%2bpXtu5fINedEYAV9RbVNWbddca7JckJBb6Q75vErXq7XGeBpXvimk5Ci3yJ/Zn/cYwLjQVpfYp78KoUR3Vy8qd3v6f5Tn65UOS57%2bJoJ73Gj62tszFUECH5s/9iAKFJZq4LJpvoc2JEHyyYMfcb0QUrZ0og92wD4j9XKF56mS/RElh1Iq1ieVbxBUuh8vOXi0MHiVIC6rclVs2bbMilVx5ZsTyjcuF8SnVKy7WL4Vt2kVa/AosmxHVNmOK%2bWb4XLvNwA7YDyNDZ/ZuyruDKd4i320/nR/5J%2b9q%2bIdtSPM5gbscL10yCNpz8o4R%2b3w3SuuOCwKJ1ifQdRzecg825xiU6Ia/LdnkMY6stCyUJeMRK/Cc1vzz8EfXAVJ8BPo4Zl/AY4BddfkXYZfbcm/sEKQ4M5P3JQftb3gzMb8qA15MdAKoYJBd0GiIz9tWDFgtfEMAZ5qPN2ZfjpTfQzmAGMGmqoG4NZ4HhfoSm%2bW/9LpvsvoWwyakK4Tb5BY6oH6c9jaU30gYKZO/nbYzCDMLTP%2bYFHY7oITrvwkuDsYOPf%2bwvBjRbwDhWHHigLYxf7%2bxRxusd/mvMh9hRGHC0OOFAUfLAyFOw0rjb64EaQ6piY5xCU4JCS5XbzoHhXpEhfnEJ8EJOeclOyYkMgwDDkmJJFrPBkcSs6JSYyAA%2bTjEh0TEx1zSWZ0pH%2bCWUgXfooDP30wSzrxU1z5ya4Cki5d6WQKU7FdUsVShm0An4AkAsjyUtxSo0FgnD4WULwbSgx686BvMIzUztR3%2bMw7DaDJNe2SW%2bIFQAwn/mdHMp/gJJYcZJLjLAW4CNq7JUe55ia%2b9xT8tzBAAiWyErDkbsnRgEbLkyOdcpKtc7Ot6cPS9e2n4L%2bFAWS9AeYIXXBLinRLi7XKznIVpOwsOANyFyRZ5eYM3Qfnt8/l/Panzp8dTqdfdsmMc8lJxMKHlRx8UqdCd6fHf12verL0wOAh4pCb4phLGFydX1Yaj%2bxzUxxoGqqxM4lIMsiMONICjlKBwdch4yid/CNjAJjRkp97vGS/%2bPo08QOX7gcrujvW9rfOo5pHny3ba0n2IXl1Qdby/AxkRldBmm0OcS37nGS7nGTotCI/c11RzqqCrJUFAG0pNtlJ0Mk%2bN9k6KxEqri7MsqUlnQVpK/IzXARpzFsQIIP81OV5GZgT9KE2yAzmNeTmlYKEv9bN7G83Fz1YL2qZ3nUHjEd3w19%2baJyLMwhI60ht6bH6Ct%2bGysDm2v01JZtK%2bN51FaCdFYW%2bDRU5j%2b7H3LnBf/wgrv3mubarCe23wJxubcnoaPdvrNpeUUDera/cXVnIaao%2bXFd2oLoEU%2bHdnRUFoVfrj9SWgRw%2bzgAkHPj6kcLQ3saRoju2XbdNyP/y5aYB%2bQdLT/b3t4zHYWmRk%2btRnLW7ssirPH9bef7OykIs%2be6qoh0VBVjglfmZ28ry91eXcJtrglpq/RqqDtaUHmuoZDdWcZuq1xZmby3Lgw141y0vHVfYwGuuxSOMby4V7K0qxusbS/jOH5i7XxgAJzlaFNzX9GXnXZuu2yzRNZWu%2byt6nuzu/v7cwFV5TpG/eU7u1lL%2bnqoi/J5nqWBfdck22pItpQKsImzYXp7vUZwDhWAVFPKuK8eKwrXwCkzdUJy7vjgHDG49inO3lxfAWte8dDgbVt02JwneaP8xMSB1ISCnDfmx/6yf1Ntu3XnXQVg/ovOGZlfHxq4m2d%2baFAG/bHIyDtaUYEWx5Nj9wJbaQ7Vl7EaykN71FdD7aF05XAWGQUVo71NfATFYi8U%2bUFNyoKb0CEyqK8OjXfCixmoIIKiY%2bHb%2b2Ez14iSmNyE3sXwN1Tar59G2zgfrOh/t7LypTzX/Z2blGjgYBBxyk%2b1zJHmGySf2DNERiaeuArqlI0hlQpaRsctJQuzS6YhJVowwedHxDx%2bUr0IJB35GesXK5y3Txdcni69NEDZNzKlcIcUqQ3/snT8sXdQXhwBszk35PFDitSFrfvaOgjMRJQeOlxzYVXAKh8C/MyiSedOpmYxSGmUoyJaf6Uwj3v9JBjAxzfQ5/geAuf//DCAaWxL/EVjk8uFFQ%2buPf3cDoCjTZsKxlVa%2bMq18RUCxr0MuRtL/bW2QGao94BDQf3W1Vd/VKeKbauI29b4WhYYaFupre/6/qQ0vGWCVm11Y5UK1fPH8mlrvv%2bp6nzY9b9XBbWW1LYOoh0Jl%2bpryItmToyqNwdWDOPnVp7mS44%2bcm/TR5iy9uggGi2Pp60Cm9Jk4qKGj9MXB6vklKIHU6Zl//l9NMzqbxnU/2tL7Lafnq4N9P/M7b6g9a5q4s%2bA0bFhVkEGfrMnMlbRuwEtxtQ09DlSHW/CANyDyiEbXIFJwC9KAt/GWRWa8dXaiRVYCgdxgMuOhOpmT1tI2O8mK4PA0GpZLzHalQTheAe9Cm/cqmPMpChpoGim6Zdzz1YHO1oUAQj3fHBPeMhU3fRFQTMCcb33ZoZrS9UU5ADMAm/4NVcCbm0v54AF4AIGA2PZVFW8tzwO8AwOMzW4AOioGhgUBe4JP7bh7qb3t7M1rIVfrI29dAy4Eeg2/3hjXfiv%2b3q3waw0cGqKCuXK3LerW9ZOtTVG3r1%2b4ee1gbWni/dvspurzN69CAEY6DzEgBbXY/sKIzobRne1OXffcum6bdrU7dN9f3nnXvrtxlHdRMCzcVZkPDTzL8vZUFQPcQye/hkoozSiHCgEFjVdFPsw7XFsGq4DhwOyrIlcMAqKuKcoJbKoOqS%2bPvlrPqcg/01jpmZuU3X4z4WZLSF1ZaFM1kPZBWljwpON0azMouKUOJgGfA/aeaW2OuN6IEYBfexqwDMYAKfOwDx31iwZa5ETfBHTdX9XV7tz5bWB/y4Sv6%2bcz/T1mlwcrKTtpOWZP42GGJ4iNdi2GGJyH1bLDK9mJzmmXHBMu2MedAznE43rWOeHCuvTLTmTwLEackmMcMuPtclOwFngXjgQvIt6YnYRfsaZviV9JkdVQNEo2waco8FkTYNzk3vuuIPG1KaKmiZxiNh4xTXrnVyltMOaG1iJDZcgHSYRpVoJbcrR7YqQ7rsnRy5OiCIFPinLB4OBtYhR41OjAtkxwDw13wtPMm88BFzoR7SuMaKwx%2bXvdNFBLrdGhwlCrnOw/lEOhRMYV0vhIiiIEJjnaNe2SS2a8c1aCc3YibHNNv%2bKaEivpjzAyqReHA2BfPYldaCRnx89cm3dlXf4Vez75lOLyh04AaB9HGjaMWljvjDii2WA3jT/IpBJLUmKkpka6woaPwEKwwU2QRHs8sl7SH2psYbuzE4csfAxunQRp75Cnu4OXBvfBBeEhSPtgMMe40%2bsL7/zOuZzf1MNyTZauaHK0E9L8yzM4v2FmshtDbIgiNn/oDjAlsl1uprQDLq3XpL2nwapyqCrMUwepAIm2zHjo4YqgTIx0ykyAZq90TRzprMUcdkO9DvuA7WI24d2O9HoMpMDpbflZHnmxG/JjEAx0/pHMTtonBZnIoW556UipawqznehWFFPs4tY9L92jOBfXtUXZyKHuaRfd6Azjln55dWE20uKK/IxByIDbVQWZboJ0zIDa3zUv3YHuhdETSoxn3M85J2lYBjDaI%2b001xh%2bX6/093qlazV63kWBg61F77ry0Kv17MZqHKI4C8Ou1ePw2k%2b3KnzqKnjNtTsqCnC0cZtrQD61ZUFVhaE1JbyKglNX60/eaMbhimMIb/nUV3iW5nGbajDPiRtNe6uLj9SVH60rx4F18kYTBr3rK5bnpbskR0siITPubZHwUlcCOdSviEP%2bl05tc3ta54OoNtXulim8Ih%2b6KwE0kr4iPxNH76YSviu92Dg4ceJg/dYX52Bz1hQCL2VhK9YW5WwpzNrJT9mSFb8q/ZJPXTnOUWzLuqKczSV8bCDEsAQYofeN9BXB7KgohG1rC7NXF2S5wAAmEmBA2qW31eVDT%2bI0V0HKw1o18X0b4aMdBE3cXy58sFH8cM03DeorBAl2Oak7KvKBDvDzpN/WXA1tcHuktsy/sQpX4IUg0iwqBYjgtdTuKMzyLs72LeUfKsk9UlcGIzeVCA7Q24UroIFvfSUM3l9dglusBd1KKmeAE%2bNFLlIvekcYDG0tZh8oDO9qkut6sLbzupqocRzOYNJg7Njce3WaT2GARU6OV7kAPwA/Bm7DjmM3VhRk4vfgOVhOqAJmZyVgXNG28gLXjLhtOYl78tL2kg5k8boi0l0EyMOmYaXxFiQ9aBy1vaJgUyl/d2UhpsVCQMCRPihwzEkMSIkdVmvRpzBwoHlM5/01ndeURA2jRY2yosaxnQ82UtcmBRQdY%2bXkepbmApDBB7BydH%2buFOsKzeBUHrRfgccC4%2bm%2bmpJdxTkwYE1K7OqshD3VxVBuRUEGxOAk2Lq9VcCnhViCrWX5g71rEHAOA9SdBC/i%2bP0GSOuBC08b5Hvuu3U93NJ1x6L7/qruB%2bt7Hm4RNk3eWXDKOidzf1URr7nGu758W3k%2bLIEqCLtj9ZXYekQkEC%2b2hWmJ%2bsGpKgv9S/me2QkHirMhdvx6I4D39vKCAMxQV04ilQ4MRDY2hIH4LlK08zIAiXy/C0mBUI6g0p1qHiF8tPt5x9bfr2n%2b3rqMuiZfUmVvnZvjRH8fwOLhihDcQtY%2bB4uNVYfewNggJFA6jjP3VZccrS5Zk3ZxQ2bcpqz4lXnpSAB4BEI5gSgCOLWXnhhva6m7pkrQEfni%2bN4sRNfEae78xJpqy/7msTCDav5yoHlUQ43pSkE8ymXH3OSzbS05j%2b7zHz/Iffwg5/F9XNM67kbfvk6P3M9%2bdA%2bDWQ/vpdy/U/LN4yzctt8U3LuVdedGVGsz0mXek470jrt5Xz3EdgEnu7z7XM9JkmCQpEjn7IT3GzDYlcAB7FsUkFC%2bKalig38R2550JSR/aIGVQ8pDuoTXLs/PgAfjinwKZhWdQ1fTy4%2bqEoG%2bHGLZCYiBVamxq9MurczHi1lkPC%2bDPgffB2ClaALw7h2tQZnXW1pMdY%2bYBlkRz0l55X3mY5Yj82GLn/JihPn%2bxTBM3Z2TSHAEDSVQyjhIJd8PAZF/pACWoFdB2oeBORdpZ87lD7ZSAMvSr7yAxxlX3g0tXwDYZInz0Muf%2bjFo9JMR4PEQiO%2bSdtkpN1n6p5KvYWmsHVInLSlBQQSKpv23GgBYlpPslhL9otRKjkZ%2bfBWf5SYT1ZmiTBq7Llnx790xmT%2blfwZ4nEwqRsm6SuvG5BgMklyZIkHOQ7SPQhi839/4qf8PL5A3L1PwCvAAAAAASUVORK5CYII=' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch_quer.png":
+/*!*********************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch_quer.png ***!
+  \*********************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/png","src":"/events-assets/static/DMC5_SBS_deutsch_quer.42db587.d2a1736fbbbe4b10f49ea0148b91504b.png","size":{"width":2560,"height":922},"sizes":"(max-width: 2560px) 100vw, 2560px","srcset":["/events-assets/static/DMC5_SBS_deutsch_quer.82a2fbd.d2a1736fbbbe4b10f49ea0148b91504b.png 480w","/events-assets/static/DMC5_SBS_deutsch_quer.cbab2cf.d2a1736fbbbe4b10f49ea0148b91504b.png 1024w","/events-assets/static/DMC5_SBS_deutsch_quer.2665e34.d2a1736fbbbe4b10f49ea0148b91504b.png 1920w","/events-assets/static/DMC5_SBS_deutsch_quer.42db587.d2a1736fbbbe4b10f49ea0148b91504b.png 2560w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 2560 922' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-b7b48125be144f8a2f5e869b8f99afaa'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-b7b48125be144f8a2f5e869b8f99afaa)' width='2560' height='922' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAAAXCAIAAAA0gN7GAAAACXBIWXMAAAsSAAALEgHS3X78AAANCElEQVRYw41YeVCTZx6OFqq1tU512%2b5WkRIgCbeiFeQIhEA4A%2bQgQLjCJRJARQE5JRzBG1DkJpCTJIQkXw4ghMti1d67O9vZq7PbPdruzE673drhSKzN/r4E8Gh3Z2eeeef9vvzzPO/7PL/f7wvGgmDWNJjvlJgHCjuUmFU1ZkWFgfdW3SYQ9PFJrCOYhzrMtxPPpwdVRXi2xxDqovEO1EYTmqJwtcHY0ihCC5nQGoytJOF5sAFEwYpvowQ0EYOouZxMNoMb4XEhZVBI08sTJKJ4mTBeKoyXCJMUYqpCQlWIacg4TYsiVSt3bAApWvlpE9Jo0pfPIKnacZRuH5dx81yzkNc8VN8kaGxuzeW2FtTNtQUA0QcqZ8CKertDzzMC4CdaYE3vufTfTeV%2bqOZ%2brD35MVL%2bkYL2kYp2R8hIPXw%2b2qs9HH8uyquW4tMa48WL8QZJLWRcR1xQZXQMub7hfElad0K/KLmmv7JCWtesqmtS1fMmC4oEHM4Qp3A4eXg0zSBjaqRMRMLQSu2QMXSyzrnpiSnjwP1lqlaGnv3ZtNbe7j9fb/tANvZnQd8fqCHCUs694VOpS%2b04Xf0RZdXxvwhe%2bd6AWVE/t6rZ/oyAlIDzpr4Ym%2b3qo28abWt9NuvYD5/H277J%2beoPZc3slK6yHH5hRldF0qXirPaCLH5BFsWHF4UHMXxKJItMiSjmlDOkwqScHuWltwd5s7rBd2dHP2hgiVpyZfwzxuwbzT1L1Z0zlU3TvFuzFbzppqsz1V0zZ2qmr2RMa9L0ylSNDPWP8EzcYHVFV0muqL68u4TTRKdfKii%2b3eHztXznF6KXPxPs%2b1y056vxXX8X7vmH5KV17TZUgHZDAD2w5srJnGVRtulWqnkw19yfbuoKXhjORq6z6MGFCYHc5KNcRignK7wqi1iVFnze7qUWMp5PPnTGyxt30HV/ouBmcouAc3qEzR3MPjsaUTqApV5knB6mlQ%2b79Hdn6AeL9QMc3SDXcKNQ31ei72EjY0ytOEUtAfbgKPQ4H%2bkxVg3me3CIfbVNo%2btDPWbLNkAahf3gf5yBELdLEe4XItxbwt2aw9144e4dsBKxLSR8WwSuOdS9/ji2moRvicK1kXBtICCagK5wDyGEQg%2bsd1xfJ9M0maAWeU%2bM7ZIMvSIbCUKk8VopTSfDK0UvSgSJGjlDKwfrp6KrwrHZisQGIatu29b6DFANuv8dYj7R/WIY9mK0V2u0V9vG6t0e7d0W491O8eYDyIQ2R6ajCe0RuIbAN08Eu5%2bheF2NwNdR%2b4foU6qXxZI9kjHipDgNkWcgcgaCUszUKTzlwlckAggrAyX9mPezAuCA17Q/wf6/YVOAM%2btYVSSOf6WEfekEG6iTcHC0LYBIzxaSJ6w8AAnHi8K1QKBJ%2bOYg7Cl/F47PAXaweyVcRTShNb5fetbcfW2GU6zjMxAVTStL0aCgI3IwCeCATPC6DNWQYvfMTwgA9lZk2yMDxu7vp6Hb/hiOR2TbloDvJp2S/OovnmDb/hRq%2bxP56smMxKO92dHd9OPXSuhDXObISfpQRcZoKWM4J6Yn2K3S/yDH90C2n0surHADMSCJ0MYa6PvsQ5Ltk7C/vk/h6AXl86ZSs%2b7ErK56ydR6b4l3d7FmyeSrUSRMac4uTBXP6nKn1KlPKEHjCBVmDXnuK5nTIyPGon0amqehtr/cDDEISPSr7yxLt31Bsn1B6TnNTDo2kJ9wsyCpv4g6wInvzY29VZwykBfXmxh48Tj2XMDB/E0BOXYBbSRCOwj464fhtk9Cv/wwtkA/XGgylpr1JWZdkQkpNRsq5gx5MwhBLc%2bcRopmtHAt9KeNhIb130rnRkZ2WUrHvasEm%2bn5tam9FsOLFsNLFuNu6%2bwBq%2bmA1exmNb2BbuY8rMaXQcM6ss1hobS3qshe7V1lGZ1lmbG%2brWQv8H2bIwlke1gdkYANxbsD7WvulQHoPbCPu5%2bBPEQTWuL7JefMN2/OliaoWlO0E6htNskla2Rp2vED4wKsfDQdkaMWsp89HX7dvASMbQZz/4obgyTOTjY2Zxba5l%2bzLB2xLnhb53HWxYCH7xCti/7WBYJ1ztM662pd9LVO73tCABriYNdLGSFVrOBzYVh%2bpGdzOBYqUvMWiABsc4QHD/aRHjwyvp3o0RR48GSQ22kQACU1aUDMMo6zNR0HZAM0rZKpRX0P1KkaaFvjYSrxC6KhRIiEoyXroASNJ2tlNJ2Cbg86egP/UjhfO1HCIV%2bAzmWbdVrTw/G/YDHssky9YjG%2bZEGcUOeof9pCyQF1NaziH34bafkkviatKCtmpDJrjE2%2bwYnvAyPlJ/TmUm4VJPZlkrqzyDdYxK7EwxfTQjtTg65Rj11yzBfUAeHy3UTbpxnv3k2OnBxJ0qkyjaqCaXX%2blDrfOIlTSSMQRf7UJPBO1EhzxMMiPcIzapnioUzZaKpOgVL5wQhnuf1LoTPcBsrymRigqd3%2buATZX6ICEMx3KqdE3/qhGrrt8zjbF8yh82np0SOncnq5TAFYv4w1cipztIQ2VMochiiXsQTFqYMF1H54U0jtB1XM0GskPGSg98tfkmx/zPr3R8R4pCd1YYEyo0tfMKXPGdPMxowlc9Odherbs5mGiSKdsun61euNTaNSSUpfF21SQkPkjmro1H%2bKcyG36eNuV9sM1FMni87ZDid75XFCAXei22kx7Fyf2bk2t3t1fo9l7sVvkV2MIzX0Y3VvD8cvDNCYwQ1hng0BrjnBHqcgCbG%2bfLQV%2bLRDBii%2b7RSf9hiftjh/PryP9ePHH%2bqA1Z4B6fWFut/fTxw0VzARZbpekYTIY7RyX6UIqxTBJh1RMBBFtmGCo1VGDvcVX7uS19PJkAnQXqEZR/vue9dxHKr07InFy3nZtsU3LG%2bHPryfaF06bF06ZF0Osd4%2b%2bvBeHLh/7TZ27X3/1Tuvr97et7K4d31539cLBzJCaoJcLsf5NlJ86onul99yrfDfX3TYpcRvf36Ye32kRwtYn%2bRpDwCsHjyiIxX2R2gXYKHkAWGCYTJbfStJA11Wma5TpOuVEFm2TsnWT7B0CpZOmWlQwmG/Oj7qJB19YXz0daXQUyGkqNGQYL7XY/4pe7GaVl6U2PX2pQCbaYfF7Gld9LOY9lug8sx7WsxvwuPqO9iVO/vWZnaid7JpoQeaHamBtfnRZz8z%2bH2K%2bBdTzsW%2bxUsNv5AW2p0Q3BBxqIIWxmdH9UBbyIy6ASuL2JkR2c2OugGPEAZ7d4NGJpEsc79978j07ax0nZw7ZyifN5TNGcvnjacWpgCVizNVi9Px01qCdgKvUYQYta4qGWa0P0ApYoGFgAq0sG8UO/8m2A0b1OWazchu1v7V%2bV2ryz9Du5h2IwlrWrSjoX3Ap36ogW77R5jt8yDRBUZKZHdFdg9koLZIXsrq5%2bZ1VuRBJEaq8iSQB0hCXuwtTkLfiZRBRsh1uJkoLz4TMvBrou03kdZfBVcYbxbOzpSakbI5w6n5KUCJWV9m1icZJgN0KoJW%2bZpC9DO5aJdkBCMc9FcKYe6wJ1KDJgGi7Jg0Lbqtjose9trMrpW7%2b9f1Tlvs0fnPiNbfB5PPpx6uLYAbMJE/NYQVxZwJfLOC5F0b69cBnYsaeCXOv%2bM4viyYwI3x41EDL8cFdER4bNRWEs4xGrUm9Itld8q%2be//IzFIaW6%2boX55rvDPfsDzfcnexYXnuwjuLdbdn6bNGL0S1Rza6E6iPDTwnGgIBPgq7gHWj0/r0jjWD85oG8yTFrZqzuvzq2vzL6FVsTEHbHukwvx569e4tlwdyTObxs8Gul5P8axP9G8Ow7dBriR710QQ%2bzJ7hHo3H3GDyKQhwKQhxrwbDROF49h7X5mhtDiQPiJINynykF8o/DJssewaY9hXcD3BsXpWNOqg7i4edQMDYIF4%2bhgpYufeLlfv7V%2b69sbq090mTbFRM/XMr77y%2bbnR%2bXP71279WOlVy2edq2/TdlNSjDSR0Tm4n4fhRhKZDroVRBF64Z%2b1Rt5OHXPOPupUScXUwxtnxmPSTSBkQ0o3yJLXKPmyiDSvZPsM5RjrHhqGRRU9Kd4iH4eABIGOvdCREJUFDvHIPZY/iXRdUw9MCgDoIsDsKfL8NStb9m3vri49cqYq6ev3G4LAy6a0OmDrhW5Hi3UbE1fu55B1yLTp0sACmzkh8U4yd%2bsZHzE%2bx3xJA10jp8LmoHYfawkLH6XHHyOAAdDGoS8cmxLslI3jFGGlSAi%2bZ9veYDfYb%2bMXWYf9YwOYIjRG3BDaeLy/lclubmxMC0RHaPvO0h3mcD3QtCfWohtHfwdv%2bDfBfqW8JoKECUMbu8rEd4iH38bEkmIKQZ6d/oEvVoLwdkhwj09MC7r8BfeopAU9baE2LsU1h5gfJp0/Qc7KYOdn58YfB2RtUouz/PjxBvfX/AfQBhlGeqJa9JhP8XCaIVUsPjo/ulgyHqsT0HwlAvwo2qTvwHym8R4CdG92hAAAAAElFTkSuQmCC' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-en.png":
+/*!*******************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-en.png ***!
+  \*******************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/png","src":"/events-assets/static/dmc-nov-21-steps-en.42db587.96403f22e35afe07b1de3a67b0c06d6a.png","size":{"width":2560,"height":934},"sizes":"(max-width: 2560px) 100vw, 2560px","srcset":["/events-assets/static/dmc-nov-21-steps-en.82a2fbd.96403f22e35afe07b1de3a67b0c06d6a.png 480w","/events-assets/static/dmc-nov-21-steps-en.cbab2cf.96403f22e35afe07b1de3a67b0c06d6a.png 1024w","/events-assets/static/dmc-nov-21-steps-en.2665e34.96403f22e35afe07b1de3a67b0c06d6a.png 1920w","/events-assets/static/dmc-nov-21-steps-en.42db587.96403f22e35afe07b1de3a67b0c06d6a.png 2560w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 2560 934' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-604bd91072c9f1ee5acaef203394be9d'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-604bd91072c9f1ee5acaef203394be9d)' width='2560' height='934' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAAAXCAYAAAC74kmRAAAACXBIWXMAAAsSAAALEgHS3X78AAAPc0lEQVRYw3VYZ1SV6XbmR5IfSe6N2BApgtIEG4jKCAiH3uuhg1QpYuHSxErXARF1BAsgvUsHKSoiCmIdvY5mMisrmUlmJTcrNxkzMxQP4vtkv%2b85FPXOj732%2b31HXe7nffazn/0pTT1Uw%2bSYKt6OrMZPd1ctxC8P1uDn%2byqYHFfF9MTahZiimOR/RxFT44vPPz9QZ3i1Aqejg2d3qhcye4OjsNE9ymx0M3gWYaufCTOteFjSOzuDfOzekA5znSOwNciDjUE25WzY6GfDbmMOJCYxcLB3RPz%2bWGZndBgO0SUffAebZW5NtTKn%2bmqZU12VyI61VTKP1jqZS0ONzLOtXubV2Sjz7ODRJPOiPB/8nW9Xiyy9v1t2rK9TFnuzQ6b0y4O1KE0JxcUjuajMy8O1Uzkoz85F7r4kZMWcQFehMxWpip/uaeLtfU38ck8dslEVzIyuWSh%2bPgsAvlmOU2ERswnO8ex1txRP2%2bLZs/b9eNYWi2c3ovCo1gGvegKQ7hcFc%2b0zsDfKgLluEux5wfo5VHyOHAS9HDhsyoWNhReCwvyQmVzAvFKuwbW2BiERV5F%2btAXHstqQktGMo5lt8JVewoHEWngnXIZXdyOknXXw66qFT2eDCGlXPbw66hHe34LL3e1o7O5CwdgIlN6OrEFyYC6unP8OxTkTaKz8DrVl30JqVYW4wLsoSY3HnUs70XnGFi3H7PFt%2bUawO8sxO7AKHwZXCCDmQRAAvFbG8eDo2axQXwZZGvA2n2HyAjBTTufjwD/vAObycDXFBRkBMShKCEaSbyDsDU/RrWcTEFmLIOjmwdE0FVYSS%2bbv5YPICxeY3aXrLC20hrWVjLPrp%2b%2bw/sqnrLt0nIXvvsBqsm6z0JhKdqTnODs/kMIK%2btPY2YFUlt53mp7/wIro3fmBJJY8cJEFDPQwaVcjU/qVGFB%2bJACXjx1DYWIiKjIzcO7wIaRLw5AdnYTeInv82K%2bD7%2bt08WPTBvzn4Hp836uP/xlZBxm1yIf%2b5QsgzDMgMyx8NsY%2bkU3USTFc5sfulvthpDIcw6UWuHPFGQ/rQ5HkEwCPHXHwt4iDy/ZoOG5Jgb/ZUUh3HVkEQJ%2b3RA7MTJygpqIMs/hIeDW3wDe2FFFJlQiJvYqQ1CoYBxVjk3cBYlNrYHKoBCatxTjYcwkx3SWI7i7F3q4yxPd8hX307N9ZA5%2bOGri31REjGqDENWBmgvp9dBVpgQp%2bub%2bSbnM1ZE%2bo9x%2buxvQjVcwQS%2bYGVy70%2bq9jlMcpT6jh3T0CYWjFZxpgqnaW2eqdgET3JLPakIk9609ij04u9mzIFmdrvVwKeq97DF9sSIGV3jHR9/LCc0TxNvpZpBN5kBgeh6HGLuyM2QvpQAe8O2the6MaGk3X8dfVV6FG2aqzHm5UlAvR/Xd116HTWAX/ria4dzSBep%2biaSFID%2bjfkIcSL4THh6/X4P1TfpPqmKLg76bG1alIdby/swqzd1djcoK/o3goD0H9sbWiFaZJSH9%2boCEAyI8Omd2l8SWz1suDmWYBk%2bjnUnG5okB55C7JeUT7fHHmtz1fPD/z4jlAEoMsSLQyYRubD/%2bBFuwiFihV1UKbinRor6dbbYKfoiCe3ehm/662HEbN1QjoaoRX53zBDQshB0EwYC0xQBXj5aZ42bAFsscqdMNc/dcIRvz6kIC5tQyyYc4AVQJgjfw3EaqLADxYBOBMTPDsNpUitt8lEYWx/sx160lY6ZDI0Y1L9LJgrZMJS%2b1TxIRTsKTYs0F%2bttbNWihcQre/a/1hbFIPI5FMg612DpwTSuFNInai7zj2dydSsbXwpeI9CAQenlS4G2UvCrsbtfib6mvYSiD40Ht3/r6jQQAhz/KzEl6swo08G3jvLkWitARPq7fjw0t9unl9TD02wOSTjZCNGWHujgYmH2/A1CMdCl0Rk4%2b05S0wuOIjDcgO3zvraZLBfhrfCfxgw/qKneGwuRD%2blufgs7sIQZILOBBwHfulFUiQliPS5TJiPK7S%2b4vUMtk0FtOwVTMKRuqhFCGw0DsCe21iQdw1nBnOAPvaDHhljopbCfDr7UXcYAf2DXYh8XYvssbuInVkECdGbyGgvwPabQ0IpBxHv/t2NS2AsNACeLECl5KCEOzUAS/z6%2bgpciCllmDyuQ2mX0gorDD9jTs%2bjG7F%2b/uGmH5miqnnuzBF/4mZCSOwAWUCYc1nYzDY4jDDd6T4/%2bXHnjeYw9WkiAotRaTrZURRJPpfR7xvOfY6lsDF%2bAw8TAtICHNhrBkLQ/VgcfObNcIFCPMAWMeVo3TkEPBiK/CPNugaiYRUANCJuKFuJN7qxcE7fdhPOYmyFdF8Zf11SLub4U%2bxePtLAHj3WBX/3qdDXiAC5eleeEtzfmp8haD/5Bj1/RgXRxLGB6sxN6RMt72MWkIZ74eW4QMVLxtR%2bXgMChEMmTVdW8iKD4Sir9ieRdmnEL3z4bg5F46bqOeN5P1ubyjPEqI%2bbw0eFrpHYLxuHwEQSgCEicwBsNXOhmM8qXh/LRqHD%2bPcYCjRvoRmfMsCnXlxvA28OxrEmevAjpYaoQseinefgiBE8MPzVfjXLk389201zD1TESrPtWHyI6Mjj5lRmhB3VejWVYUgzv/Oz/MAcA0wXlPE7AxOwdM4le1el099nyX6XUwECvlkkD9b6cifuQbYkGBK9LJhpp2MzeoRMFQLIgDShQa4JFyEy812BLVXYkP9OWxsbkZgp7xoHh5kdHiv84L1myqxoq6CNEJeqM%2bSW58PMQbnnq3Cra%2bsqRerkBxUgH9qM8Lscx0qbL283ye0KetR5s%2bkAU83Ue9r4tfxlYId3CWKybDAgOXIjQybtdHPZG86bfHhW0d28VAQXEyKEUy9z6kuNT8ngmuBL2kCP/vvKSZfUACnLfnkAPPgsb2QWiMfO7QPEABkm6kF7OKv4sDgWfzpsQOmX/shtecw7Ds7ieJNCOxuQXjvDRHeXc1Y3VQNJxLIkJ4WAYorjUi39jpxXiqISviabmzfXsT69yFWeoMo6wT8WyimXgVi5rWUwh8z33hh5pUbnf0w8yZA/vzSHjN/dCVQ1svZQSPy5zGaAq%2bX42Ro5Ow%2b%2bwSGH0is/hTF3rRbQ2pxHun7KnEwsBKHAquo/8uQEdOA1Mg6oQdJodX4AwUXQy6KfiSY3mZFNCJpRyCHaKdFbImrwJWRBOC1HelUEDqGXaHd3oU9fW3Y3dMG98FuBFHY9HUg8M4A8sblgnjozk2kUz58u08IZfytnkUGzD5RwZvWzUgPSkPRgVj8eVgbM08NaQIYiSkw9WQT5Y0K5deTs%2bIx/f50G6aebcP0uKaYBO9IC6aGVRleKiMvKnTWQjuPjZY7489j9iwnMpbmeR6%2bMIiDmV4inLbmwXnLGbiS%2bHEB5LfuuDkf7sQON5MzFF/KxyVvCb4gcYNEPsAh/jKiB6/gm3EP/McTGxzvy4ZbZxs8Sd33tDdgc2sttGjsqTRWwpduPqS3FcHEiMj%2bdnhwZvS1I%2bxmGyIp/MgfcK0QGjD7hC82tOBMrMYMOT8hgOMKL7CQ5SF8AHmD6dGVJIrLwPpJGAdWCDc4e3MVw%2bjfoijCnxmrFjFLEi6HjRmMTBEsNxyD4Zq92KIWg01rw7Fb%2bwiJX47cA8xrgkIHuF7InWC20AMOgEQrC64JX8H1ZgfcbtTBp72CTFAH9bhc9PwUJmheCOd9Af/Njuj/V%2bQJlCqv4He1ZVhPAJkRWJ4dCiMkFz25I5xc4vQ%2bC/47UZ0rP2gH4A6RG6CPtsEXyjgTGTRntu5L1pLrhFdNW1iqbxysSfGttx2Ep%2blZWBmmY5dBrMge9Oy5s1D0P795ByNagDbnKXK%2bmBoS7gyJAY7xpQgZqMKtu1K8fGCPpN6zCL7ZjfihLkQNdCKGZj33A3wkJhDNDxLl4%2bnZlCaFTkczdNubYNTVCtXWenKSV2FNwCjJ1X5p8Ws/BuKTlZdTHTeV5QvQhGIKKP7O/91f1IBIyUGGfzEGvjdjr29YwsuiAIl7zyM5rAZx3uU4EFSGILdsJEWXIDWiFmkR9TgcXIVg24uIcC5FmP0lxPmUIdyphExUHgFwUmjAhZFk4I/kL16b48F9KUL6%2b5FxbwDJdwdwePgmkob7Rd/HD/XgAIFgQd5fmQRRg4rmsb6tEb8nb6BEjLAkt6gkH2Frl4yzxfj0o8c02V5GN897Xr4XKP4cFf/uEbfUamIM5kSEzTptOs5%2bGLInw2LG6jOl2KGVBjvjFARYXSBx4zfOneF5uOw6DstNB%2bG8PRs%2bXxSJqcCDs0JqcU5k522nYbPuFGxpCqTcLsT/PrbE3PMtuDJ0ENFDQyh4dA9FT8Zw5tGocIKnJ0Zx/P5tJJIZMupsxt/XV4qClWhxUqookZ9rymAuGPBJ8Z9%2b7Vl4TwXPEuXnhlYu/qZon5mJtfhxSBNvOtYTA/4BX8aGvee7QODuZBzyiGXc25toJsJ0XSIkfCfQ5b2dA4v1x2CisR8bVYNhrBFHfuCU6H/uC7gWzGcJ3xBJA1xIA9xIwBK7ziGjN5vGWSMCe1oRQ/QPJ38QSZaXnyPoHE05mp69SPiWNVZT4aUwryrDV4P9MG%2bkPaHiMnwJBKVPP2vxnl7a10t/456ft8D87fPi555R748uR1ZGMI6kp7HROkMk%2bsQzc63TjK%2b8uykLALRihcfnm5%2bFbjq2a8WR34%2bEqfZ%2b7KFVmDvC3wwSQRvSAOeES/Dpb6KZ3grnjnbhAD0Vi467YiFamt0Vi5FGw3VoXivBiawsVBWfR1VnB7SKaNoQKAsM4EXP3VopKM57XBR7T2WRDZz%2bA8sxc1914ZvAe5oeX7caoOioKU4mO6GwqASVNZUsLuACLNZlktXNZnYbs8SOz%2b0tL5pnvujwTc9a76TY/OwMchdW4Pn46FkAkCUA8O5vpglQT8XXC3fHnZ5UEV6/4fayhgfgU3ENhwoLcCIlBTmXaf8oKYansMLzOz2NMvQpCwDmQeDxTiF20woAOFCTiokhe6yG77rUUJBhjvxTUUhLO8quXLuAfdKzzGJdFpN/4MhhEv1MbNOMFsVzFoiPnlS4raLwvxSfM2ARAC%2ba%2bbxgfvtqdLur6isU3wUaP/P6/BxGbeLRVAUpLUfR1WVwp1Ho0VKt2AX4WLu7%2bqPil4Iwp/jaw5nCQVr8BihnAXuuisEaD0SEhyIoMBBBIVK4W6YyiU6euHmx7NBub6V3XBQsLzzno0J/s/C/CEATvAkAXvBy8voaDZXk%2b6vE4rONivJYsvDMA8F3BG%2b%2bClPLuPfQVsg3Q8Vq/P%2bc0jgj%2bxptkAAAAABJRU5ErkJggg==' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-mobile-en.png":
+/*!**************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-mobile-en.png ***!
+  \**************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = {"type":"image","mimeType":"image/png","src":"/events-assets/static/dmc-nov-21-steps-mobile-en.175c05c.81920bd3d7a0bc58cb44473be389a231.png","size":{"width":1080,"height":2967},"sizes":"(max-width: 1080px) 100vw, 1080px","srcset":["/events-assets/static/dmc-nov-21-steps-mobile-en.82a2fbd.81920bd3d7a0bc58cb44473be389a231.png 480w","/events-assets/static/dmc-nov-21-steps-mobile-en.175c05c.81920bd3d7a0bc58cb44473be389a231.png 1080w"],"dataUri":"data:image/svg+xml,%3csvg fill='none' viewBox='0 0 1080 2967' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-c216562928e068d0b90e70d8f2ff2b2b'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-c216562928e068d0b90e70d8f2ff2b2b)' width='1080' height='2967' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAACwCAIAAAAwmf%2bQAAAACXBIWXMAAAsSAAALEgHS3X78AAAgAElEQVR42t18d1gUWRavf7y3uzNjwgCYE4oIomAEBSQnSU0yIIo5A6IguclBERHBjORME7rJOSsSjJgnbnJm3AlCk7ve71Y1SVFxRmdn3/edr7x9%2b9Stc%2b494XdOtYyh8ib9T9OY/68UEORO7uVN%2bVgkyP2DFcDzCidSZWM/GhVM/OMUwN5TRROeXlkca6uXfFwrxVEn1YlQ8gltZjB0nOKonXx8cD7puHaSg5CEM/T4%2b8TZ2BGy8h%2bgQC9vMlX%2bRaazmqz4mXXzA%2bSm%2bciJ%2bywX9V41wx9XOTGfZVO9V87wkxf3xQDX1bP8l2NS1Hv5VO81swMU5gaC1s4JwKS8uM/aOYFr5wbdPidLlY7t4/0hCpDHlI3luasoSQSoSbj42Kd8%2beifdaWtdluu1hTdr8y/21D5yP94WnbCjbu3voyLKDuxIxrfNtY8TrhQrr/cV1PKU0PSw1QhqIx7uySnxWCFn7qk572IpVTJOGyNQHjIA54mpI99AkSBDdhakzWBr37puFHx5JRLjrVWeFZ8A0VRVYWtHodS%2bO1dVcUPnXYnRPgVCgSCKyEl%2bOosO3ftDFfNJT7aMr6Vha2YMVoVrCLBvhchS1V83lc0QZAvQryreDxVQA8KJ5AxCPMfVwGu%2bwbYg4G8/1dPXvDbumLOV2pJ%2b%2bou84NM%2b00vG6wI7Ojofvbw30Ens0%2b55nR39Zx2zcFXkQGFa6a76Mj6rxI76bw3saen12BlkPIC9oMLMvxM8a%2bjFrZliv2QPAuDzmzR/6TM/DF51t9j538XM78zSxQ64HwEBZMF%2bZOFgST39yjgpqI4P0hVwoOlGHLGnQfhLgYVbVwRiIHjzniz9SGdHd0l3HuHLa%2bdcsnG5ON7/%2bSlNBmtCtqwkK0l47t2hovvsYye7h4ooDTf68soyarA1d6brC4eMLp4wLD%2b9IrjBruzXTeE72ZdOWgQvN3yJ%2b6s7mqx9prp/NoZhGqmdVaI9RZNoXJFfqsPeMCE/DZvCHnQ/G1Jzl2IyD6aYrgqiFYgzkIppLen78vH/470z78QWNjd3btBwnOV%2bEnVhWzNJd6wnzXTnf1PcIgJrcYJeD27urj1wpJUJ/VYO90L%2b4xvhMi7snbkuG0I2LqF56OUd1q5r0XsVd3MjhvT%2bfWE2utmtNXPBHVWiuNMRnkUr5sQIon%2bcr9g5%2by89GafYxkqCzz15QLCvPIslEP1lvnDcq6HlXvbpe/ceCHEjQu715Dy1pDyUV9MrsrzPa00w0M9eNpL/TYs8n4QKdPOEX%2bZPKuLO%2bUf8XO/uS7xS/qM7xNm/z1lwdc8yaeZS36qnP2yYu6/ihb8UDzv%2b%2bJ5r2pnttfPYNToqJ4%2bSh2GKZDjprJ2XqD6YvaqaS4rxZzXzHBVW%2bytushrhaizsgQbg1XiznJTnNbMcFk/zwMM%2bHYoqUv5KM33XCl2UlXSS1XS58EFaUh/K1Tu7vmljaFyd84vbTq7vDl82eM06W9yJRtiVv67aP6TJKm6M6vuRi69Eynbnjetq1q8rY7oAE06q6Z9UCKbhBDxMmXW3fCl9yNlWi8uBT24uPR%2bhAzo4SXZ%2b5FLmQGIfHVhKZmkvx1K2HVm/l6ETHumeA93ys%2bpM/6dMPdV%2bvRf0mbgQF7kzfuhfO7Lijkvy%2bZ05Yu1c8T4mWJtnGltGdMEPHiwSHeZWHsdcw4zekpF3%2bsPw8EcYlzpuI9GJEqKEECBZRFA8ycKiid33pjWAYu/MaOvdCoRLp%2bmApr6EU1XhRhjSx3V0z4YzMGbPxYxqUowkMKwu6VibXUzYSQdldMg6MBXApoGFOgrmMxnDKluRl/hlHd7wh8Ip8nWisMwQNDk3baBvWcU6C2Z%2bsEKCPN8ATl3nMlHQ8W5kxAfmSDTU/JO4wZnFVG1fRRuMOYN6ScDgVEl47uyRXu4oghNguLxHwdRQizhCcyEp472BIo/5ARIOiuegPDnYrLTfLWzkewxv81W38YuANKmdUBgnkjlT6HyRck4fyoZCGkKPYMrTcKZ1xRAhBGF9MQ73xEiiQ9MaR/0gcmjUwC3cSH9uKYwWU1pIORA5QU%2b9tYJihIhhsscv42RgA59PACyeVTueIr7GbmF%2bwXF/SsZ5/yV4o3tRzIiRMmcvxC2NyUrHJSsB1vLe5urfEgUYrBUb%2bEUuEt3sege9aNA8xqLPbyOpl0PK3PedX3NnFMurJ1U8d/6SpdSz8Opu0epB45UnTZVp0nds6eat1N3DlB1WlSDOfXEn7p/jGp1plp2UndtqYLpRJk33KCNFg7gp7eIjqS5k4YoL9JdLtafj2e8x1UYBfiwttoZr2pm9jaKPUiVBTQAfHDdl3RyT8JW9XPnffNcD6brLXFAPqKKpwtuWVLN1lSzDVU0l2rZTcaYuXeUKpOmymTIx5vGVOMm6vZ%2bql6X2FieyJvmAdEHzqGrXLyvaAp2EKYCc0f2ZaSnM7H4qDIxsxBwiKBF9E6S/NqZ7ECnTL/jnKUTHA6aXw04wdGUDjCQc/0uYwFVPk1QLEkVTKOqFamSRVSJBJG7dDERHR8rV1NlS6miOUQ3WBQM7C0mjo1nNpgRlDmNgfEgFsofHRYi9wDKVk3vqRX7MX8ea6XTVk0AtWzgZ4C2jfK%2bCrN992jZ8evF%2bA1Luu9uFlStpOr1ieVUrqFuGhEiZ2JNNW6mbhhRjVuo2/uIbmT1yW9108IpELG9flDo9n4IRPYeaDR/tIXBGDhTH6kn6BBUOhYF%2b6LxPlu1IsN9CzSlfRXn%2birOCyo6p9TXLAoza68TB2rvLZpImyZMdgK9CsYTibnzxpMQVDhrNCEVvgcTh83wST1AE6kHxD%2b8HhhwIyYPFE5IPK6rJ%2bOmMNtLaYGv6UqXAvZ6qkoER8REwLa6gUA%2b4ooDWo0mM5BHw1RIRVZAl860H/%2buzlwfrqXjfkyeffPMisazcr9kTMNHAR3vkBRhbP1ONhO44C2LTv4vtxaZHhHJx6DCCYNpOFcEsQK2KzwK6FAuRuX%2bKXujAjorj9DSISc%2bCXmU0aGdwDLR/64OIyjQR3dIYc2CPBEM%2bl4DQsT/JhOsUj9axPuHKkBwPOmQfkGLPokq/0JQMLQ9KBzA8xA9mEN4Z8KfPNLM5E/YnaZKxgG9BW%2bz3KN6eJ/6oci9xv9JQw5mACmNcxgJmHzU7ww0vh8eXhjkh4g0DNVNITMEJg2oITJcscm/XQFiKsXjH19erC/jvHrOKZVFgSqLglbOPLVlrd33SbOJN%2beJUoUzSJaFBCDe%2bK4ykbY6IBFRfvVUQe44Wm4a/ABEcD%2bn8sUIP6AehOaNIzdiXDibIELmI3QGbiWrMQygLz4gCg8r6pnPBZP2q%2b05bJV6yin15K5YR5uYME/OdoMENxNLqvSzvpIlBKXVbKCq11F1GlStpuCGLv%2bWbMdtdf5d3Z4bSlTpEuqGPlWrTjWYErR3YyP1yIOAv8pVVNN26u4hAvue%2bFG391AlkgQLgg0ApHw5VaVI1WoQRAjC%2buSj5giA/F2NLdp4vopatGGBh59DximXHKA6fbmAyIACx93JuouP/ZoxnSoSE1SsomqUqSoF8gxAiap13XWyHXc0oEPXbX0Ck4CL8G21EpEDAOmmCYGupdJkBgDk9l6CNXAjhK5RIeKWLKYqVhJwVb2e8NTpYE0yWb7sdSD4/s5c6diHF5coS/jabYkKds5mH00FpAOY28e6prvE6UXCbKpslqBMjpgHEFvZEqp0IQBzX4UMv3k1v3FFR/MGQZ0q2X4A0pKFNC2iiuYRtAebgUD4mP1/iGnBVIjNjKWtaAJjjcKPMCHe%2bH4/%2bdAXHIUTf0qdpb3Y8YxnQbhv3mHLawdMr8RFlrscyjJbfpAYd8kCAtcgCuykgUVgM/a7YkVX647O%2b%2bb826q9DZoEXQNIY8sbLIgZ1NGEGfDXqFF5U4eVbwRvT6YruAGaStd0k0dpP8OdmLzjGBt1RE9V%2btx2nbBdeqE79c5u0wxTkz6T57mOKh/Xx6WjEFBugTi9SROJVtxx3RXICTPb6md3lU2hcpgNFhGWMsKeswg9OfFToIzX80Bv/qTw3UYqCzzkxP3lp/lrSromOWiQMPoaYhu45gJUTmVAXifp9kwe9tLtw8HZ71OAIAURqmwciuAyP8WKgLUvEueQxsQ7EWUfKVBmMiWs4M8AJYRgrvwLQoUTBe9%2byTWkVEduFr6n%2bO%2bDuf4Xxn257y9N/nQKCEi3fQrdkxtscf7PKEDHU9p%2biuhXcRgUTKTe0ZmDAkVCBf77PiCg4dDP6dPjbLWdjXa4sqw5zqodOVOHlTVvODEqNaZlS0eh/54CjO/%2bO3HOjvW2CvNPqS4OUF0cuGZO0DH9Pa%2byxCgCqiEunUQJ3poozAO8CV3lom114m3107vKpgrzqDCbigjTBQP%2bhDRhlBjhNygwiSqaaKttY22YkhVbEx9RkXqtNvZ8ieKi8FPW5lTpF335MwhcQSYGaAPsQTorXkCVy3bUzOI3rWm/JdtTBqQpQbpDgDcF0wkVzSZNCoCIqtU0TFIkEEOYZQfy8ZTfk%2bDGDMXSf4%2bVUF3g6nYgOdCJY2cVbbvlOsCciWIYS/54e%2bY0Kn%2b8oF6PYEmAyhpVBo313TLueGDR%2bXh/x22NviYLgjUA5m7vpxrMyKB5G3XTkKBOctdhqnkH1WRNAJIwkYsIYQ85lsmjacYMvkhmmim5r4M5acW5PgBzapJeqou8nPckRPgXWKic05M%2b%2ba/4eaRHXalIgCR5NSRKFc/HU1HXt9%2bS4Tet6qwQJVCHLE3XMSUSZPt5E8hp4Exyx5KdxukBCDI8GAD54DAxiXMDjHuHadEZHeEOlVNnhXhnpXhXhTh8r69gyrBfq3yfNFdH6qTT7sSDZlci/AqAq8%2b4Zx%2b0iDWXt%2b0lvevZgn9xqW%2bjqcd%2b1GNf6om/4Mvwrqf23V97df89tO%2brs1SrC/XYm3oSQN2zI7D0y/PklJ4EUk%2bDqOfniP08D6UeeVJPg6lHXtSz02Tw9SXqm6tkjCN6mwJ0pCZt0yHdOyHVzhhekZWOO2VtpiZ78bDFlUPml90PJngcSlaROh9vp4UquS9vGkHq2E6IVbUGm9d1S7m9cTm/WaGzUYEUAKhOgPVxrZAnG4xB0Vxi9GXSBO4XziQDHGDFCrqRKkMWQW2EKw6hWoH4Ve7EEXqpxUKsJbwOVaBuxnAnzhfhZ4m5mGyTF/eWn%2bazdo7/%2bvl%2boTtM%2b2gDFeT2myzvc4r7RW%2bhSHvN1PZasbZa0Z5iERqHjh0kwjlWaE4E7n9BB67xNCwdJ6xLhQXAWDLDHcmE%2bjvBA9RRNa27TBTG01UmxnRGXs8DgoKJfYUijWdXXLc1iLXTexApQxWjGh5oPwpfwwhIl3xme/2strqZHdUzhgSTATTfX6Tn9yP%2bYZX75ME3OvlvLQAEeaT3wew9v3a68HVTbj/OpZuFI2Riurs4lqr4nFDpuD4aUwz1J9LbGtIXEnyivhB5LSt8JQVb78VTeCMc0Vux0Mi/3SPSD%2blqCV%2bifKosy7zqI69ly9/6UnDMQOOtj/lpFUwod%2bA3VnR3ETkYYwzoQNZWRTez6qf/Wjuri%2b5REzYsInwnO2Q1%2bi38QH%2byT8g2UTh4C1v/ahN786e019COWzujh5SaEwWvsxFpxxBrIa%2bEJ8JgegtEurKnEgBXPIH8AqBkHKqZziyxPgC7irG9FVO7bk6j7hCv%2brlqNnVzAlVE/%2bqK/LCAsAkA/siPFUUIHKz4vCd3UjcXsf9zgguHspWQAZkpIg/t4U3u5k0h5go23Fs6FgydmWJUxYS%2bJlH%2bjendN8Woyi%2b6uFO6oVjFF2Tx/InM%2b1%2bsNqbIW/FVxvSfUmfkeigf099ro2J35ZDh86uLunOm3o%2bUCdtlZr3%2bmCvLpvjM%2bh/K5n2XvzDNV/OwwaGd6nbXj%2bp/c12iK2fqnXDZ09strdY5sC2sa4JW8TPFvk%2bcnXFS/bDWwb1qR%2bLtdf4eO78rW7Tp7PJAq81g891sdSNEvjNb9F/xc1NOaB3QOAxKPqGJjx1ZYvgKDNvWOQRYb6m9svqnyjnPOFLxDjpY6pD2QSyLxflZ4niQp7n1dqVjY9bPD9i01tF8tZPivID18/2VJfwU5gZqy3huV7JXX%2byNscpCv3X0V5sUHVmrnRXmBijRbGvnBuot9cASqpI%2bCvPA5ktWWOBvpehgIu%2bCG9dLCFfbuMzdWunYBsIgZMP8tvXHDJe74lslCT8lCX%2bsZiTnum3dMXxFs/kpzAvALdtUHDYud1/LsC3wBz8Wt1I8jluwDlYboynlhX82LPLVXOKltYQNgvQamMSMlJe2tKcmZqTZ2kvYqot81CR9tGXYWtKEwKYu5Q02rSVeGGvRbJjHUmqLvZkxJnE7NIRYGovJ%2blhZk75iBgtijKfQkwAvNBs91pDyppm9CZukT/%2bNZAWwQT181CJsXmPoH1t5qS8GeatI%2bGKDFWlaN89fsX/cP0Pojck32fzX0QMspbzAD8uCNMkjvIeSxpszI06%2bj23MAB8edtTwQIKH7nVng2hXw2gXg2iXgavhW8euRvR4I03MJAaGWCTBU9d1iw2zqa8J8RFJqABOZ%2b3swCuORtST8X0tU6nmz6mW8fR1AtX8GdX8BdX8N3pmHP3xc%2bq2CD35OdX0V8JzZyqh2xPJ5O3JuPY2T6aejs89o4KjwOJ/hAIKcwIj7E17m6b9XCHa/vBQ96%2btXT%2bUtLUYdv1Q0PUiu%2btlJf%2bxfee3kV3/qev8R3xby8auF5ldP1Zg/Orm8l%2brp/9aPeNVvXTXC15P50%2bd30X9XD2/t0k0I0DzD1Ug8pgp1SzSdnOZoPdV78u8rqe2HU1ru/9xmaKo3pdFHa1Wgu7ve38q73q8p/PRbkrQ1/3dGUH3y54XCW3VIm3VE7q/CRAIurq%2bcgM//7Gt4NZfMgO14TbwRXg/HEx1kS999RmgT6HApLZ6KUHHV4Letu5vT7fXzwHehEAdD8yAPQU9/xF0PO/62rfz4TZK0N313EnQ%2bY/eHzht1eMJ3mpc2X5Tit%2b8jijw8JDg1l%2bhAE4AgQtksNxNd6mnoZybzlLPjXLuurIeiI8fWwF7FtUi9qpalH9rWdez45Cj%2b5tA6IBB5%2bM97fVzBT0vcTId9806W7dSgp6%2b9oc9L/P4zYoEV9fPIWrUTO1ru9/zr%2bu/Vk7EUtlB6stEz0S7brx03DjDXzP/jEr1pTXcU6pOFruzAjXY1tuRXkhU7Q8k9K9Qf%2bcJNE1su7Wm99eGnhdJRO4nR9rr55HBo10YCHp%2b6eM/6/4upPPxXpwARG%2br/Ft7rWh73az2WvH2BmncCOa%2bV7f5rXupxs/S/HR0ZDzzQ1WygtRj3Db67bK64mh87qhZ6CGLcFszAzk3pCAmvYA20GOSRiR9frMTm/U0Tv25ZjH/mVfX93n8Jyfhmr/WLez40v9Vo/KvNXP4T107vo3kP2O3Nal0PPd%2bdUOWMNTMJlQl1tai1/F1aMdzr47vrvzaYtZ7azwUwOIWCk6sVc6wHM3%2bhGOjbocZJjFBDR06ORqtcMXYSN4VaXH0OgwLo5dPGFMPRXpvTe1r%2bCtNnwuap4L6Gj4TNE0SNItipq/hL323PutrmkRPTsFkP4kJyCTu%2bqzv5v/taZhIPRKBtWBfD%2bkf2qd75IjBQViO21Yb4CjrDcecN%2b2CYkbybg6m%2b3Zq2JmvdcKMvcl%2bB9ZezONkRpk9BhKZN560Zf0JJ4tdDqZ7j5sfEJLZHkJksFc4ILSffBz4dpAGb3Qw24elbNTtYRVwVgM5d7gv9th4pYuerAdOg%2by0NBuPhjfrL3OHf%2bO6cbkbOIER1D7UhNQlvTUkASX8FOa%2bDhZ%2bMzFQQoP8%2btqHNm4f1YXE0GmL9x6wdcYBQP2xFfMf4sSacmxCy9gaS700pQlCIkTjsN9PDARiYssAkQcPiTYag7BnZDj0HgW0VnkKaaWn1gpPzeVsDSROSe9Plzs/ciaG0IRWDpLOag9deQ8GMyMIan5KKPYxEpkUOVB1aS9NWbbmCiK9qpyPorS/qjTB4qtnnYLt/pl1GHRiEIKpspTvZg37ZD/thtiV9VGrrjrqIywoS7we1Ab%2b14bGEtqaYb7kf3P4CK%2bEsJoP%2bS8ezFVq2Pxb063kGzRaBeiaA7Xibs2j/yiSpW5P7b0l2ts8g3qw4EGKlPnakwjM6pJsxAc1SS/QhoVsdfq6QYKEQtVFbJUFnhiDlBd4qkiQsfJ8T%2bX5Hir0DDjBwAxwBf/I0i%2bBIXjBDwnJemnIeAnnR6MAhMMO3Y6Xor7Ua39o92vF2LYW3fYnbtRj6eKwtQiL%2bsv9duhGGK0O1l3mb6p4Ghu5acNZa%2b3zGBitCrbSOGehdMZ47SnHnXH226KNV5%2by0Y08Zh1rpRluueGs8ZpT2zTDrbXOg2E/6/I2rXCoxxzjgIiay7yIE64aRprybA3pdwWVwUwMEZEyu26Kv6qd0/nQpvPJ4Y67Gzse7uq8o/FjyTRLhRP6K0KObrrmuCseahzfEbdDL2Kv8aWgk9lHN0fZW0UXZd5JvFSTGd8QFVYef6EqxI3Hib15%2bVRJXGRl1NlyzyOpznsTky7XXAstA9tuw4tK8zxgXYPnL8%2bmxfVENIdZqsMy4ZbL2Ex4FB7Fe7GQ65adghZRgkYbV3Q9PwEoym9SaK%2bZ2FY7%2b6D%2bYYXZfoYrgY39cAj6cgG4S18%2bQEvGV295AM7ksOW1rephO/UvGKwMAoPZ%2bpCN8oE6srglCAzaS0lGw8zGFYEb5QOG%2bQB8bzlbazWJ4MMMhvYBiC7U4S1V0aACqDz26x7tvDGp4/6mzkd7Ou6bdn/t3fn0eGej5I%2bls83WOOrJnXbYHmO75br7wZSt6udO2MT52KdjXw9bXNtvesXtQLKd1XVzpTMndsbZWUV7Hk513BkPtnVz3YnbLCKPJz5Dk9oQKbHTRER59tvcWnMpzsGDqCf5Th%2bgfdHn5nV56rFc%2byOn9sY1sKX2p57Ul%2bu4wQoKcwP1lvlCIPP1IVvUzhmsCIQhbVYNgw9YKodiX2HcVhrhxmuCWYqn4RvghPXjNOgAJcy7A7FoqHwaskQBYiRvN3StFWwkK3WpdyqAQKm0wG/TOseHaYupOzN7bon13ppCtUyti1oLmAXoAiTMhBcVEka8SIRBYJlPAgs%2bqi4UzpOAI0ECDvPxPXEQGyzHhoWoS72TZzlxBvWRIMKY15owSgv8AXEj7IyLw5UKzyufsTPXkXdXGd4a6d9ObyYJaix%2bA7uPvqqSpN33vQrQ3jxiOBrzZiMJgHHNrCAVKd8Ny7zXSfupSw/irY9Pg7v7Pp6V9Aksfp8CAz6tDVixygPI4t1h%2bPcrgLhJdlf27U9Z4g3pEWHfk8hec3yIrrPGQ%2bstt31MkvJmAOXIKLg/yGrIjiIKMTdoISDIsZWX%2bijL%2bqot8f7kSK7/EAAlyWkvHoKCpPpTxNv38Q0fkPFSXuproXrCYctOO/N9BnIe6%2bf5a3x6NMoEU2IqcmyMSXW1nIROMinHfkevZUgYlSb3qMl5Xzhp9KJMuqtJuvPmnG%2b5c/x2bqN1IPtBctAiFG4%2bDNJkwCbiOlIVrprSvgymor1oGCYVupa0L%2bFf4svc2F%2bsMeDUR1PGW4sOqRBae7Wn9iq6wJJlv6%2bkXE5KStg6jF5pqd8FJ0Pq/vyeLx06Hmzr%2bia45756T8N4trUNkJK6pCdAgdZS8l/PFWa6DpDKAuyQD7DN2pmuUA%2bxHxlgzXQXxdlu6%2be6E%2bZZrgSoLmSvnuaMSdwCznWz3eiGviduRDJRXeilPI/AWDUpLzUp9gZJD1VJOrZKjq6k1F7toSbnZanu%2bKJ4Jvnpyd3NbZWfdzzcwf9nenez9JOMxWqLPDZtCLsaUppwsdrjUIrvsQwv2zT2kVRABhu9yLiIygj/QuDQ7ToRlQWtV0NKgDJAZzx4gU5ZwH8h7rzzvvn%2bxzlu%2b5M9Dqfgq%2bM7YhGdLVVC95lcRlIHXN1lcGGP0SUwA7TuNb5stv4MDna0JSUi5nopf6ctuwVNIm0Ncl1P7Ttbt3TcM%2bp8cqTjttqrKtFdGrbasiEnd8c570uC9IFOmb4OnFMuOX4OHAAKSOPvmAnJIBC0gm6Q2Nc%2bw2VvYog7F9DI9UCyt11GqGeur0NGsHO2t116kHO22boQ4FngqIPmV4HzAAehgO3WaCyCAcDI%2bxM58QEau2pKEzTqZLGHKHBTruvZsY77LMDpzoe7OlqUfq0S3aNtu26ev8naoK0a52BIMGLIjfsBM41XB29RD4PZaMv4Gq4K0pH1B1KyUA5FkWCwIggWorPUD3AVuBX4QmepP%2bMe27XPA/kZrUEhEQ4oBWaYH6yIYBOglfl0qTSKomzIGxoJP3OFkz%2bUTO9sWd1%2bf1t73fTORzvaH9n33ld6xlmgIeVptPqUl21qgGOm%2b6EUl31JPscygOQAQr1t0/ERNcrJ3QnOexJ87NLPuHNhWrAT1wNJ1lrh4MGxuB1MMll7yv9EJg4QVzCgqPA8nIaPJ/cmOO2J26F/XkOaFGIMkcJAxoskBynvYbH1rSUlXdNcPg4nntX99GD7g338h4d7v7Sl7kn52mxWnBuouYTNFJOqNHrDhiHgqNK/LGLQMmlXLSRBA9UCjfDILmLvURWoLmQqTy9sv74cgG0AHeYhJVtd1oPUMfIeQzsjw2iFp7BzJeP1plu/ngdUFvqdt2P9s2Be963pqM6%2bylnoa7N1/fyA0aYCKQaWew2pVL2G%2biKpqqXY6ks9CUIe2pJ6Nw1wQpll7MF8N0IiW0wqG7M1zrbG%2b48YHjRa4bZufsDHSsakdumP9O8X%2bh3KMPmOrjNHwEJaS9jkpTTd30SJg4%2b/HyyQOLGcPdr9XjnaM4EaI6NR%2bjUym3nV/BE2fqnX7931t6vxVjhNJ3mv34WCJGk0xtjMB27t6LUd86b94ArjgRWhECMvSaW8fpsPIAIK0djozEQP7MUAABjLSURBVJowy3sKu%2bU0uhE2bd%2bpz5jXNn79fH%2bjFa6XThiXRawrCV8fethCW5o90FrUfL1PyLQWAct8NPqLTGHBKe2tvZKtvQrkSa4ryTlor2YTomcYxEZElKObcNKk9lcfaL4zV3iODIqTIch01dsV0KSL%2bu2qx77mSlJ3JwtapgpuT6XuTrmdsNxkpQsOBEX9%2bnnuwGckU0p4Cit6icG0wGBVMl7MRlxXl3fXoElV1lVDDgMPtWVuarJuzKSGnKeaNOAa6QaQNCLpPdC3ZMKuKt19ob8VWiPCDjmZVe8yId/GaBnq8epfbqx8VS3%2bqnraL7XS1IPZ%2baFKinP8DFYEHNkUdXRzFDAMANymDWeBXnAFjEHm0pX1M14TrLssYOOKACMlP0MlX5ZqgJEyBn6O%2b6O36IVgsEnn9P4tkaaqgcYKgUhwyGha0r4AFEAZOEaMtZcKCWPDlUGA3GbrQ3Rl/YWZRFJYsWjJD6oxrLF1QO9oV/0E/m19ftPa9trp/AaZjvvmnXeUfiyZbqHgpC4VwEtpzE1tjousSrlWBwjgd5yTfLXuWmgZMMLl06XR5youBhUnXqvaaxnh75zGTb/FSaxPvFbJTWsID%2bJFRZRkJt%2b4Hl4aFVaOFey2kp8221tF72NdBrYDesPWOO6Mx6ac3JPouj8Z0JVtm3bMOgZwS0ViSDxk6g1Zr9cVoFuLuwWN49tbtDruaPGbFDof7ewAmLut8ap6ygH9owpz/DbK%2best88cJmCqGaMv44Vg3qZxlGoZAlKSfpRu6Wfe0wTrfbQahB60uHrW5cnTHFRwISy1gq16Iybpgg5VB%2b0yANMPINsv44rhQHgECAiACAhJUtzrYdF0IUBZm8JGlGMJ0MtVeQ6ZM13GoAqS5u/FI981x/LuG3d8EdLZua6%2bf2960ruue1ssycUtFR02Z4L3GF2E8WB375LQ7Ya/JZTurmBM2cU674uEAJ3bFOh2M2WESFuCW7nkscYfxWYc9USf2X4caR7ZfsdhAxDq5B4AvcdfGC9ja3YYXobPD9lh7qxhUBcDPhyyvAeQCFAKfgwHfYrP2s64Acg/rZg/osOS1TCzl2xwrRT1Van98kn9bl3/XtO3eTuqJTOFZBainu8wXpQaMEjuEEz9mHQuBMHPA9Mp2nfO6y/xYqoHbjc9aG521Ngy1Njy7yywctmTDOofrNu1zANgwd1QtuKJ8gfTbNMMtlM5APpRBLIXTEN1KMxzWCM4tamHYo21a53FKqGygydteXQ6LQuvn%2b9mo23/Lm0e1fNbbOLW3cRJ1Z9zdRBnT1S4qC/tbi3R3VoU0GEkvkakJAd%2bBKxFbSJxZ7kZf3fsHbiqLPMBMvw0hrzyYqMV0JjFJbqcHA01LenGyMgloBO2yGZD7/q4E48rGK9wuO7LKL6wvjVA6e8RSW4aN8DosJUsNeTHK0BLvYW8KhSGChHx4G7KE%2bpAXrMKGpJTP4ItXqSHdyKFsw5uZo2ur0K3FtbMDVSR8yU8TZwcCz70HUPQ3dt5Mkwjbf9RLvjewkLCvNLofW6EiGTHP/wGvnMcMM4wlPoSkvN%2bYfL1ZOcg28IZiNZvQECsi2z/iaiOsP3xyyRtsi/vZ3hBjjDqSHF3Xq8Nj5rHV5rLVJejKjUYmagvIjNp8NoPpyfwib4ZNjWGTonvfy901Zdw1Zd0HEQugxAJPtTls9YX9q%2bGR873IzHyvwdUWepGl5g5jw%2bPoh3oJpRzKtuh1NtKVIN/NQ53mo20corvtrMZqf%2bESC9ia6wN0d4Rp654iN9Bs6jI%2b2qwQna1nNVb6MWyash46un76%2b0J1jQO1VnhoLqU1WeOtY3ZGZ3OohrzfwL5oqQbp2oRpaQSRzWIeutxXZ1OojmWoxjJf4b4s8gID2DRVA4Vyg03OF0vpmJ9RlxWyYQUt7WDd7WFjjC5G6x08r3fkvNHVGBY3iZWfbJwcv5F9GXIbBF41SUtgFSSbZCcaRUbr7QvXt4swioo14dFsifH67pd0d4YZnrlqkp6AGZMssEXpHz5rcDLCOCaWlUuzxcfpO1/U3XnO4Mw1Ew69Wmai4dko3V1h%2bo4XjGJjWXnJIOPYOHzU3XXOMCwKDIQtI8HwzDXciNuN4uMIW26SUXSsvkOk7p5zhuev43FgG0OkKUghN3CTTDiJuA3i4sGsQrIumCAc5lm8ZPAQGmRLotlSWLn9bJmJtG4pRBnClkDYcvrZ8pIIWwZhI7oV0mw5SWQGhL1j1gdbJr0a5MtNfo2NJWSjH5pJVhtjkpE4SFlJhDWbfhJD2YlkJmfITFb/TPaQmeyk19mYG7P7tWUIYzz1zZkRJ4fOZPSzZbzONkb4RSaR3jg5wTgmDqcJMokTDj6UTOLijQfujYsbFPHT0BizxCtmCZfM4i6ZZUbpbT8D39dc6ovwpDjXbT3SPooY5Hwk/AUeKkjpizDwBKmRDhKb%2bUqL5gdpyJDfra%2bd5aq8kI1FUIhoKgYYJ8WT0/h0CpjHRprHXTSPuWCZEqm/OUh9rjdwH2vtqRBXrqNNvPGqYPutMUcsoxy2xVqpn9tjePHEjnj7rdFGK4MPmV87sSNur9GlDQi1C700F/usn%2b1uqRx6LaTUwTpGeR7CqLfmav9PrgArPZaF4JAeb8qN07M%2bs2G2J1D4s4f//vll%2b4OW74CZX/zzF4qiujp7Lp8u%2bfb5D91dvc31Xzrtju/u7v3pxzZ8dfVM2bo57oBoliqhP37/65ePX/R096IoUZjmqq0YCAVY2YmmmQmszARTQvEgFv2RJZyMJ24t/HZgUvjVwPWtCphkJjHOAdfW33lunbjrbqOLECs3tQngVnmBJ6AyPgY4ZaG0%2b%2bUnfn56C5Cw7dbrfX2CA6ZX68sf/%2bPb/yjOdgNyBE52P5RydMv1zo4e1/1Ja8VdoIBJUpxRVrIBJ9UoM1mfk8aQASfFkJNsjHiambKRkwr5MIN5jI04yUaZSfi4kcyk0vOpYH6bDv1OnEECOWI/yRFS3pdPlfznh1fYdQiqI0v%2b6jEkA7L98cWrTn53ed59O6vonu6%2bf333E9RIuFCtOMuN6Z5L/s023Cdf0CfwPJKqOB0nEGCQlLiDe3l/zjnr7MvHeMEneIEOvCB83Jl9YVNW9O6cyIM5YYaZyXtyIo9yQw5zQ62zr2zNunYg59yhnLP23FP7csJtuSE7si9BB5ORdBiugE3YhlkeRmuCUWTZbb1O/9XjYi1pH/qvB6ciGb/6pSMvvQXVDBTo7e1DdYtKErUl4C4Oweto2s3Kp6gAn9z/Z3XxQ4VpLlqKAUZJCUml1mnFm/NKTdJLNnNKLDNKNmWXmFeVa%2bWWsrJLzDglFhA6pmhXUvG2hOLtJWX6ycVW9RVqccU2hWUGOSXm%2baXGMUU7jd9uQoMK6O86t26a627jSz//p72jo/ub5z9sVgszWBUEuV32J0HK54/%2b3faq88Ht7xx2xL741y%2b7DC/KT3XSlPZFXau8wAPG9uKfP%2bPcOjt7PI6mKc501V5HTiCk0CGqcM/lwv3eee623NMnc30D8k%2beyj%2bBmbACu/ji7TiK8wVHAvNP%2buc7Xy3ad6VwH65uud5B%2bU4Yxxbt9M1zfZsVDVGgIBlASHWG54b5bAPZQBvtSN0lfkoz3TUWehuvCNZe7Ku2wMtILsh01SmTFcFakj7G8kE6Un74FiAHX6kv9F43w01HytdhS8xmpbPrZ7oRa1zhz0qKPZp7Zl/OeZvsS3tyImx5p49xg/fmnN%2bSFbWfmMdpPU6aTfbFA9ywjZw0B14wDAa0nxsOnzHkpBhkwluIn5i8/wTykgF1gN60tYK1VAPU1vloqwfpaJ7SUgvSVAvSUieEgQZINVBTfXBygAizRrDyOj/1DYE62qe0NgQCHbJS4g7ywuy5wfa84OO8QJAjL8Al12dnzsVD3LPwBPOs2G3ZV%2bEMW7KuH8oJteOeJgrknINUTMhi6H0KCJMxQ0lmSVfM4yJZGbEEXAwFEaMgVvbwWzITEYI20jQQhbDrMAlsLdwXDCTyEB9NpINPKh2jUkabB16fykpiZcRBeqRn4vUfKP0IRC87NPAzxEz2B5YE1pABa/DjhyqQRSCkWcJl89gI09Tr5GNm4p%2bcxgjlpmVlpcdBeovYCIskQKN4s3emwD%2bLAqaJV01TokyTrwHVmcdegPTmiZf1MlK1OZnaHA7slUUc6M%2brBg3mBijhoklKNIRGsAvNtzud74BIp8tJH%2bBmZY5sVCwQnCcTNPK3I44/EphLizFNjTZNiwGqM%2bIksbISeSWG/LpZ1M0Z1I2pv9TMiC%2byQTBmPMwgI96Ik4CkaMxJoKNHvCEZJBly4vXTY/FtP0OCIf0VQTsYZJAgiFtARjQxRwo2hvn3%2bQDjAFlEdD0Oh1tsQLVIdT451N66g//ErqNRjqr/LKpor3ZGhllWwr7C7M1cklMsc1LwbCtemnVu%2bsaMuF35mfZl%2bXsKsghDTioE3cZLx8CIHuwtyMIAe2%2bWlbQzn7OVl0brkGiRnWKenWyWnWz8e52YjmiwnEPcc23VE/gPNrXf1mqr/L8dzevb71t01Ij8q2bx5qyrW3kc16oir9pyh7J89%2bqSIyW5rlXFEc03HcoLHCsKM548SGi9U/zVc96zx/EPbmc%2bbc14TM98/cy1qsS1usS/vhJ3gRMr%2bNRVHCvLdyjPD26oDrhRBSUZlX67Akh1OhxOYL5LX%2b3f2u%2bb85uV%2bbeWd7ZadT537P72NL9WzDE3QDcjfVN20qacVPPsJOwcDgFGsoWbtq8o2zQrCR93F2ThKHbkcrbnZWAeZJ2bsSOPY56VvD03w4qXDkHBhpM5UsKD/hhvJWeYYf47DmGYAr557r01n0GBjmbF9rpp/NtqnU8OdD051FYrDixgnJVpX8o7WpJ7vLzgYBEXW4jtxNi5ssj/RqVnTVlky02Ia1%2bWZ1%2baB/nwrV1pnlt1ye78LP30OMYBmKthvzMw9HFMCAncJufKyyrR7gdm7fc3kb94cY/16i6ru/qvz6uXm2bGWeakQlZGdOw0zB22BHF3FWQeLM7ZX5R9uJiHPbYrzbUtzT1UzAObfWk%2bxlu5acachE%2bZyPoPQZfDuVSwl2qc39u6qeP%2bpo5Wq95bC7rrpvrluyCYmpLYQgIRvBaxBQNDjjDaMPGHCUEGGXHkK5ptI3014iR84kw8hIBpz%2bUf/qpy8a%2b1036pEX9UKeeT56bHSR9IyazhZDLyxyQmabA%2bQeB/jwJ4ng4nc1NWDGDtUW6oaVaCDifjzwwoxrw5RYPvJLrETjPp7xr8LynAnMO7y4g/tQK04SK0JRkLTyPhf0kBhBq4rHZGJisLJVKyZkYW07f531AA%2bw3pbXkhxaV6j8sXPyxfklNqgWoV/tDfPxuMKq9FoYGw88ZhjhCgPlUe0ONkoNz%2btXY61bhQ8PxI39P9VN24f1QvOkS3DEwySXRH4CdolMBMYRJlMisGTCoYmmsHUoQhnYOZ7PFxk9pgJjbKTLLMivmqepmg9otXLRq9P9f1/Jj76q4JdUOkqUJJPyN5CzcFyRXQBcjHIjsZMAZXAMwt3FRAVIBZwAdkaAYXAQiZ0zzAEUdLeBhYZpPJo6W5wEUDqe0dWYL14Vgowy3Xu6ductuNRV1fsTvuGXa2bul9Wci/ufDn2pkHckItuFnOlYUeNWUAEW40unSpLAaOCL1Ve7qhBljao6Y0rKkeStqW5rlUFYPHu64cYDP4ZjVwEfCSc1UxrlAAJ2lKAHwSo4lpfzHETJrSxNQPHwbmggtO9tX8hd9q3XFHp/OBeddTu87WrfwWFX7tJCee/8ZMjl0pF2gUzwC0ZB5jkYWTSQOmZ0qW7bkc1gDQz0rGDBSDModKuJAbKINFmxxOzCA9ziQjbmduhgXSf2q0AUF7ibSxCVEJA13fq8OYIUAo/URuUGfNeP5dg64nR/iNK/iN8l1feqCmeVkza09O5EZOSkhDDXaUXVtmW5KLncbGe9aUAkUH36zB9nvVlp25Vbu3MBtShjfVJ7bejX9wh11TlvroPg6B9%2bxRxpNWmFDUnVtpD27nPn5wtaEm/9G9FHy82xTTfONkUXbm4/tx928nP7qX9BD33ga2hSas0UchxP6mSmWqflz74yP8p8c6ntq3t26n6v5aWGYE/zbhxGPnbPIz9xZkY2/saTth0DyMCrZuk88B0MdOw6FRhQG3Ap/CT2zyOKjdDpfk2hflbEuNss1OPJAR68hL25seg8H%2bjFifEm5EXdn25KuYtM1OssvLOFTM3V1Aygzj0Uch%2bDFC/p6ciMdV8lTd54Lm5YKmJVTtZw0VG7ZkXTfMJL1VIwaNpsfREQZ1cBwTVTbSgwFASkBhepxeehwpA%2bjohMmNCVcMr4ebxkYaXT9vHH3eICrMJOa8cUyEUcx5zBteP8cik%2beMMI46Zxh3wSAtxmQUMXfMcMeHWMlW2VGXiw4Vl2oVluiGFTqYZ8WRYl/YS6O9LUsINhnnMxlsSSTRg34wksVwkqt58jXLuAuW8ZcscI27YJF42Tw12jQjzpRDXsaYceLN02MJT8Ilhs0y/qJF/CVWRtx7dXgTjSKepiABIyhpZ3AwMM5MGoqlPzxUJ5klX7Mgb%2bIukM4NxCJbO9hNGxyDMuLNkq5CyX7miyxO/G9Bo2aZcQwWMs%2bMMx3EEQlMc2Eo1jemZ17b%2b/4jIgPTtBhaoIvkmniFBQOjj%2bu1G1lDb0y5PqCDWeKVD8VC8XQDOX1rVtTmrGjUaAacVEwa0w9DVckY/YDFw06YwAejp/N0wkA%2bJjERsTI20iT6PCsmwgRmTUq5BKORbmSKOHIjfSBGSdfM%2bw%2bNlRr9ji7ta1iINFcccwNrytWfVy19ViULUHSQew44wpgTh4DjWlViX5aPGnd/UQ6yFbLYsfJ8ugLmoj5GPEXUR3g9XMJDogDnodwMu6wk1wKOWwHncEGWbVne7vxMZGvwHy8vGLgRIQsfEbIQ3zxrypD%2bkNRJqzMusr9PPtqaOMMzz6OtbjrVMLu7QQJENcx6USNhyw3RzUi14qYcKc7F84ALkFlPlBdA1p35HIR2jJ0qSL0P0Y/RXaOtvHTfugrXouyTeemu%2bZwThVnQ51hZ3uFiLmIu5MONdqV5DuWktXGwmAtNjtL3OlcWn6wscqwsYqXHmTOGFHeBlR77Nm8eioWSYTPfVEn2tbLaHh3qeGDFf2DV9ugw1WrUUr4Knm2amYhwvgWhujQPsmLAdId25mciGcMkcET2ZXk78zKR3Xbkc0iWjb%2b4Nz32SFbC5swEJnlvykkBKMJd23LTkTRwxSKb6EUwwBlicaQOAzoWmyFYxZGmrWly1NusaBgW8shl99ZP5T8if8yJ/NmjGrH2GxKdj3b8UjfnYM7pzbyc0w3VgEDYWuTds411OI0TFYUYYFOxc371Fdg84AinikIkbP/aUqQqj8Ks4IoCx3KStg8U5eBG7DQMhhmfaqh2qkTM5gbcqGT6McjlMCHGE0xTopiu8ztceTgWyj8hqJ/Cf7iD/CnOmsnt1SLtdbM6H1p11E934vkYZmUdKcnBPjEgDHuGFEtifHYyPuL0kYzhhfsKc7aSA0nenB5rFhu5OeESgg%2b2HKZvTMMkBAPAJBaNyZl0gdtN%2b9cxoVuoTGw1TY1hXNks4fJ7FSCFmAMvuLN2csej3eQ/kbWodtwz6Wi17n5o/bJm9vasiJ0FPNL0fNIKuJLw4E5S693Mpw8Lv3qa%2b/zxqYYanEPBV0%2bv3m0q%2buoZh%2b6KJt1rBkwILs/bn50EDOtcWUQDGzqG9odmurRI6B/0IxoGwCG8pg0ocMmEk/D%2bKGSQmVpbrkbdmPzquWdb665fbyn80qxK3RTLLjHF%2bZhnJWKTNtPoHwYNe8V2elSXAjYDOUI4eAgGdNs5GW5qhRwUE7Ep/qJR3AVYOQTVSo3WTY/RTo0x5IyiXfBBJ9DfXUy1yb50r3IVVT%2bhr26cgNDY6jJ1y6xY/YxExI1Lt29dvH3rQkvD1buNUXebrt9rhktcudOIk7l859a5pvrIlpvhzTei7jbnPHsUe7fxQl15bFNdRH2Fa3VJ4M2q6PstEc03Yu%2b3bM/LeD/W/yAfGIrnAH5C8%2b1zSs2zSiz9811QqRlmphhxCEDHZvvUVfjVVwbUVzI9XbgjgiaCd%2bCNKnwF33UnPOUAql41pf6lPL9SnnthplN5Pu4FqEYmga8jjYwGhghTwWii0FAdACKQEOi3uem6pC2XyHRW4GF66bG6aUIC2MRVn0ademmD8/oD82mxBjERNMA8Z0jeu8XppMZgBZ20GIOM%2bPdu/2AeiL3ASntfHngTUNAva1/vbTHQhanFTIUgNHFghpUlBDYDHwE5CfYk0PKiKQfwIZnVX0C%2bVwGgukEPfufvhT5l34aTAERJb2TkOxxxJPeNpnEEwULvfmP9iRVgROmHZcQXR%2bO7RPoLQrUTL/%2bW3ujH1WHAGOg3uZdoYPPWE0PxINx7kLAeeJe9/T9izmZbJxq87wAAAABJRU5ErkJggg==' /%3e%3c/svg%3e"}
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/lib/plugins/vue-components/lib/loaders/static-query.js!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/babel-loader/lib??ref--14-0!./node_modules/gridsome/lib/plugins/vue-components/lib/loaders/static-query.js!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm.js");
+
+var computed = vue__WEBPACK_IMPORTED_MODULE_0__["default"].config.optionMergeStrategies.computed;
+var data = {
+  "myomr": {
+    "speakers": {
+      "nodes": [{
+        "id": "gid://myomr/Speaker/2970",
+        "name": "Michael Krumm",
+        "descriptionDe": "Michael ist seit 7 Jahren im Parntermarketing tätig und betreut große Marken, die das Potenzial des Marketingkanals für sich entdeckt haben und mit ihm wachsen wollen. Kurz gesagt: Wachstumspotenziale entdecken ist sein täglich Brot.",
+        "descriptionEn": "Michael has been working in partner marketing for 7 years and looks after big brands that have discovered the potential of the marketing channel for themselves and want to grow with it. In short: discovering growth potential is his business as usual.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Awin",
+        "position": null,
+        "title": "Senior Key Account Partnership Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2970/micha_krumm.jpg",
+        "slug": "michael-krumm",
+        "interests": [{
+          "id": "gid://myomr/Interest/2",
+          "slug": "affiliate"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2941",
+            "name": "Expandieren ohne Risiko? Wie About You mit Partnermarketing neue Märkte erschließt",
+            "nameDe": "Expandieren ohne Risiko? Wie About You mit Partnermarketing neue Märkte erschließt",
+            "nameEn": "Expanding without risk? How About You deepened new markets with partner marketing",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T12:30:00+01:00",
+            "endsAt": "2022-11-08T13:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2972",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-63d06440-aeb9-4cdd-bb1d-7765026c6455",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2973",
+        "name": "Moritz Weisbrodt",
+        "descriptionDe": "Moritz Weisbrodt ist Founder und CEO von Alaiko, Europas schnellst wachsendem Fulfillment-Anbieter für D2C E-Commerce Brands. Zuvor war Moritz Mitgründer des E-Health Start-Ups Kaia Health und baute anschließend eine D2C-Marke auf. Hier erlebte er die Herausforderungen wachsender E-Commerce Unternehmen aus erster Hand. Zusammen mit seinem Co-Founder Gabriel Thomalla gründete er Alaiko, um genau diese Herausforderungen zu beseitigen und das E-Commerce Fulfillment zu revolutionieren. In den ersten zwei Jahren seit der Gründung hat Alaiko Millionen von Paketen verschickt und eine Series A-Finanzierungsrunde von 30 Millionen US-Dollar mit Next47 und Tiger Global abgeschlossen.",
+        "descriptionEn": "Moritz Weisbrodt is Founder and CEO of Alaiko, Europe's fastest growing fulfillment provider for D2C e-commerce brands. Previously, Moritz co-founded the e-health start-up Kaia Health and subsequently built a D2C brand. Here he experienced the challenges of growing e-commerce brands firsthand. Together with his co-founder Gabriel Thomalla, he founded Alaiko to eliminate those very challenges and revolutionize e-commerce fulfillment. In the first two years since its founding, Alaiko has shipped millions of packages and closed a $30 million Series A funding round with Next47 and Tiger Global.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Alaiko",
+        "position": null,
+        "title": "Founder & CEO",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.alaiko.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2973/Moritz_Weisbrodt_Alaiko.jpg",
+        "slug": "moritz-weisbrodt",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2944",
+            "name": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameDe": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameEn": "Post Purchase Customer Experience: How HEY MARLY optimizes the final piece of the customer experience puzzle with AlaikoEmpty DigitalMasterclass",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2976",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-30f44f18-f1d5-49cd-b547-7931d82374ba",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2977",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-ef14c97f-3457-43a9-8d35-21cf1e44a80c",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2979",
+        "name": "Carmen Brehm",
+        "descriptionDe": "Carmen Brehm, Master of ScienceSeit 2022 bei den internetwarriors als Major Online Marketing Manager für SEO & WebanalyseSeit 2020 im Bereich Online Marketing, Usability, SEO und Webanalyse tätig. ",
+        "descriptionEn": "Carmen Brehm, Master of ScienceSince 2022 with the internetwarriors as Major Online Marketing Manager for SEO & Web Analytics.Since 2020 working in the field of online marketing, usability, SEO and web analytics. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "internetwarriors GmbH",
+        "position": null,
+        "title": "Major Online Marketing Manager | SEO & Webanalyse",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "internetwarriors.de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2979/Carmen.jpg",
+        "slug": "carmen-brehm",
+        "interests": [{
+          "id": "gid://myomr/Interest/1",
+          "slug": "adtech"
+        }, {
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2950",
+            "name": "Google Analytics 4 implementiert - Was nun?",
+            "nameDe": "Google Analytics 4 implementiert - Was nun?",
+            "nameEn": "GA4 implemented - Now what?",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "111"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2980",
+        "name": "Sebastian  Picklum",
+        "descriptionDe": "Sebastian Picklum, PSPO, ist Director of Product Management & Extensions bei Canto, einer führenden Plattform für Digital Asset Management. Sein Spezialgebiet sind Web-, Cloud- und Video-Technologien. Dank seiner 12-jährigen Erfahrung in den Bereichen B2B-Produktmarketing, Produktmanagement und Entwicklungsmanagement, hat Sebastian ein ausgeprägtes Verständnis dafür, was große Organisationen von ihren Marketing Technologien erwarten.Er studierte Wirtschaft und System Engineering an der University of Applied Sciences in Münster und an der University of Adelaide in Australien. Sebastian ist regelmäßig Speaker bei internationalen Konferenzen.",
+        "descriptionEn": "Sebastian Picklum, PSPO, is Director of Product Management, Extensions at Canto, a leading digital asset management platform. He specialises in web, cloud, and video technologies. Having himself worked in B2B product marketing, product management, and development management for over 12 years, Sebastian has a deep understanding of the MarTech requirements of large organizations.He studied business and system engineering at the University of Applied Sciences Münster in Germany and the University of Adelaide in Australia. He has been a regular speaker at international conferences, such as DMEXCO.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Canto GmbH",
+        "position": null,
+        "title": "Director of Product Management, Extensions",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2980/Sebastian-Picklum-1.png",
+        "slug": "sebastian-picklum",
+        "interests": [{
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }, {
+          "id": "gid://myomr/Interest/29",
+          "slug": "video"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2951",
+            "name": "Was Unternehmen von einem Glas Mayo über den gesellschaftlichen Mehrwert einer Marke lernen können",
+            "nameDe": "Was Unternehmen von einem Glas Mayo über den gesellschaftlichen Mehrwert einer Marke lernen können",
+            "nameEn": "What can a jar of mayo teach companies about the connection between brand purpose and growth?",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T11:30:00+01:00",
+            "endsAt": "2022-11-09T12:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2982",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-9920db3b-3570-4b59-b9fc-7c0ab4bd2e9f",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2984",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-9e9b704c-3e18-420b-87f7-01fe249a06d3",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2985",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-f9c320ae-f455-4893-be5e-884421428c3b",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2990",
+        "name": "Janik Stork",
+        "descriptionDe": " ",
+        "descriptionEn": " ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Tamaris ",
+        "position": null,
+        "title": "Coordinator E-Commerce Operations",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "http://www.tamaris.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2990/JanikStork.jpeg",
+        "slug": "empty-speaker-17aafedd-4268-4f92-96b0-095484f0206f",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2957",
+            "name": "Ziel: Internationale Lifestyle Love Brand - Wie Tamaris durch Big Data & Speed to Insights zur Lifestyle Love Brand werden möchte.",
+            "nameDe": "Ziel: Internationale Lifestyle Love Brand - Wie Tamaris durch Big Data & Speed to Insights zur Lifestyle Love Brand werden möchte.",
+            "nameEn": "Our Vision: Becoming an international  Love Brand - How Tamaris aims to become a Love Brand through Big Data & Speed to Insights.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T12:30:00+01:00",
+            "endsAt": "2022-11-10T13:30:00+01:00",
+            "hall": null,
+            "stageId": "115"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2992",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2992/Dana_OMR.png",
+        "slug": "empty-speaker-99307b35-0589-4fd5-a551-f90060b5e9dd",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2993",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-3fcd7ae5-9c66-455b-9196-3f1fe07243df",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2994",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-8028b1fc-c94f-48f0-b472-e1cefdc3c8ea",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2995",
+        "name": "Thomas Kircheis",
+        "descriptionDe": "Optimizing Warehouse Logistics for ecommerce merchants, SMEs, Fulfillers & 3PLs",
+        "descriptionEn": "Optimizing Warehouse Logistics for ecommerce merchants, SMEs, Fulfillers & 3PLs",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "PULPO WMS",
+        "position": null,
+        "title": "CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://www.pulpowms.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2995/Screen_Shot_2022-09-29_at_08.51.21.png",
+        "slug": "empty-speaker-6383709a-70d2-42c3-b1d9-28b92a046ec4",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2962",
+            "name": "Ship it to me! Optimale Lagerverwaltung als Stellschraube für höhere Margen und zufriedenere Kund*innen.",
+            "nameDe": "Ship it to me! Optimale Lagerverwaltung als Stellschraube für höhere Margen und zufriedenere Kund*innen.",
+            "nameEn": "Ship it to me! Optimal warehouse management as key lever for higher margins and happier customers.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T13:30:00+01:00",
+            "endsAt": "2022-11-09T14:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2996",
+        "name": "Empty speaker",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-5cba1ff1-1824-4bb4-a26c-3647d6c92262",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2997",
+        "name": "Lukas Schöngut",
+        "descriptionDe": "Lukas verantwortet beim Münchner Software Startup Crewmeister alle kundenbezogenen Aktivitäten von Marketing über Sales bis zur Bestandskundenberatung. In den fast 7 Jahren in dieser Rolle, hat Lukas ein tiefes Verständnis und Wissen über Software- Entscheidungsprozesse und Erfolgsfaktoren bei der Implementierung von Unternehmenssoftware in kleinen und mittelständischen Unternehmen aufgebaut.",
+        "descriptionEn": "As Chief Revenue Officer of Crewmeister, Lukas is managing all customer facing activities. Leading Marketing, Sales and Customer Care at Crewmeister for almost 7 years now, Lukas has become an expert and gained deep knowledge in software selection and implementation processes in small and medium sized businesses and the HR-Software landscape.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Crewmeister (ATOSS Aloud GmbH)",
+        "position": null,
+        "title": "Chief Revenue Officer",
+        "twitterUrl": "https://mobile.twitter.com/crewmeister_de",
+        "facebookUrl": "https://de-de.facebook.com/crewmeister/",
+        "youtubeUrl": "https://m.youtube.com/channel/UCms8UMyZ_cJLhsX3rNL-26Q/videos?view=0&sort=dd&shelf_id=0",
+        "instagramUrl": "https://www.instagram.com/_crewmeister/?hl=de",
+        "websiteUrl": "https://crewmeister.com/de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2997/lukas.jpg",
+        "slug": "lukas-schoengut",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/14",
+          "slug": "hr"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2964",
+            "name": "Pflicht zur Zeiterfassung - Was bedeutet das Urteil für Deutschlands Unternehmen?",
+            "nameDe": "Pflicht zur Zeiterfassung - Was bedeutet das Urteil für Deutschlands Unternehmen?",
+            "nameEn": "Mandatory time tracking - The Court decision and its consequences for german companies.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T11:30:00+01:00",
+            "endsAt": "2022-11-10T12:30:00+01:00",
+            "hall": null,
+            "stageId": "114"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2999",
+        "name": "Alexandre CHAUDRON",
+        "descriptionDe": "Alexandre ist Deutsch-Franzose und ausgebildeter Ingenieur. Er arbeitet seit zwei Jahren als Solutions Engineer bei Batch.\nEr ist die treibende Kraft hinter der perfekten Integration von Batch in die Apps und Webseiten unserer Kunden.\nEr ist ein Experte im mobilen Umfeld und kennt alle Hintergründe dieser Plattform, die die Nutzung revolutioniert. Er bringt sein Fachwissen bei den Kunden und Leads von Batch ein, um ihre Geschäftsanforderungen zu erfüllen und sie bei der Umsetzung ihrer komplexen Anwendungsfälle mit hohem Mehrwert zu begleiten - das alles in Pre- und Post-Sales.",
+        "descriptionEn": "Alexandre is our Franco-German Solutions Engineer at Batch.\nHe is the linchpin of a perfect integration of the tool in the apps and websites of Batch’s customers.\nExpert in the mobile environment, he knows all the ins and outs of this platform that is revolutionizing usage and brings his expertise to Batch’s customers and prospects in order to respond to their business needs and help them implement their complex, high value-added use cases - both pre and post sales.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Batch",
+        "position": null,
+        "title": "Engineering Manager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2999/Capture_d_e%CC%81cran_2022-09-30_a%CC%80_09.56.22.png",
+        "slug": "empty-speaker-a56b5687-d3ca-4bf5-a12f-34c47e586a6a",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2966",
+            "name": "Mit Omnichannel Strategien zu erfolgreichen Customer Journeys",
+            "nameDe": "Mit Omnichannel Strategien zu erfolgreichen Customer Journeys",
+            "nameEn": "Omnichannel strategies for successful customer journeys",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "98"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3001",
+        "name": "Melanie Volkmann",
+        "descriptionDe": "Meine erste Führungsaufgabe bekam ich mit 17 Jahren: die Leitung und Koordination unseres Kirchenchores - Durchschnittsalter: 65. Challenge: Accepted - Mission: Accomplished! Bis heute ist es meine Verantwortung geblieben, verschiedene Menschen, Parteien und Gruppen zusammenzuführen und mit ihnen auf ein gemeinsames Ziel hinzuarbeiten.  Meine Kernwerte leiten mich bei meiner Aufgabe: meinem Team psychologische Sicherheit bieten und in JEDER Situation eine offene und wertfreie Kommunikationskultur für uns alle erschaffen. Denn nur dann kann kreatives Denken entstehen, kann Eigenverantwortung sich entwickeln und können meine Teammitglieder ihr volles Potenzial abrufen. ",
+        "descriptionEn": "x",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Sana Commerce",
+        "position": null,
+        "title": "Geschäftsführerin DACH",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3001/Melanie_Volkmann__1_.jpg",
+        "slug": "melanie-volkmann",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2968",
+            "name": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameDe": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameEn": "International E-Commerce Rollout: Success Story Ravensburger AG",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3002",
+        "name": "",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "empty-speaker-c250e2ab-2338-4a18-abb6-dfc806052840",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3007",
+        "name": "Christopher Stoll",
+        "descriptionDe": "Christopher Stoll ist mit allen Facetten des Agentur-Prozesses vertraut. Als Managing Director & Head of Sales bei HQLabs, einer etablierten Softwarefirma aus Hamburg, steht er monatlich mit hunderten Agenturen in Kontakt. Er kennt die typischen Probleme, die im Projektalltag auftreten und brennt für Lösungsansätze, die mehr Ordnung im Agenturprozess bringen ­– z.B. eine gute Agentursoftware wie helloHQ, die bereits bei mehr als 700 Agenturen im Einsatz ist. Wenn er sich nicht gerade um helloHQ kümmert, gilt sein Ehrgeiz seiner Handballmannschaft.",
+        "descriptionEn": "Christopher Stoll is familiar with all facets of the agency process. As Managing Director & Head of Sales at HQLabs he is in contact with hundreds of agencies every month. He knows the typical problems that occur in daily project work and is passionate about solutions that bring more order to the agency process – e.g. good agency software like helloHQ, which is already in use at more than 700 agencies. When he is not taking care of helloHQ, his ambition is his handball team.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "helloHQ",
+        "position": null,
+        "title": "Managing Director",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.hellohq.io/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3007/Speakerfoto-chris.png",
+        "slug": "christopher-stoll",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2974",
+            "name": "Die Geheimwaffe erfolgreicher Agenturen: Diese 12+1 Tools solltet Ihr kennen",
+            "nameDe": "Die Geheimwaffe erfolgreicher Agenturen: Diese 12+1 Tools solltet Ihr kennen",
+            "nameEn": "The secret of successful agencies: 12+1 tools to use in 2023",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3008",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-3b45c982-6df1-4d9d-b874-7ab70dd0f755",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3009",
+        "name": "Timo Sturm",
+        "descriptionDe": "Timo ist Senior Produktmanager bei HubSpot. An Wachstum zu arbeiten bedeutet, immer an der Schnittstelle von Marketing und Produkt zu sein. Mit einem Hintergrund in Audiotechnik arbeitete Timo in Wachstumsteams für viele deutsche soziale Produkte wie simfy, XING, LOVOO und Jodel. Bei LOVOO übernahm er die Produktleitung und verhalf dem Unternehmen 2016 zu einem Turnaround, der 2017 zu einer 70-Millionen-Übernahme führte. Bevor er LOVOO verließ, leitete er die Bemühungen zur Einführung einer neuen Produktlinie im 8-stelligen Bereich und legte damit den Grundstein für das zukünftige Wachstum von LOVOO. Heute arbeitet er bei HubSpot, um Marketern zu helfen, bessere Ergebnisse und Wachstum für ihr Unternehmen zu erzielen.",
+        "descriptionEn": "Timo is a Sr. Product Manager at HubSpot. Working on growth means always being at the intersection of marketing and product. Coming from a background in audio engineering, Timo worked on growth teams for many german social products like simfy (an early Spotify competitor), XING, LOVOO, and Jodel. At LOVOO, he took over Product Leadership and helped the company through a turnaround in 2016, leading to a 70M+ acquisition in 2017. He led the efforts to launch a new 8-figure product line, building the foundations of LOVOOs future growth before leaving LOVOO. Today he is working at HubSpot to help marketers to get better results and growth for their business.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Hubspot",
+        "position": null,
+        "title": "Senior Product Manager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3009/Hubspot_Timo_Sturm_Product_Mgr.jpg",
+        "slug": "empty-speaker-c3931765-63c0-4640-97e6-6cd0f7214acd",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3011",
+        "name": "Philip Steffens",
+        "descriptionDe": "Nach seinem Master in Medien- und Kulturpsychologie und Ausbildung zum Analytischen Intensivberater startete er als Digital Research Consultant bei Kernwert, dem führenden Softwareanbieter für qualitative Online-Forschung. Nach vier Jahren des authentischen und offenen Dialogs mit Kunden und Konsumenten nutzt er nun seine Analyse- und Beraterskills, um mit den Enterprise-Kunden von AdmiralCloud digitale Infrastrukturen weiterzuentwickeln.",
+        "descriptionEn": "After his Master's degree in Media and Cultural Psychology and training as an Analytical Intensive Consultant, Philip started as a Digital Research Consultant at Kernwert, the leading software provider for qualitative online research. After four years of authentic and open dialogue with customers and consumers, he now uses his analytical and consulting skills to further develop digital infrastructures with AdmiralCloud's enterprise customers. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "AdmiralCloud AG",
+        "position": null,
+        "title": "Customer Success Management",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.admiralcloud.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3011/Philip_Steffens_Profilbild.jpeg",
+        "slug": "philip-steffens",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2978",
+            "name": "Das Ende der Prokrastination – Wie gutes Medien-Management die Produktivität steigert ",
+            "nameDe": "Das Ende der Prokrastination – Wie gutes Medien-Management die Produktivität steigert ",
+            "nameEn": "The End of Procrastination - How Good Media Management Increases the Productivity ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3014",
+        "name": "Marius Leuchtner",
+        "descriptionDe": "Marius ist Personaler aus Leidenschaft. Nach seiner Ausbildung und Studium kümmert er sich um die Bereiche HR-Software, Employer Branding, Recruiting und Personalentwicklung bei Regenwasser-Management Experten HAURATON. Die passenden Mitarbeitenden für das Unternehmen zu finden, die bestehenden optimal in ihrer Entwicklung zu fördern und das Voranbringen der Arbeitgebermarke von HAURATON, motiviert und erfüllt ihn jeden Tag.",
+        "descriptionEn": "Marius is a passionate HR professional. After his training and studies, he is responsible for the areas of HR software, employer branding, recruiting and personnel development at rainwater management experts HAURATON. Finding the right employees for the company, optimally supporting the existing ones in their development and advancing HAURATON's employer brand motivates and fulfills him every day.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "HAURATON",
+        "position": null,
+        "title": "Leiter Personalentwicklung",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3014/marius-leuchtner-hauraton.jpg",
+        "slug": "marius-leuchtner",
+        "interests": [{
+          "id": "gid://myomr/Interest/14",
+          "slug": "hr"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/43",
+          "slug": "ai"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2981",
+            "name": "Personalentwicklung 4.0: So bekommen Sie Personal- und Business Strategie endlich unter einen Hut!",
+            "nameDe": "Personalentwicklung 4.0: So bekommen Sie Personal- und Business Strategie endlich unter einen Hut!",
+            "nameEn": "Personnel development 4.0: This is how you can finally reconcile personnel and business strategy!",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3017",
+        "name": "Christopher Henke",
+        "descriptionDe": "Als Agency Lead bei Mollie steht Christopher Henke für Online-Zahlungen, die einfach funktionieren. Mit mehr als 6 Jahren Erfahrung im Online-Payment berät er Händler und Agenturen zum Thema Umsatzsteigerung und Internationalisierung und ist Experte im Bereich Checkout-, Prozess- und Conversion-Optimierung.",
+        "descriptionEn": "As Agency Lead at Mollie, Christopher Henke supports online payments that simply work. With more than 6 years of experience in online payments, he advises merchants and agencies on increasing sales and internationalisation and is an expert in checkout, process and conversion optimisation.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Mollie",
+        "position": null,
+        "title": "Agency Lead",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.mollie.com/de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3017/A3748A55-E553-48EA-9C75-75BB4839E031_1_105_c.jpeg",
+        "slug": "christopher-henke",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }, {
+          "id": "gid://myomr/Interest/38",
+          "slug": "finance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2984",
+            "name": "So wird die Customer Experience im Checkout zum Erfolg",
+            "nameDe": "So wird die Customer Experience im Checkout zum Erfolg",
+            "nameEn": "How the customer experience in the checkout becomes a success",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T12:30:00+01:00",
+            "endsAt": "2022-11-08T13:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3018",
+        "name": "Jens Leucke",
+        "descriptionDe": "Jens Leucke leitet als General Manager DACH bei Freshworks die Expansion des IT-Unternehmens in Deutschland, Österreich und der Schweiz, vom Aufbau eines umfassenden Teams von Verkaufstalenten und -experten, Presales, Partnermanagement bis hin zum Customer Success Management. Er verfügt über umfangreiche Erfahrungen im Sales-Bereich, vom Mittelstand bis zum Großunternehmen, und war zuvor im Vertrieb, Presales und Kundenservice von internationalen IT-Unternehmen tätig. Dadurch besitzt er umfangreiche Erfahrungen bei der Entwicklung von Geschäftsstrategien und deren Umsetzung, ebenso wie umfassendes IT-Know-how durch seinen Bachelor-Abschluss in Information Technology von der dualen Hochschule Baden Württemberg.",
+        "descriptionEn": "As General Manager DACH at Freshworks, Jens Leucke leads the expansion of the IT company in Germany, Austria and Switzerland, from building a comprehensive team of sales talent and experts, presales, and partner management to customer success management. He has extensive experience in sales, from mid-sized to large companies, and previously worked in sales, presales, and customer service for international IT companies. As a result, he has extensive experience in the development of business strategies and their implementation, as well as comprehensive IT know-how through his Bachelor's degree in Information Technology from the dual University of Baden Württemberg.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Freshworks",
+        "position": null,
+        "title": "DACH General Director",
+        "twitterUrl": "",
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3018/Screenshot_2022-06-15_at_11.15.55.png",
+        "slug": "empty-speaker-30e216ee-8959-4ef0-945b-dc4ef6ed3b4e",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2985",
+            "name": "Gibt es ein Geheimrezept, um Kund*innen zu halten? ",
+            "nameDe": "Gibt es ein Geheimrezept, um Kund*innen zu halten? ",
+            "nameEn": "Secret recipe to make customers stick around",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T09:30:00+01:00",
+            "endsAt": "2022-11-10T10:30:00+01:00",
+            "hall": null,
+            "stageId": "114"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3019",
+        "name": "Daniel Reinhardt",
+        "descriptionDe": "Daniel Reinhardt, Jahrgang 79, lebt und liebt MAILINGWORK. Durch einige Stationen auf Agentur- und Kundenseite kann Daniel auf über 20 Jahre Erfahrung im Bereich (Online-) Marketing zurückgreifen. Seit 2017 hat er sich dem Thema E-Mail-Marketing und Marketing Automation verschrieben. Hier betreut Daniel Kunden, wie HUK-Coburg, Nordsee, Continental Reifen Deutschland oder die DZ Bank.",
+        "descriptionEn": "Daniel Reinhardt, was born in 1979 and works at MAILINGWORK since 2017. Through several stations on the agency and client side, Daniel gained over 20 years of experience in the field of (online) marketing. Since 2017, he has dedicated himself to the topic of email marketing and marketing automation. Daniel supports customers like HUK-Coburg, Nordsee, Continental Reifen Deutschland and DZ Bank.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Mailingwork GmbH",
+        "position": null,
+        "title": "Sales Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3019/Speaker_Daniel_Reinhardt.jpg",
+        "slug": "daniel-reinhardt",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/12",
+          "slug": "e-mail"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2986",
+            "name": "E-Mail-Marketing Automation: Wie Greenpeace mit individuellen Willkommensserien Unterstützer*innen enger bindet",
+            "nameDe": "E-Mail-Marketing Automation: Wie Greenpeace mit individuellen Willkommensserien Unterstützer*innen enger bindet",
+            "nameEn": "E-mail-marketing automation: How Greenpeace uses individual welcome cycles to bind supporters more closely",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T09:30:00+01:00",
+            "endsAt": "2022-11-10T10:30:00+01:00",
+            "hall": null,
+            "stageId": "112"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3020",
+        "name": "Pia Bahr",
+        "descriptionDe": "Pia ist ein echtes Nordlicht und nach ihrem Studium an der AMD Akademie Mode & Design in Hamburg straight im E-Commerce gelandet. Sie sammelte nach ihrem Studium über 6 Jahre Erfahrung bei einem bekannten Aggregator mit dem Schwerpunkt PDM & MDM. Ihr Verantwortungsbereiche bei Channel Pilot sind:  Prozesse optimieren, die Dokumentation, sämtliche Anbindungen und Consulting-Tätigkeiten.",
+        "descriptionEn": "Pia is a real northerner and landed straight into e-commerce after studying at the AMD Academy of Fashion & Design in Hamburg. After her studies, she gained more than 6 years of experience at a well-known aggregator with a focus on PDM & MDM. Her responsibilities at Channel Pilot are: Optimizing processes, the documentation, all integrations and consulting activities.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Channel Pilot Solutions GmbH",
+        "position": null,
+        "title": "Senior Marketplace Consultant",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3020/pia_bahr.jpg",
+        "slug": "empty-speaker-fc0fa6ea-2df8-4044-9177-59d2024b8b38",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2987",
+            "name": "More business by doing less: 10 Insights, die Euer Marktplatzgeschäft effizienter machen",
+            "nameDe": "More business by doing less: 10 Insights, die Euer Marktplatzgeschäft effizienter machen",
+            "nameEn": "More business by doing less: 10 insights that will make your marketplace business more efficient",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2963",
+        "name": "Dominic Vieregge",
+        "descriptionDe": "Unser Team sorgt sich um eine erfolgreiche und nachhaltige DAM- und PIM-Einführung in Unternehmen unterschiedlichster Branchen. Hierbei nehme ich die Rolle als Director of Service Operations ein. Gemeinsam beraten und unterstützten wir bei der Implementierung und Datenmigration des individuell entwickelten 4ALLPORTALs.\n\nDie Ausbildung zum Mediengestalter, Stationen bei Agenturen und großen Druckereien, ein duales BWL-Studium mit MBA sowie ein Jahr im Ausland bei arvato als Project und Business Development Manager führten mich zu meiner Aufgabe bei der 4ALLPORTAL GmbH.\n\nSeitdem brenne ich für das 4ALLPORTAL und versuche meine tägliche Begeisterung für die Möglichkeiten, die sich mit unserem System bieten, an unsere Kunden weiterzugeben.",
+        "descriptionEn": "Our team takes care of a successful and sustainable DAM and PIM implementation in companies of various industries. Here, I take on the role of Director of Service Operations. Together we advise and support the implementation and data migration of the individually developed 4ALLPORTAL.\n\nMy apprenticeship as a media designer, positions at agencies and large printing companies, a dual business administration degree with an MBA and a year abroad at arvato as a project and business development manager led me to my role at 4ALLPORTAL GmbH.\n\nSince then, I have been burning for 4ALLPORTAL and try to pass on my daily enthusiasm for the possibilities that our system offers to our customers.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "4ALLPORTAL GmbH",
+        "position": null,
+        "title": "Director of Service Operations",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2963/Dominic_Vieregge.jpg",
+        "slug": "dominic-vieregge",
+        "interests": [{
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2967",
+            "name": "PIMp up your data - Moderne Content- und Datenverwaltung bei bofrost*",
+            "nameDe": "PIMp up your data - Moderne Content- und Datenverwaltung bei bofrost*",
+            "nameEn": "PIMp up your data - Modern content and data management at bofrost*",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3024",
+        "name": "Thomas Borkowski",
+        "descriptionDe": "Thomas Borkowski ist Projektmanager bei bofrost*, einem Direktvertreiber von Tiefkühlkost und Speiseeis in aktuell in 12 Ländern. Dort leitet er das PIM-Projekt, welches die Daten aller Produkte, Lieferanten etc. national und international in ERP-Systeme und andere Tools synchronisiert.",
+        "descriptionEn": "Thomas Borkowski is a project manager at bofrost*, a direct seller of frozen food and ice cream in currently 12 countries. There he manages the PIM project, which synchronizes the data of all products, suppliers, etc. nationally and internationally in ERP systems and other tools.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "bofrost* Dienstleistungs GmbH & Co. KG",
+        "position": null,
+        "title": "Projektmanager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3024/1550738057331.jpg",
+        "slug": "thomas-borkowski",
+        "interests": [{
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/46",
+          "slug": "food"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2967",
+            "name": "PIMp up your data - Moderne Content- und Datenverwaltung bei bofrost*",
+            "nameDe": "PIMp up your data - Moderne Content- und Datenverwaltung bei bofrost*",
+            "nameEn": "PIMp up your data - Modern content and data management at bofrost*",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3029",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-d4159c41-7495-46aa-8467-4d99f5a053ad",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2994",
+            "name": "TBA",
+            "nameDe": "TBA",
+            "nameEn": "TBA",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3030",
+        "name": "Dirk Knöchel",
+        "descriptionDe": "Dirk ist bei shipcloud quasi von Anfang an mit dabei und sorgt in seiner Rolle als Key Account Manager vor Allem dafür, dass aus interessierten Firmen glückliche shipcloud Kunden werden. Als Experte für alle Themen rund um Logistik im E-Commerce hilft er unseren Kunden beim Onboarding und hilft auf alle Fragen schnell eine Antwort zu finden. ",
+        "descriptionEn": "Dirk has been with shipcloud from the beginning and, in his role as Key Account Manager, ensures that interested companies become happy shipcloud customers. As an expert for all topics related to logistics in e-commerce, he helps our customers with onboarding and quickly finds answers to all questions. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "shipcloud GmbH",
+        "position": null,
+        "title": "Key Account Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3030/Dirk_01.jpg",
+        "slug": "dirk-knoechel",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2995",
+            "name": "Chaos im Warenlager und Stress bei den Retouren? Warum Ihr im Weihnachtsgeschäft eine ganzheitliche Versandstrategie braucht, die Euch Zeit, Geld und Nerven spart",
+            "nameDe": "Chaos im Warenlager und Stress bei den Retouren? Warum Ihr im Weihnachtsgeschäft eine ganzheitliche Versandstrategie braucht, die Euch Zeit, Geld und Nerven spart",
+            "nameEn": "Chaos in the warehouse and stress with returns? Why you need a holistic shipping strategy for the Christmas season that saves you time, money and nerves.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3034",
+        "name": "Moritz Lukas",
+        "descriptionDe": "Moritz ist Vice President Sales bei byrd und Experte für grenzüberschreitenden E-Commerce. \n\nEr hilft Online-Händlern dabei, mit skalierbarem und digitalem E-Commerce-Fulfillment europaweit zu wachsen. Welche logistischen Herausforderungen sich Online-Händlern stellen, die europaweit verkaufen möchten, und wie sich diese bestmöglich lösen lassen, diskutieren Moritz und sein Team täglich mit Online-Händlern aller Größen.\n\nSeine Laufbahn begann Moritz als Unternehmensberater bei McKinsey & Company. Später war er u.a. Vice President Sales beim E-Commerce-Umsatzsteuer-Spezialisten Taxdoo.\n",
+        "descriptionEn": "Moritz is Vice President Sales at byrd and an expert in cross-border e-commerce. \n\nHe helps online retailers grow across Europe with scalable and tech-enabled e-commerce fulfillment. The logistical challenges faced by online retailers looking to sell across Europe, and how best to solve them, are what Moritz and his team discuss with online retailers of all sizes on a daily basis.\n\nMoritz began his career as a management consultant at McKinsey & Company. Later, he was Vice President Sales at e-commerce sales tax specialist Taxdoo, among others.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "byrd",
+        "position": null,
+        "title": "VP Sales",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3034/MLukas.png",
+        "slug": "petra-dobrocka",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }, {
+          "id": "gid://myomr/Interest/44",
+          "slug": "amazon"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2999",
+            "name": "Als D2C-Brand europaweit skalieren: Logistik als zentraler Erfolgsfaktor",
+            "nameDe": "Als D2C-Brand europaweit skalieren: Logistik als zentraler Erfolgsfaktor",
+            "nameEn": "Scaling across Europe as a D2C brand: Logistics as a key success factor",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3035",
+        "name": "Jens Leven",
+        "descriptionDe": "Jens Leven ist seit über 16 Jahren bei netzwerk P und hat als einer der Geschäftsführer die übergeordnete Kundenverantwortung. Er hat zahlreiche namhafte Unternehmen mit ihren individuellen Herausforderungen bei der Verbesserung ihres Marketing-Setups begleitet. Zusammen mit seinem Team, das sich crossfunktional für jede Aufgabe neu zusammensetzt, findet er innovative Lösungswege.",
+        "descriptionEn": "Jens Leven has been with netzwerk P for over 16 years and, as one of the managing directors, has overall responsibility for clients. He has guided numerous well-known companies with their individual challenges in improving their marketing setup. Together with his team, which is cross-functionally composed for each task, he finds innovative solutions.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Relatial (netzwerk P GmbH)",
+        "position": null,
+        "title": "Geschäftsführer",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.netzwerk-p.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3035/1599231026441.jpeg",
+        "slug": "jens-leven",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3000",
+            "name": "Wie Ihr mit zentraler Marketingkommunikation Zeit und Geld spart",
+            "nameDe": "Wie Ihr mit zentraler Marketingkommunikation Zeit und Geld spart",
+            "nameEn": "How to save time and money with centralized marketing communications",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1209",
+        "name": "Ramona Dold",
+        "descriptionDe": "Ramona arbeitet seit 2018 bei Meta. Als Product Marketing Managerin bildet sie die Schnittstelle zwischen regionalen Account Teams und den Product Teams, die für die Weiterentwicklung von Marketingaktivitäten auf Facebook, Instagram, WhatsApp und Messenger im Commerce Bereich zuständig sind. Bevor Ramona zu Meta kam, verantwortete sie als digitale Strategin über mehrere Jahre verschiedene Online Marketing Kanäle auf internationaler Ebene bei unterschiedlichen Unternehmen, unter anderem bei Goodgame Studios, TOM TAILOR und Vistaprint.",
+        "descriptionEn": "Ramona has been working at Meta since 2018. As Product Marketing Manager, she is the interface between regional account teams and the product teams responsible for the further development of marketing activities on Facebook, Instagram, WhatsApp and Messenger in the commerce area. Prior to joining Meta, Ramona worked as a digital strategist for several years and was responsible for various online marketing channels on an international level at various companies, including Goodgame Studios, TOM TAILOR and Vistaprint.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": "Product Marketing Manager, Central Europe (DACH)",
+        "title": "Product Marketing Manager Central Europe",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1209/Ramona_Dold.jpg",
+        "slug": "ramona-dold",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2977",
+            "name": "Boosting performance in the changing ads ecosystem ",
+            "nameDe": "Boosting performance in the changing ads ecosystem ",
+            "nameEn": "Boosting performance in the changing ads ecosystem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2801",
+        "name": "Kim Koszuszeck",
+        "descriptionDe": "Kim Koszuszeck ist Client Solutions Manager bei Meta in Zürich. Als Teil des Partnership Teams berät er die größten Schweizer Werbetreibenden und hilft ihnen dabei, ihre digitalen Wachstumsziele zu erreichen.",
+        "descriptionEn": "Kim Koszuszeck ist Client Solutions Manager bei Meta in Zürich. Als Teil des Partnership Teams berät er die größten Schweizer Werbetreibenden und hilft ihnen dabei, ihre digitalen Wachstumsziele zu erreichen.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Client Solutions Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2801/Bildschirmfoto_2022-05-05_um_16.46.19.png",
+        "slug": "kim-koszuszeck",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2977",
+            "name": "Boosting performance in the changing ads ecosystem ",
+            "nameDe": "Boosting performance in the changing ads ecosystem ",
+            "nameEn": "Boosting performance in the changing ads ecosystem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2458",
+        "name": "Roman Linker",
+        "descriptionDe": "Roman Linker ist Client Solutions Manager bei Meta und berät dort Kunden, die Marktplätze sind oder Marktplatz-ähnliche Strukturen aufweisen. Durch seine Stationen u.a. bei Amazon, Google, Beiersdorf und nun Meta deckt er das gesamte Spektrum von Hersteller über Händler bis zum Vermarkter ab. Inhaltlich liegt sein Schwerpunkt im Bereich Commerce und auf allen Lösungen, die auf Facebook, Instagram, WhatsApp und Messenger angeboten werden.",
+        "descriptionEn": "Roman Linker ist Client Solutions Manager bei Meta und berät dort Kunden, die Marktplätze sind oder Marktplatz-ähnliche Strukturen aufweisen. Durch seine Stationen u.a. bei Amazon, Google, Beiersdorf und nun Meta deckt er das gesamte Spektrum von Hersteller über Händler bis zum Vermarkter ab. Inhaltlich liegt sein Schwerpunkt im Bereich Commerce und auf allen Lösungen, die auf Facebook, Instagram, WhatsApp und Messenger angeboten werden.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Client Solutions Manager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2458/Bildschirmfoto_2022-04-14_um_13.22.21.png",
+        "slug": "roman-linker",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2977",
+            "name": "Boosting performance in the changing ads ecosystem ",
+            "nameDe": "Boosting performance in the changing ads ecosystem ",
+            "nameEn": "Boosting performance in the changing ads ecosystem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2236",
+        "name": "Monica Vazquez",
+        "descriptionDe": "Monica kam 2021 als Product Marketing Manager für DACH zu Meta. Als Produktexpertin unterstützt sie die Markteinführung der Lösungen Metas aus der der Produktsicht. Dabei fungiert sie als Brücke zwischen den regionalen Account-Teams und den Produktteams bei der strategischen Entwicklung unserer Produktfamilie: Facebook, Instagram, WhatsApp und Messenger, mit einem Schwerpunkt auf Commerce solutions. Bevor sie zu Meta kam, war Monica im Produktmanagement mehrerer Ad-Tech-Unternehmen tätig, die sich auf Betrugsprävention, Attribution, CRM und digitale B2B/B2C-Shops konzentrierten.",
+        "descriptionEn": "Monica joined Meta in 2021 as Product Marketing Manager for DACH. As product expert, she supports the market on adopting Meta's solutions and is the voice of the product in the market. She acts as a bridge between the regional account teams and the product teams on the strategic development of our family of products: Facebook, Instagram, WhatsApp and Messenger, with a focus on commerce solutions. Prior to Meta, Monica worked leading Product Management for several ad tech companies, focused on fraud prevention, attribution, CRM and B2B/B2C digital stores.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Product Marketing Manager Central Europe",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2236/MV_2_Meta.png",
+        "slug": "monica-vazquez",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2977",
+            "name": "Boosting performance in the changing ads ecosystem ",
+            "nameDe": "Boosting performance in the changing ads ecosystem ",
+            "nameEn": "Boosting performance in the changing ads ecosystem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1599",
+        "name": "Thorsten Mühling",
+        "descriptionDe": "Thorsten Mühling ist CEO und Co Founder von epoq und ist Experte, wenn es um KI-gestützte 1:1-Personalisierung im E-Commerce geht. Seit der Gründung leitet er das operative Geschäft und ist für die strategische Weiterentwicklung des Unternehmens verantwortlich. Er gestaltet und verfolgt den Aufstieg des Online-Handels seit fast 20 Jahren und transportiert Prozesse des stationären Handels in die digitale Welt.",
+        "descriptionEn": "Thorsten Mühling is CEO and Co Founder of epoq and is an expert when it comes to AI-supported 1:1 personalization in e-commerce. Since its founding, he has managed the operational business and is responsible for the strategic development of the company. He has been shaping and following the rise of online retail for almost 20 years and transports processes of brick-and-mortar retail into the digital world.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "epoq internet services GmbH",
+        "position": null,
+        "title": "CEO & Co Founder",
+        "twitterUrl": "https://twitter.com/epoq_de",
+        "facebookUrl": "https://www.facebook.com/epoqinternetservices",
+        "youtubeUrl": "https://www.youtube.com/user/epoqCompany",
+        "instagramUrl": "https://www.instagram.com/epoq.de",
+        "websiteUrl": "https://www.epoq.de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1599/thorsten-quadrat-epoq.jpg",
+        "slug": "thorsten-muehling",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/30",
+          "slug": "dialog-marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2943",
+            "name": "5 Tipps für die optimale Startseite",
+            "nameDe": "5 Tipps für die optimale Startseite",
+            "nameEn": "How to make your home page an eye-catcher",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T10:30:00+01:00",
+            "endsAt": "2022-11-10T11:30:00+01:00",
+            "hall": null,
+            "stageId": "115"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3040",
+        "name": "Philipp Czarske",
+        "descriptionDe": "Jedes Unternehmen hat großartige Geschichten zu erzählen. Philipp Czarske hat dies in seiner Karriere immer wieder erlebt. Als Marketer beim ESB Marketing Netzwerk, dem größten Partnernetzwerk für B2B-Sport in Europa, weiß er genau, wie Marken Storytelling nutzen können, um ihr Publikum zu erreichen. Heute unterstützt er Storykit-Kunden dabei, ihre Geschichten als erfolgreiche Videos auf sozialen Netzwerken zu präsentieren.",
+        "descriptionEn": "Every company has great stories to tell. This is something Phil Czarske has seen over and over in his career. With a background as a marketer at ESB Marketing Netwerk, the biggest partner network for B2B sports in Europe, he has a deep knowledge of how brands can leverage storytelling to grow their audience. Today he is helping Storykit clients turn their stories into successful video on social.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Storykit",
+        "position": null,
+        "title": "Client Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3040/phil_gren.png",
+        "slug": "philipp-czarske",
+        "interests": [{
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }, {
+          "id": "gid://myomr/Interest/29",
+          "slug": "video"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3005",
+            "name": "7 Schritte um mit Video auf Social Media erfolgreich zu sein",
+            "nameDe": "7 Schritte um mit Video auf Social Media erfolgreich zu sein",
+            "nameEn": "7 steps to winning on social media with video",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T09:30:00+01:00",
+            "endsAt": "2022-11-08T10:30:00+01:00",
+            "hall": null,
+            "stageId": "105"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3041",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-d3c66983-e34a-47f9-93eb-2ea6160d4cf6",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3043",
+        "name": "Manuel Kohler",
+        "descriptionDe": "Manuel ist bereits seit Juni 2011 bei netzwerk P und konnte in verschiedenen Positionen und zahlreichen Kundenprojekten Erfahrung sammeln. In Marketingtechnologie-Projekten ist er als Solution Achitect für Kundinnen und Kunden eine wichtige Inspiration. Zudem ist er Product Owner von Relatial, einer SaaS-Lösung mit dem Ziel, eine bessere Koordination der Marketingkommunikation zu ermöglichen und verantwortlich zu realisieren. ",
+        "descriptionEn": "Manuel has been with netzwerk P since June 2011 and has gained experience in various positions and numerous customer projects. In marketing technology projects he is an important inspiration for customers as Solution Achitect. In addition, he is Product Owner of Relatial, a SaaS solution with the goal to enable and realize a better coordination of marketing communication. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Relatial (netzwerk P GmbH)",
+        "position": null,
+        "title": "Projekte",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3043/1516931618438.jpeg",
+        "slug": "manuel-kohler",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3000",
+            "name": "Wie Ihr mit zentraler Marketingkommunikation Zeit und Geld spart",
+            "nameDe": "Wie Ihr mit zentraler Marketingkommunikation Zeit und Geld spart",
+            "nameEn": "How to save time and money with centralized marketing communications",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1720",
+        "name": "Arne Schlüter",
+        "descriptionDe": "Arne ist seit mehr als 10 Jahren in der IT- und Softwarewelt zu Hause. Als Director Sales Engineering weiß er genau, wo den Kunden der Schuh drückt und welche Lösungen dabei helfen können. Er ist absolut technologiebegeistert und interessiert an Innovationen, die uns allen einen Mehrwert liefern können.",
+        "descriptionEn": "Arne Schlüter has over 10 years of experience in IT. His expertise span across project management, business consultation and inhouse software vendors. As Director Sales Engineering, Arne is passionate about new technologies that constantly accelerate innovation to adapt to changed consumer behaviour.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Sitecore",
+        "position": null,
+        "title": "Director Sales Engineering",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.sitecore.com/de-de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1720/sitecore-arne-schl%C3%BCter-600x600.png",
+        "slug": "arne-schlueter",
+        "interests": [{
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }, {
+          "id": "gid://myomr/Interest/25",
+          "slug": "search"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2953",
+            "name": "Mehr Conversions mit dieser E-Commerce-Strategie ",
+            "nameDe": "Mehr Conversions mit dieser E-Commerce-Strategie ",
+            "nameEn": "More conversions with this e-commerce strategy ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T09:30:00+01:00",
+            "endsAt": "2022-11-10T10:30:00+01:00",
+            "hall": null,
+            "stageId": "115"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3045",
+        "name": "Till  Dietrich",
+        "descriptionDe": "Till leitet derzeit das Informations- und Kommunikationstechnologiegeschäft (ICT) in der Region. \nMit mehr als 10 Jahren Berufserfahrung in der Tech-Branche bei Google gestaltet er nun das Wachstum und die Markteinführung von Stripe in der DACH- und CEE-Region für Stripe.\n",
+        "descriptionEn": "Till currently leads the Information & Communications Technology (ICT) Business in the region. \nWith more than 10 years working experience in Tech at Google, he is now shaping Stripe's growth and go-to-market efforts in the DACH & CEE region for Stripe.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Stripe",
+        "position": null,
+        "title": "Enterprise Sales AE",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "www.stripe.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3045/Till.jpeg",
+        "slug": "empty-speaker-eca7a2d1-9fd9-4726-8253-2282f235de2f",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3046",
+        "name": "Anna Vossschulte",
+        "descriptionDe": "Master of Science in Business Administration mit dem Fokus Entrepreneurial Management\n7 Jahre Erfahrung in der IT-Branche im DACH-Markt: in SaaS Unternehmen wie Bazaarvoice und Asana, aber auch als Enterprise Account Director bei LinkedIn. Seit Sommer 2021 im Asana Office New York ansässig mit der Verantwortung für strategische Märkte zu betreuen.  \n\nAsana: da ich selber sehr organisiert bin ist Asana nicht nur das perfekte Tool für mich, sondern ich finde es ebenfalls sehr spannend anderen Enterprise Unternehmen eine solch organisierte Arbeitsstruktur zu ermöglichen und Ihnen dadurch die alltägliche Arbeit zu erleichtern",
+        "descriptionEn": "Asana Strategic Markets - New York",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Asana ",
+        "position": null,
+        "title": "Strategic Markets",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3046/AnnaVossschulte_II.JPG",
+        "slug": "empty-speaker-4e05fb44-cc71-41dc-abbf-421332437ba4",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3010",
+            "name": "We Are Era & Asana: Hat man die Arbeit im Griff wird der ROI eine Liebeserklärung",
+            "nameDe": "We Are Era & Asana: Hat man die Arbeit im Griff wird der ROI eine Liebeserklärung",
+            "nameEn": "We Are Era & Asana: Make Work Work for you! So ROI becomes a Love Affaire ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3048",
+        "name": "Michael Görög",
+        "descriptionDe": "Michael beschäftigt sich seit über 6 Jahren mit dem Thema Online Whiteboard & modernen Kollaborationsmethoden. Als Co-Founder von Collaboard hat er zahlreiche Organisationen aus dem öffentlichen Sektor und Unternehmen beim erfolgreichen Einsatz eines Online Whiteboard begleitet. In engster Zusammenarbeit mit verschiedenen Behörden in Deutschland hat Michael fundiertes Wissen im Bereich Datensicherheit & DSGVO erlangt. Am meisten schätzt er die persönliche Beratung sowie die engen Kontakt mit Kunden und ist stets neugierig neue Methoden zu entwickeln, die digitale Zusammenarbeit zu verbessern. ",
+        "descriptionEn": "Michael has been involved in online whiteboarding & modern collaboration methods for over 6 years. As co-founder of Collaboard, he has assisted numerous organizations from the public sector and companies in the successful use of an online whiteboard. Working closely with various government agencies in Germany, Michael has gained in-depth knowledge in the field of data security & DSGVO. Most of all, he values personal consulting as well as close contact with customers and is always curious to develop new methods to improve digital collaboration. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Collaboard",
+        "position": null,
+        "title": "Co-Founder & Head of Business Development",
+        "twitterUrl": "https://twitter.com/collaboard",
+        "facebookUrl": "https://www.facebook.com/collaboard/",
+        "youtubeUrl": "https://www.youtube.com/channel/UCkxKaeQwl35fh3ahLBG4tuQ",
+        "instagramUrl": "https://www.instagram.com/collaboard/",
+        "websiteUrl": "https://www.collaboard.app/de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3048/michael_go%CC%88ro%CC%88g.png",
+        "slug": "michael-goeroeg",
+        "interests": [{
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2979",
+            "name": "New Work Gets Safe and Social - Wie Ihr am effektivsten mit einem Online Whiteboard zusammenarbeitet",
+            "nameDe": "New Work Gets Safe and Social - Wie Ihr am effektivsten mit einem Online Whiteboard zusammenarbeitet",
+            "nameEn": "New Work gets Safe & Social - How you collaborate most effectively with an Online Whiteboard",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T11:30:00+01:00",
+            "endsAt": "2022-11-09T12:30:00+01:00",
+            "hall": null,
+            "stageId": "111"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3049",
+        "name": "Jan  Heidenreich",
+        "descriptionDe": "Jan Heidenreich ist seit 2018 als Agency Partner für die Beratung und strategische Weiterentwicklung führender Agenturen in der DACH-Region verantwortlich. Vor seiner Tätigkeit bei Meta hat er in verschiedenen Führungspositionen die Geschäftsfeldentwicklung beim Social Media Spezialisten esome (heute ProsiebenSat1), den Auf- und Ausbau der DACH-Niederlassung des US-amerikanischen Social Enterprise Software Unternehmen Sprinklr, die digitale Geschäftsfeldentwicklung von Axel Springer Bild Online und die digitale Vermarktung bei Gruner+Jahr verantwortet.",
+        "descriptionEn": "Over the years, Jan was fortunate to have worked in Frankfurt, Munich, Berlin, London and now again in Hamburg with highly talented people at high growth, innovative digital media companies including Gruner+Jahr Electronic Media Sales, Axel Springer, Sprinklr, esome / ProSieben - and now in his fifth year at Meta. As an Agency Partner for Publicis, IPG and Pilot he strives to support his business partners leveraging Meta's family of apps to maximize business results and growth.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Agency Partner",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3049/janheidenreich__1_.jpeg",
+        "slug": "jan-heidenreich",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2977",
+            "name": "Boosting performance in the changing ads ecosystem ",
+            "nameDe": "Boosting performance in the changing ads ecosystem ",
+            "nameEn": "Boosting performance in the changing ads ecosystem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T09:30:00+01:00",
+            "endsAt": "2022-11-09T10:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3050",
+        "name": "Christian Fenner",
+        "descriptionDe": "Christian Fenner ist Mitgründer und Head of Brand von nucao. Seine Leidenschaft für Storytelling, Kommunikation und Branding hat das Start-up von Null auf 100 unter die Top-Nachhaltigkeitsmarken in Deutschland katapultiert. Zuvor hat der \"Forbes 30 under 30\"-Jungunternehmer seinen Bachelor in Wirtschaftsingenieurwesen an der RWTH in Aachen absolviert. Nach einem kurzen Abstecher in die Automobilbranche hat er sich 2016 mit nucao der Mission verschrieben, nachhaltige Schokolade mit maximal positiven Impact für den Planeten zu kreieren.",
+        "descriptionEn": "Christian Fenner is co-founder and Head of Brand at nucao. His passion for storytelling, communication and branding has catapulted the start-up from zero to 100 among the top sustainability brands in Germany. Previously, the \"Forbes 30 under 30\" young entrepreneur completed his bachelor's degree in industrial engineering at RWTH Aachen University. After a brief stint in the automotive industry, in 2016 he embarked on a mission with nucao to create sustainable chocolate with maximum positive impact for the planet.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "the nu company GmbH",
+        "position": null,
+        "title": "Co-Founder & Head of Brand",
+        "twitterUrl": null,
+        "facebookUrl": "https://www.facebook.com/nucao.de",
+        "youtubeUrl": "https://www.youtube.com/channel/UC6Y-bJ-v1pQJNSCwn2A2z7g",
+        "instagramUrl": "https://www.instagram.com/nucao_de/",
+        "websiteUrl": "https://www.nucao.de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3050/Christian_Fenner_600x600.jpg",
+        "slug": "christian-fenner-ec9f786b-170b-4030-97aa-9f9514b8fe72",
+        "interests": [{
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }, {
+          "id": "gid://myomr/Interest/46",
+          "slug": "food"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3054",
+        "name": "Jan Mundorf",
+        "descriptionDe": "Jan ist als Ambassador und Berater bei diversen Organisationen im Bereich des Vertriebs tätig, aber vor allem revolutioniert er bei Pleo, wie Unternehmen ihr Geld ausgeben. Seine vielschichtigen Erfahrungen in der Beratung und im Vertrieb schulten ihn darin, schnell die Herausforderungen von Unternehmen zu identifizieren und mit kreativen Lösungen für Finanz-Teams aufzuwarten.",
+        "descriptionEn": "Jan works as an Ambassador and Consultant with various organizations in the sales space, but most importantly, at Pleo, he revolutionizes how companies spend their money. His multi-faceted experience in consulting and sales trained him to quickly identify business challenges and come up with creative solutions for finance teams.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Pleo Technologies",
+        "position": null,
+        "title": "Account Executive",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3054/P1444391.jpg",
+        "slug": "jan-mundorf",
+        "interests": [{
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }, {
+          "id": "gid://myomr/Interest/38",
+          "slug": "finance"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2970",
+            "name": "Kontrolle vs. Freiheit? – 5 Tipps für Euer Finanzteam der Zukunft",
+            "nameDe": "Kontrolle vs. Freiheit? – 5 Tipps für Euer Finanzteam der Zukunft",
+            "nameEn": "Control vs. freedom? - 5 tips for your finance team of the future",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T10:30:00+01:00",
+            "endsAt": "2022-11-09T11:30:00+01:00",
+            "hall": null,
+            "stageId": "111"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1815",
+        "name": "Karl Turner",
+        "descriptionDe": "Karl Turner ist Berater, Konzeptioner, Produzent und Coach für Live-Kommunikation. Seit 2001 berät er Unternehmen und Agenturen bei ganzheitlichen und kreativen Kommunikationslösungen.\nEr versteht die Inhalte seiner Klienten und setzt diese immer mit dem Blick auf Effizienz in erlebnisorientierte Veranstaltungen um. Ob 5 oder 2.000 Teilnehmer: Karl Turner entwickelt Wege und Möglichkeiten, alle Beteiligten aktiv in das Veranstaltungsgeschehen einzubinden.\n",
+        "descriptionEn": "Karl Turner is a consultant, conceptual designer, producer and coach for live communication. Since 2001, he has been advising companies and agencies on holistic and creative communication solutions.\nHe understands his clients' content and knows how to translate it into experience-oriented events with an eye on efficiency. Whether 5 or 2000 participants: Karl Turner develops ways and possibilities to actively involve all participants in the event.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Turner&Friends",
+        "position": null,
+        "title": "Strategischer Berater",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "www.turner-and-friends.de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1815/Karl_Turner_1.jpg",
+        "slug": "zeljka-vujic",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2961",
+            "name": "Hybride Veranstaltungen: maximale Reichweite ohne Kompromisse",
+            "nameDe": "Hybride Veranstaltungen: maximale Reichweite ohne Kompromisse",
+            "nameEn": "Hybrid events: maximise reach without compromise",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "111"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1693",
+        "name": "Katrin Bouani Yonga",
+        "descriptionDe": "Katrin Bouani Yonga ist Marketing Director bei movingimage, dem führenden Anbieter sicherer Enterprise Video Plattformen. Mit über 15 Jahren Erfahrung in der IT-Branche leitet sie die Marketing Strategie des Unternehmens und berät Kunden rund um Video-Kommunikation.",
+        "descriptionEn": "Katrin Bouani Yonga is Marketing Director at movingimage, the leading provider of secure enterprise video platforms. With over 15 years of experience in the IT industry, she leads the company's marketing strategy and advises clients on all aspects of video communication.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "movingimage EVP GmbH",
+        "position": null,
+        "title": "Marketing Director",
+        "twitterUrl": "https://twitter.com/movingimage_com",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "https://www.instagram.com/movingimage_berlin/",
+        "websiteUrl": "www.movingimage.com/de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1693/katrin-bouani-yonga.jpg",
+        "slug": "katrin-bouani-yonga",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/29",
+          "slug": "video"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2961",
+            "name": "Hybride Veranstaltungen: maximale Reichweite ohne Kompromisse",
+            "nameDe": "Hybride Veranstaltungen: maximale Reichweite ohne Kompromisse",
+            "nameEn": "Hybrid events: maximise reach without compromise",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "111"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1851",
+        "name": "Magdalena Pawlitko",
+        "descriptionDe": "Expertin für datenschutzfreundliche Enterprise Analyticslösungen. Mit mehr als sieben Jahren Erfahrung in Vertrieb und Geschäftsentwicklung leitet Magdalena die Vertriebsteams von Piwik PRO in den wichtigsten EU-Märkten.",
+        "descriptionEn": "Expert in privacy-friendly analytics solutions for business. With over seven years of experience in sales and business development, Magdalena is firmly leading Piwik PRO’s sales teams in key EU markets. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Piwik PRO",
+        "position": null,
+        "title": "Head of Sales (DACH & FR) at Piwik PRO",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://piwikpro.de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1851/Magdalena_Pawlitko_430x430.png",
+        "slug": "empty-speaker-e6e606ff-1488-4f1f-ad1a-ccf8704be3de",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3004",
+            "name": "Abkehr von Google Analytics: Diese Alternative bringt die Datenerfassung und DSGVO-Compliance besser in Einklang",
+            "nameDe": "Abkehr von Google Analytics: Diese Alternative bringt die Datenerfassung und DSGVO-Compliance besser in Einklang",
+            "nameEn": "Moving away from Google Analytics: Find an alternative that better balances data collection with GDPR-compliance",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T12:30:00+01:00",
+            "endsAt": "2022-11-10T13:30:00+01:00",
+            "hall": null,
+            "stageId": "114"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3055",
+        "name": "Anton Ha",
+        "descriptionDe": "Anton Ha ist CEO und Co-Founder der Influencer Marketing Agentur Lookfamed. Mit seiner E-Commerce-Expertise hat er mit seiner Agentur bereits 15 Brands gemeinsam mit Creatorn auf- und ausgebaut.\nLookfamed wurde 2016 gegründet und kann als Full Service Influencer Marketing Agentur alle relevanten Dienste rund um das Social Media Marketing abbilden. Dazu zählen das Creator-Management  bestehend  aus  einem  großen  Portfolio an performancestarken Creator:innen sowie das Campaign-Management, das reichweitenstarke  und  messbare Influencer-Kampagnen umsetzt.",
+        "descriptionEn": "Anton Ha is the CEO and co-founder of the influencer marketing agency Lookfamed. With his e-commerce expertise, he and his agency have already established and expanded 15 brands with several creators.\nLookfamed was founded in 2016 and, as a full-service influencer marketing agency, can map all relevant services related to social media marketing. These include creator management, consisting of a large portfolio of high-performing creators, and campaign management, which implements high-reach and measurable influencer campaigns.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Lookfamed",
+        "position": null,
+        "title": "CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://lookfamed.de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3055/Anton_Ha.png",
+        "slug": "anton-ha",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/15",
+          "slug": "influencer"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2960",
+            "name": "Oft vergessen, immer wichtig: Merchandise als Marketingkanal",
+            "nameDe": "Oft vergessen, immer wichtig: Merchandise als Marketingkanal",
+            "nameEn": "Upskill your Marketing-Mix with Merchandising",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "98"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3059",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-b4b45ad5-90bb-4b26-9518-e7b18aa07240",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3060",
+        "name": "Empty speaker",
+        "descriptionDe": null,
+        "descriptionEn": null,
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": null,
+        "position": null,
+        "title": null,
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": null,
+        "slug": "empty-speaker-9208728a-2b5f-493c-91f6-e5557acd4871",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3061",
+        "name": "Marcus Diekmann",
+        "descriptionDe": "Als Enterprise Evangelist der shopware AG bringt Marcus Diekmann seine Expertise und sein Netzwerk ein, um das Geschäft im Mittelstand und mit großen Händlern und Herstellern zusammen mit Shopware weiterzuentwickeln. Darüber hinaus baut er in seiner Beraterrolle für Shopware eine Enterprise Community auf, in der sich Kunden, Partner und Interessenten regelmäßig über strategische Fragen rund um E-Commerce, Omnichannel und Digital Business austauschen, voneinander lernen und gemeinsam wachsen können.",
+        "descriptionEn": "As enterprise evangelist for shopware AG, Marcus Diekmann leverages his expertise and network to further develop Shopware’s relationships with mid-market businesses and large retailers and manufacturers. In addition, he supports establishing a Shopware Enterprise Community in which customers, partners and interested individuals can regularly exchange ideas on key strategic topics relating to digital commerce, such as omnichannel and B2B. The Shopware Enterprise Community will also provide a space for members to learn from each other and grow together.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "shopware AG",
+        "position": null,
+        "title": "Enterprise Evangelist",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3061/Marcus_Diekmann_shopware_AG.png",
+        "slug": "marcus-diekmann",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2983",
+            "name": "Was B2B- von D2C-Brands lernen können",
+            "nameDe": "Was B2B- von D2C-Brands lernen können",
+            "nameEn": "What B2B brands can learn from D2C brands",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T09:30:00+01:00",
+            "endsAt": "2022-11-08T10:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3062",
+        "name": "Jonas Sorgalla",
+        "descriptionDe": "Jonas Sorgalla ist E-Commerce Manager bei HEY MARLY. Er kümmert sich um die stetige Optimierung und den Ausbau aller relevanten Touchpoints entlang der Customer Journey. Die Kernbereiche seiner Arbeit liegen dabei in Performance Marketing, Onsite-Optimierung, Customer Relationship Managements und der Customer Retention. Zuvor war der studierte Kommunikationsdesigner selbstständig als Fotograf, Grafikdesigner und im Onlinemarketing für Start-Ups tätig. An seinem Job reizt ihn das Zusammenspiel aus Psychologie & Daten und die stetige Arbeit daran, die Kund:innen besser zu verstehen als sie sich selbst.",
+        "descriptionEn": "As E-Commerce Manager Jonas Sorgalla is responsible for the continuous optimization and expansion of all relevant touchpoints along the customer journey at HEY MARLY. The core areas of his work are performance marketing, onsite optimization, customer relationship management and customer retention. Previously, the communication designer worked as a photographer, graphic designer and in online marketing for start-ups. What appeals to him about his job is the interplay between psychology and data and the constant work to understand customers better than they understand themselves.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "HEY MARLY",
+        "position": null,
+        "title": "E-Commerce Manager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3062/jonas_sorgalla_600x600.jpg",
+        "slug": "jonas-sorgalla",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2944",
+            "name": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameDe": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameEn": "Post Purchase Customer Experience: How HEY MARLY optimizes the final piece of the customer experience puzzle with AlaikoEmpty DigitalMasterclass",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3063",
+        "name": "Benjamin Gregor Zaczek",
+        "descriptionDe": "Benjamin Gregor Zaczek Kunden berät seit 2004 Kunden aus Deutschland und den USA und referiert zu den Themen Vertrieb, Digital-Marketing und Kundengenerierung.\n\nAuf Basis seiner Agenturtätigkeit entwickelte er 2010 das Produkt SalesViewer®, mit welchem sich anonyme Website-Besucher identifizieren und zu neuen Kunden machen lassen.\n\nSalesViewer® zählt heute zu den führenden Online-Marketing-Tools und wird von Unternehmen wie z.B. Stepstone, Statista, Deutsche Messe, Cyberport, Linde und tausenden kleinen und mittelständischen Unternehmen weltweit genutzt.\n\nBenjamin Gregor Zaczek wurde 2019 in den USA mit dem Titel „Newcomer of the year“ und 2020 als „Gründer, Macher und Kreativer“ von dem renommierten Magazin Business Punk ausgezeichnet.",
+        "descriptionEn": "Benjamin Gregor Zaczek has been advising clients from Germany and the USA since 2004 and speaks on the topics of sales, digital marketing and customer generation.\n\nBased on his agency work, he developed the product SalesViewer® in 2010, which can be used to identify anonymous website visitors and turn them into new customers.\n\nSalesViewer® is now one of the leading online marketing tools and is used by companies such as Stepstone, Statista, Deutsche Messe, Cyberport, Linde and thousands of small and medium-sized enterprises worldwide.\n\nBenjamin Gregor Zaczek was awarded the title \"Newcomer of the year\" in the USA in 2019 and \"Founder, Maker and Creative\" in 2020 by the renowned magazine Business Punk.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "SalesViewer® — Einfach neue Kunden finden",
+        "position": null,
+        "title": "CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3063/zaczek.png",
+        "slug": "benjamin-gregor-zaczek-3f331a7e-2d1a-4419-8a90-679ab3e46cba",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2988",
+            "name": "SUPERCHARGE your B2B-Sales — Einfach neue Kund*innen finden!",
+            "nameDe": "SUPERCHARGE your B2B-Sales — Einfach neue Kund*innen finden!",
+            "nameEn": "SUPERCHARGE your B2B-Sales — Get new customers instantly!",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T10:30:00+01:00",
+            "endsAt": "2022-11-10T11:30:00+01:00",
+            "hall": null,
+            "stageId": "112"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3064",
+        "name": "Robin Heintze",
+        "descriptionDe": "Robin Heintze ist Mitgründer und Geschäftsführer der Online-Marketing-Agentur morefire. Das 120-köpfige, internationale Team aus sympathischen Spezialisten nutzt alle relevanten Kanäle im Online Marketing, um für die Kunden ein nachhaltiges Wachstum zu erreichen.\n\nDabei werden die Strategie und auch die Umsetzung aller Maßnahmen aus einem Team realisiert. So erzielen Kunden mehr Leads und Verkäufe über Kanäle wie SEO, Google Ads, Content-Marketing, Social-Media oder Marketing-Automation und können diese exakt messen, dank professioneller Webanalyse.\n\nAls Speaker ist er regelmäßig auf Fachveranstaltungen wie der SMX, dem OMT oder der dmexco zu sehen und ist als Autor in Fachpublikationen aktiv.",
+        "descriptionEn": "Robin Heintze is co-founder and managing director of the online marketing agency morefire. The 120-strong, international team of friendly specialists uses all relevant channels in online marketing to achieve sustainable growth for customers.\n\nThe strategy and also the implementation of all measures are realized from one team. Thus, clients achieve more leads and sales through channels such as SEO, Google Ads, content marketing, social media or marketing automation and can measure them exactly, thanks to professional web analytics.\n\nAs a speaker, he can regularly be seen at trade events such as SMX, OMT or dmexco and is active as an author in trade publications.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "morefire GmbH",
+        "position": null,
+        "title": "Managing Partner",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://www.more-fire.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3064/robin-heintze.1024x1024.jpg",
+        "slug": "robin-heintze-6caaac20-e7cf-4412-8500-33dba7c9f961",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/12",
+          "slug": "e-mail"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2988",
+            "name": "SUPERCHARGE your B2B-Sales — Einfach neue Kund*innen finden!",
+            "nameDe": "SUPERCHARGE your B2B-Sales — Einfach neue Kund*innen finden!",
+            "nameEn": "SUPERCHARGE your B2B-Sales — Get new customers instantly!",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T10:30:00+01:00",
+            "endsAt": "2022-11-10T11:30:00+01:00",
+            "hall": null,
+            "stageId": "112"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3065",
+        "name": "Patrick Hollenbeck",
+        "descriptionDe": "Passionierter Content-Marketer, Co-Founder der Agentur House of Yas und Head of Marketing DACH bei PlayPlay - DER Video-Creation-Plattform für Unternehmen.",
+        "descriptionEn": "Passionate content marketer, co-founder of the agency House of Yas and Head of Marketing DACH at PlayPlay - THE video creation platform for companies.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "PlayPlay",
+        "position": null,
+        "title": "Head of Marketing DACH",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3065/Capture_d_e%CC%81cran_2022-07-15_a%CC%80_17.17.53.png",
+        "slug": "patrick-hollenbeck",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/29",
+          "slug": "video"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2956",
+            "name": "In 5 Schritten zum perfekten Social Media Video",
+            "nameDe": "In 5 Schritten zum perfekten Social Media Video",
+            "nameEn": "How to create the perfect Social Media Video in 5 steps",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T09:30:00+01:00",
+            "endsAt": "2022-11-08T10:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1804",
+        "name": "Jochen Katz",
+        "descriptionDe": "Als Senior Director Marketing Strategy & Operations leitet Jochen Katz die Bereiche Digital Strategy, Event Content Strategy sowie Business Operations & Planning bei Salesforce für Central Europe. Davor sammelte er bereits wertvolle Erfahrungen im technischem Vertrieb und Marketing bei Microsoft und der Deutschen Telekom.",
+        "descriptionEn": "As Senior Director Marketing Strategy & Operations, Jochen Katz is in charge of Digital Strategy, Event Content Strategy and Business Operations & Planning at Salesforce for Central Europe. Prior to that, he gained valuable experience in technical sales and marketing at Microsoft and Deutsche Telekom.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Salesforce ",
+        "position": null,
+        "title": "Senior Director Marketing Strategy und Operations, Central Europe ",
+        "twitterUrl": "https://twitter.com/jochenkatz",
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://de.linkedin.com/in/jochenkatz",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1804/JochenKatzSquare.png",
+        "slug": "jochen-katz",
+        "interests": [{
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/19",
+          "slug": "cloud"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3013",
+            "name": "State of Commerce: 3 globale Top-Trends, die Commerce-Expert*innen kennen müssen",
+            "nameDe": "State of Commerce: 3 globale Top-Trends, die Commerce-Expert*innen kennen müssen",
+            "nameEn": "State of Commerce: 3 top global trends that commerce experts need to know about",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T11:30:00+01:00",
+            "endsAt": "2022-11-09T12:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/DigitalMasterclass/3011",
+            "name": "Pure Magie: Wie CDP das Marketing verzaubert",
+            "nameDe": "Pure Magie: Wie CDP das Marketing verzaubert",
+            "nameEn": "Pure magic: How CDP enchants marketing",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T10:30:00+01:00",
+            "endsAt": "2022-11-09T11:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3066",
+        "name": "Christoph  Cuquemel",
+        "descriptionDe": "Christoph Cuquemel, ist ein echter Marketing-Automation-Veteran, der sich seit 18 Jahren den Themen Marketing-Automatisierung und Customer Experience widmet. Über sieben Jahre war er bei Salesforce beschäftigt, zuletzt in der Rolle des Director DACH für die Solution Engineering Marketing Cloud. Hier verantwortete er den Aufbau des Solution-Engineering-Teams in mehreren Regionen. 2022 mitbegründete er mit fluent:cx ein eigenes Unternehmen, das Kund:innen aus unterschiedlichen Branchen bei ihrer Salesforce-Strategie berät.",
+        "descriptionEn": "Christoph Cuquemel, is a true marketing automation veteran who has been dedicated to the topics of marketing automation and customer experience for 18 years. He was employed at Salesforce for over seven years, most recently in the role of Director DACH for Solution Engineering Marketing Cloud. Here he was responsible for building the solution engineering team in several regions. In 2022, he co-founded his own company, fluent:cx, which advises customers from various industries on their Salesforce strategy.\n\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "fluent:cx",
+        "position": null,
+        "title": " Cofounder & CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://fluentcx.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3066/christoph_Cuquemel_.jpeg",
+        "slug": "christoph-cuquemel",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3011",
+            "name": "Pure Magie: Wie CDP das Marketing verzaubert",
+            "nameDe": "Pure Magie: Wie CDP das Marketing verzaubert",
+            "nameEn": "Pure magic: How CDP enchants marketing",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T10:30:00+01:00",
+            "endsAt": "2022-11-09T11:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2780",
+        "name": "Nino Bergfeld",
+        "descriptionDe": "Nino Bergfeld arbeitet in seiner Rolle als Director Retail Advisory eng mit Marken und Händlern in EMEA zusammen und berät diese bei Themen wie Digitalisierung, kundenzentrische Transformation, Loyalty und Innovation. Seine Branchenkompetenz gepaart mit innovativen Ideen sowie einem tiefgehend technischen Verständnis machen ihn zu einem begehrten Sprecher auf Konferenzen und Veranstaltungen. Bis zu seinem Einstieg bei Salesforce war er bei publicis sapient als Business Consultant tätig.",
+        "descriptionEn": "Nino Bergfeld is a Directory of Retail Advisory in the Global Retail industry division. He works closely with leading Retailers and Brands in Europe on topics like digitization, customer-centric transformation, loyalty and innovation. Before joining Salesforce, he worked as a business consultant at publicis sapient.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Salesforce",
+        "position": null,
+        "title": "Director Retail Advisory",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2780/Bergfeld_Nino_Web_photographer_gunnar_menzel_0998.jpeg",
+        "slug": "nino-bergfeld",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3012",
+            "name": "Loyalty Management: Erfolgreiche Kundenbindung, die Digital und Offline verknüpft",
+            "nameDe": "Loyalty Management: Erfolgreiche Kundenbindung, die Digital und Offline verknüpft",
+            "nameEn": "Loyalty management: Successful customer retention that connects digital and offline",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3069",
+        "name": "Armin Braunsberger",
+        "descriptionDe": "Armin Braunsberger ist ein Agenturinhaber, Multimediaprofi und Webdesigner aus Österreich. Er ist einer der produktivsten Experten im Squarespace Marketplace mit über 300 verifizierten Projekten - allein in den letzten 2 Jahren.\n\nAls Kreativdirektor und Berater für digitales Marketing ist Armin bei internationalen Projekten von Top-Marken bis hin zu mittelständischen Unternehmen und Start-ups sehr gefragt. Markendesign, digitales Compositing und analytisches Marketing sind die Schwerpunkte seiner Arbeit. ",
+        "descriptionEn": "Armin Braunsberger is an agency owner, multi-media professional, and web designer based out of Austria. He is one of the most prolific experts in the Squarespace Marketplace having completed over 300 verified projects - just within the last 2 years.\n\nAs a creative director & digital marketing consultant, Armin is highly requested on international projects ranging from top brands to medium-sized enterprises and start-ups. Brand design, digital compositing, and analytic marketing are central to his work. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Braunsberger Media",
+        "position": null,
+        "title": "Squarespace Expert",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://www.braunsberger-media.com/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3069/Armin_Profil-1_ABedit.jpeg",
+        "slug": "empty-speaker-575db66c-adab-4f5e-985e-09048f59ae98",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3070",
+        "name": "Malte Rau",
+        "descriptionDe": "Im letzten Jahrzehnt habe ich mich darauf konzentriert, die Lücke zwischen Risikomanagement und Geschäftsentwicklung für mehrere Banken und Fintechs im In- und Ausland zu schließen. Ich habe vor kurzem pliant mitgegründet, um Firmenkreditkarten so einfach zu machen, wie sie sein sollten, klimaschädliche Kartenanreize zu beheben und gleichzeitig die Komplexität von Zahlungen und Kreditvergabe zu lösen.",
+        "descriptionEn": "Over the past decade, I've focused on bridging the gap between risk management and business development for several banks and fintechs, both domestically and internationally. I recently co-founded Pliant to make corporate credit cards as easy as they should be, fixing climate-damaging card incentives while solving the complexities of payments and lending.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Pliant",
+        "position": null,
+        "title": "CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3070/Malte_RGB_Square.jpg",
+        "slug": "malte-rau-36f212e2-be75-45b3-85b6-3dd9b3ea8ae8",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2982",
+            "name": "2023: So holst Du das Maximum aus Deinen Google Search Ads",
+            "nameDe": "2023: So holst Du das Maximum aus Deinen Google Search Ads",
+            "nameEn": "How to get the most out of your Google Search Ads in 2023",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": "98"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2117",
+        "name": "Frank Trefzer",
+        "descriptionDe": "Frank Trefzer hat jahrzehntelange Erfahrung in der MarTech-Industrie und ist Managing Director DACH bei Tealium. Mit seinem bewährten Fachwissen und seinen Kenntnissen unterstützt er Unternehmen bei der Implementierung eines datengesteuerten Marketingansatzes und einer personalisierten Customer Experience.",
+        "descriptionEn": "Frank Trefzer has decades of experience in the MarTech industry and is Managing Director DACH at Tealium. With his proven expertise and knowledge he is supporting companies to implement a data-driven marketing approach, creating a unique and personalised customer experience.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Tealium",
+        "position": null,
+        "title": "Managing Director DACH",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2117/Frank_Trefzer-Tealium_9-2021.JPG",
+        "slug": "frank-trefzer",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3003",
+            "name": "Wie Ihr mehr aus Eurem Marketingbudget rausholt - dank First-Party-Daten",
+            "nameDe": "Wie Ihr mehr aus Eurem Marketingbudget rausholt - dank First-Party-Daten",
+            "nameEn": "How to make the most out of your marketing budget - thanks to 1st-party data",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T10:30:00+01:00",
+            "endsAt": "2022-11-10T11:30:00+01:00",
+            "hall": null,
+            "stageId": "114"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3072",
+        "name": "Torsten Müller",
+        "descriptionDe": "Torsten Müller ist Senior Vice President Marketing & Communications bei Urban Sports Club, Europas größter Plattform für Sport und Wellness, mit Hauptsitz in Berlin. Das Unternehmen ist in 5 europäischen Ländern aktiv und bietet Mitgliedern sowie Firmen und deren Mitarbeitenden Zugang zu mehr als 50 Sportarten und tausenden Sportpartnern. Torsten hat über 10 Jahre Berufserfahrung als Gründer und Unternehmer. Vor Urban Sports Club co-gründete er Tame, eine Kontext-Suchmaschine für Twitter. Davor war er als freier Journalist im Online- und Printbereich tätig.",
+        "descriptionEn": "Torsten Müller is Senior Vice President Marketing & Communications at Urban Sports Club, Europe's largest platform for sports and wellness, headquartered in Berlin. The company is active in 5 European countries and offers members as well as companies and their employees access to more than 50 sports and thousands of sports partners. Torsten has over 10 years of professional experience as a founder and entrepreneur. Before Urban Sports Club, he co-founded Tame, a context search engine for Twitter. Before that, he worked as a freelance journalist in the online and print sector.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Urban Sports Club",
+        "position": null,
+        "title": "Senior Vice President Marketing & Communications",
+        "twitterUrl": "@mundustorsten",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3072/torsten_400x400-1.jpg",
+        "slug": "torsten-mueller",
+        "interests": [{
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3016",
+            "name": "Customer Experience ist Teamsport: Wie guter Kundenservice über alle Departments hinweg gelingt",
+            "nameDe": "Customer Experience ist Teamsport: Wie guter Kundenservice über alle Departments hinweg gelingt",
+            "nameEn": "Customer experience is a team sport: How good customer service succeeds across all departments",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "99"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3073",
+        "name": "Tassilo Ott",
+        "descriptionDe": "Dimensionen erschaffen, Dinge zusammenbringen - hier liegt der Fokus in wahrlich allen Facetten von der Promotion in theoretischer Physik zum Gründer und CEO der Event- und Communityplattform talque.",
+        "descriptionEn": "Creating dimensions, bringing things together - here the focus is truly on all facets, from the doctorate in theoretical physics to the founder and CEO of the event and community platform talque.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "talque",
+        "position": null,
+        "title": "Co-Founder & CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://web.talque.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3073/tassilo-omr.jpg",
+        "slug": "empty-speaker-8865e323-8322-4090-953a-c60d78f3a6a7",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3019",
+            "name": "Wie werden remote Teilnehmer*innen wirklich zum Teil der Veranstaltung? Die hybride Kreation von Communities.",
+            "nameDe": "Wie werden remote Teilnehmer*innen wirklich zum Teil der Veranstaltung? Die hybride Kreation von Communities.",
+            "nameEn": "How does the remote participant really become part of the event? The hybrid creation of communities.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T13:30:00+01:00",
+            "endsAt": "2022-11-07T14:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1776",
+        "name": "Dana Nedamaldeen",
+        "descriptionDe": "Dana Nedamaldeen ist Gründer und Co-CEO der Guided Selling Plattform Neocom.ai. In den letzten 10 Jahren hat Dana mehrere Technologie Startups aufgebaut mit Schwerpunkt im Bereich B2B SaaS.",
+        "descriptionEn": "Dana Nedamaldeen is founder and Co-CEO of the Guided Selling platform Neocom.ai. In the last 10 years, Dana has built several technology startups with a focus on B2B SaaS.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Neocom.ai",
+        "position": null,
+        "title": "Founder & Co-CEO",
+        "twitterUrl": "https://twitter.com/neocom_ai",
+        "facebookUrl": "https://www.facebook.com/neocomai",
+        "youtubeUrl": "https://www.youtube.com/channel/UCg6XVomRVzyDyZIunXu0Qng",
+        "instagramUrl": "https://www.instagram.com/neocom_ai/",
+        "websiteUrl": "https://neocom.ai/de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1776/DSC_0248.JPG",
+        "slug": "dana-nedamaldeen",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2959",
+            "name": "How to sell successful online (fast): Tipps und Tricks für ein zukunftsfähiges Online-Business",
+            "nameDe": "How to sell successful online (fast): Tipps und Tricks für ein zukunftsfähiges Online-Business",
+            "nameEn": "How to sell successful online (fast): Tips and tricks for a future-ready online business",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T11:30:00+01:00",
+            "endsAt": "2022-11-10T12:30:00+01:00",
+            "hall": null,
+            "stageId": "115"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3074",
+        "name": "Ben Rund",
+        "descriptionDe": "Ben Rund verbrachte viel Zeit im Silicon Valley, wo er mit Unternehmen wie Amazon, Google, Microsoft und Salesforce an Partnerschaften und gemeinsamen Lösungen sowie mit anderen Global Fortune 500-Unternehmen an ihrer digitalen Kundenerfahrung arbeitete. Seine Leidenschaft für die Rendite von Informationen und das Informationsmanagement in Unternehmen zeigt sich in Projekten wie der ROI of MDM/PIM-Forschung und in der Anerkennung als einer der wichtigsten Omnichannel-Influencer.",
+        "descriptionEn": "Ben spent frequent times in Silicon Valley collaborating with companies like Amazon, Google, Microsoft, and Salesforce on partnerships and joint solutions, as well as working with other Global Fortune 500 companies on their digital customer experience. His passion for the return of information and enterprise information management has been shown through projects like the ROI of MDM/PIM research, and through recognition as a top omnichannel influencer.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Syndigo",
+        "position": null,
+        "title": "VP Alliances EMEA",
+        "twitterUrl": "https://twitter.com/benrund",
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3074/Ben_400x400.jpg",
+        "slug": "ben-rund",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2996",
+            "name": "4 Strategien für besserer Produktdetailseiten und Rock-Conversions",
+            "nameDe": "4 Strategien für besserer Produktdetailseiten und Rock-Conversions",
+            "nameEn": "4 Strategies to Build Better Product Detail Pages & Rock Conversions",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T13:30:00+01:00",
+            "endsAt": "2022-11-07T14:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3075",
+        "name": "Martin Gliesche",
+        "descriptionDe": "Attahced the german document, did not expect to do this.\nHere my german bio:\nErfahrener Professional mit einer Historie in der Informationstechnologie- und Dienstleistungsbranche zwischen Marken und Handel. Qualifiziert in internationalem Projektmanagement, International Business Development, Corporate Governance und Business Intelligence. Starker Beratungs- und Managementprofi absolvierte die Technische Universität Dresden und Dortmund.",
+        "descriptionEn": "Experienced Senior Professional with a demonstrated history of working in the information technology and services industry. Skilled in International Project Management, International Business Development, Corporate Governance and Business Intelligence. Strong consulting and managing professional graduated from Technische Universität Dresden and Dortmund.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Syndigo",
+        "position": null,
+        "title": "Business Development  ",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3075/martin-gliesche.1024x1024.jpg",
+        "slug": "martin-gliesche",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2996",
+            "name": "4 Strategien für besserer Produktdetailseiten und Rock-Conversions",
+            "nameDe": "4 Strategien für besserer Produktdetailseiten und Rock-Conversions",
+            "nameEn": "4 Strategies to Build Better Product Detail Pages & Rock Conversions",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T13:30:00+01:00",
+            "endsAt": "2022-11-07T14:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3076",
+        "name": "Anne Uekermann",
+        "descriptionDe": "Anne Uekermann verantwortet als Senior Manager die Marketingaktivitäten in Mitteleuropa bei Amplitude. Seit über 15 Jahren treibt sie mit Leidenschaft die Themen Digitalisierung, Data Analytics und Customer Experience Management voran, u.a. bei Twilio, Qualtrics und Kantar.Amplitude™ bietet produktspezifische Datenanalyse für Unternehmen mit digitalen Mobile- und Web-Produkten an.",
+        "descriptionEn": "Anne Uekermann is responsible for Amplitude's marketing activities in Central Europe as Senior Manager. For more than 15 years, she has been passionately driving the topics of digitalisation, data analytics and customer experience management, among others at Twilio, Qualtrics and Kantar.Amplitude™ offers product-specific data analytics for companies with digital mobile and web products.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Amplitude",
+        "position": null,
+        "title": "Senior Field Marketing Manager",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3076/Anne.png",
+        "slug": "anne-uekermann",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3077",
+        "name": "Mathis Betz",
+        "descriptionDe": "Ursprünglich stammt Mathis aus dem Niederländischen Agenturgeschäft, in 2019 wechselte er an die Technologie-Seite der Influencer Industrie. Seither spezialisiert er sich auf die Implementierung und Adaption von Influencer Softwarelösungen bei Konzernen, D2C Firmen und Agenturen. In den letzten 2 Jahren hat er maßgeblich den Erfolg der IROIN® Influencer Marketing Suite bestimmt und führt zurzeit die Kommerziellen Abteilungen des Unternehmens.",
+        "descriptionEn": "Originating from the Dutch agency business, Mathis moved to the technology side of the Influencer industry in 2019. Since then, he specialised in the implementation and adaptation of influencer software solutions for corporations, D2C companies, and agencies. In the last 2 years, he has been instrumental in the success of the IROIN® Influencer Marketing Suite and currently leads the commercial departments of the company.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "IROIN® Influencer Marketing Suite",
+        "position": null,
+        "title": "Chief Commercial Officer",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": "https://www.instagram.com/mathis_iroin/",
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3077/Profilbild_OMR-min.png",
+        "slug": "mathis-betz",
+        "interests": [{
+          "id": "gid://myomr/Interest/15",
+          "slug": "influencer"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2955",
+            "name": "5 Tipps zum erfolgreichen Workflow | IROIN x Social-Match ",
+            "nameDe": "5 Tipps zum erfolgreichen Workflow | IROIN x Social-Match ",
+            "nameEn": "5 Tipps for creating a successful Workflow | IROIN x Social-Match ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "105"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3078",
+        "name": "Jessica Haltenhof",
+        "descriptionDe": "Jessica leitet für Social-Match den Standort in Berlin und hat zudem als Director of Influencer Marketing Management die Verantwortung für ein dreißigköpfiges Team. Bevor Sie bei Social-Match began, leitete sie bei Buzzbird in ihrer Rolle als Chief Client Officer die Bereiche Client Services und Influencer Relations. Sie gilt als eine der Expertinnen im Influencer Marketing und setzt sich für authentische und trendgetriebene Pilotprojekte ein. ",
+        "descriptionEn": "Jessica manages the Berlin office for Social-Match and is also responsible for a team of thirty employees as Director of Influencer Marketing Management. Before joining Social-Match, she was Chief Client Officer at Buzzbird, where she was in charge of Client Services and Influencer Relations. She is considered one of Germany's experts in influencer marketing and is committed to authentic and trend-driven pilot projects. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Social Match",
+        "position": null,
+        "title": "Director of Influencer Marketing Management",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3078/Screenshot_2022-09-21_at_19.30.23.png",
+        "slug": "jessica-haltenhof",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/15",
+          "slug": "influencer"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2955",
+            "name": "5 Tipps zum erfolgreichen Workflow | IROIN x Social-Match ",
+            "nameDe": "5 Tipps zum erfolgreichen Workflow | IROIN x Social-Match ",
+            "nameEn": "5 Tipps for creating a successful Workflow | IROIN x Social-Match ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "105"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1760",
+        "name": "Timo Hoffmann",
+        "descriptionDe": "Timo Hoffmann verantwortet bei Agicap die strategischen Partnerschaften und ist seit dem Deutschlandstart von Agicap mit dabei. Mit seinem Wissen unterstützt Timo mittelständische Unternehmer:innen beim Treffen von wichtigen Finanzentscheidungen mit Hilfe einer einfacheren und effizienteren Liquiditätsplanungsmethode, welche die Digitalisierung in der Finanzabteilung vorantreibt. Bereits vor Agicap unterstützte Timo verschiedenen Start-ups dabei in Deutschland Fuß zu fassen.",
+        "descriptionEn": "Timo Hoffmann is responsible for Agicap's strategic partnerships and has been with Agicap since its German launch. With his knowledge, Timo supports medium-sized entrepreneurs in making important financial decisions with the help of a simpler and more efficient liquidity planning method, which drives digitalization in the finance department. Already before Agicap, Timo supported several start-ups to gain a foothold in Germany.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Agicap",
+        "position": null,
+        "title": "Head of Partnerships",
+        "twitterUrl": "https://www.linkedin.com/in/timo-hoffmann-160aa3a8/",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://agicap.com/de/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1760/Timo_Hoffmann-v1-lowres.jpg",
+        "slug": "timo-hoffmann",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2990",
+            "name": "No cash, no trees - Wie man eine nachhaltige Marke aufbaut, erzählt von der CFO von NIKIN",
+            "nameDe": "No cash, no trees - Wie man eine nachhaltige Marke aufbaut, erzählt von der CFO von NIKIN",
+            "nameEn": "No cash, no trees – How to build a sustainable brand told by the CFO of NIKIN",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "99"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3079",
+        "name": "Carla Hänny",
+        "descriptionDe": "Carla Hänny ist in Brasilien geboren und aufgewachsen und nach ihrem Bachelor in Wirtschaftswissenschaften 2016 in die Schweiz gezogen. Nach ihrem Abschluss in Entrepreneurship an der FHNW im Jahr 2019 ist sie voll bei NIKIN eingestiegen. Im Jahr 2021 wurde Carla in die Forbes Under 30 Europe for Social Impact & Forbes 30 under 30 DACH aufgenommen.",
+        "descriptionEn": "Carla Hänny was born and raised in Brazil and moved to Switzerland in 2016 after finishing her Bachelor in Economics. After graduating in Entrepreneurship at FHNW in 2019 she has been fully dedicated to NIKIN. In 2021 Carla got listed on Forbes Under 30 Europe for Social Impact & Forbes 30 under 30 DACH.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "NIKIN",
+        "position": null,
+        "title": "CFO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3079/Carla_Profile_Picture-quad.jpg",
+        "slug": "carla-haenny",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2990",
+            "name": "No cash, no trees - Wie man eine nachhaltige Marke aufbaut, erzählt von der CFO von NIKIN",
+            "nameDe": "No cash, no trees - Wie man eine nachhaltige Marke aufbaut, erzählt von der CFO von NIKIN",
+            "nameEn": "No cash, no trees – How to build a sustainable brand told by the CFO of NIKIN",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "99"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3080",
+        "name": "Maximilian Anger",
+        "descriptionDe": "Max' Ziel ist es, die Art und Weise, wie Unternehmen strategisch und operativ vorgehen, zu verändern, indem er auf den Menschen ausgerichtete Strategien entwickelt, die letztlich neue Einnahmequellen und Wettbewerbsvorteile schaffen. Die Erleichterung des Prozesses von Erfahrungs- und Betriebsstrategien sowie die Mitgestaltung in funktionsübergreifenden Teams sind seine Leidenschaft. Als Enterprise Design Thinking Coach sind ihm Zusammenarbeit, (End-)Kundenforschung und das Enablement von Teams und Organisationen eine Herzensangelegenheit. 9+ Jahre Erfahrung in verschiedenen Rollen im B2B-Marketing, Geschäfts- und Prozessmanagement, Vertrieb und Beratung haben ihn gelehrt, Veränderungen anzunehmen und ständiges Lernen zu schätzen.",
+        "descriptionEn": "Max goal is to transform the way businesses strategize and operate by creating human-centered  strategies, ultimately providing new revenue streams and competitive advantage.  Facilitating the process of experience and operation  strategies as well as co-creating  in cross-functional teams is what he is passionate about. As an Enterprise Design  Thinking  Coach, he considers collaboration, (end) customer  research and enablement of teams and organizations as a matter of heart.Gathering  +9 years of experience in various roles in B2B marketing, business and process management, sales and consulting have taught him to embrace change and to value constant learning.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "IBM iX DACH",
+        "position": null,
+        "title": "Head of Digital Strategy Consulting",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3080/max.png",
+        "slug": "maximilian-anger",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2989",
+            "name": "1 Week, 3 Dimensions, 100% Focus - Effiziente Strategieentwicklung mit unserem Strategy Sprint",
+            "nameDe": "1 Week, 3 Dimensions, 100% Focus - Effiziente Strategieentwicklung mit unserem Strategy Sprint",
+            "nameEn": "1 Week, 3 Dimensions, 100% Focus - Effective strategy development with our strategy sprint",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T10:30:00+01:00",
+            "endsAt": "2022-11-09T11:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3081",
+        "name": "Katrin Bodner",
+        "descriptionDe": "Als Head of Project Management Events für die Veranstaltungsplattform talque trägt sie maßgeblich für die vielseitigen Eventformate zum Erfolg bei. Katrin Bodner verfügt über ausgeprägte interkulturelle Erfahrung durch langjährige Tätigkeit in der Hospitality- und Eventbranche sowie in der Agentursteuerung.",
+        "descriptionEn": "As Head of Project Management Events for the event platform talque, she makes a significant contribution to the success of the diverse event formats. Katrin Bodner has extensive intercultural experience through many years of work in the hospitality and event industry as well as in agency management.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "talque",
+        "position": null,
+        "title": "Head of Project Management Events",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://web.talque.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3081/katrin-omr.jpg",
+        "slug": "katrin-bodner",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3019",
+            "name": "Wie werden remote Teilnehmer*innen wirklich zum Teil der Veranstaltung? Die hybride Kreation von Communities.",
+            "nameDe": "Wie werden remote Teilnehmer*innen wirklich zum Teil der Veranstaltung? Die hybride Kreation von Communities.",
+            "nameEn": "How does the remote participant really become part of the event? The hybrid creation of communities.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T13:30:00+01:00",
+            "endsAt": "2022-11-07T14:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3082",
+        "name": "Sven Stühmeier",
+        "descriptionDe": "Sven Stühmeier ist seit 2022 als Head of Data & Media Services bei Vodafone und für die Entwicklung und Implementierung von Geschäfts- und Datenmonetarisierungsmodellen in der Werbeindustrie verantwortlich. \nDer diplomierte Wirtschafts- und Sportwissenschaftler begann seine berufliche Laufbahn 2010 auf Agenturseite bei GroupM und McCann. \n2015 wechselte er als Senior Marketing Manager Brand & Strategy zu Vodafone und war für die klassische als auch die digitale Kommunikation der Zweitmarke otelo verantwortlich. Mit dem Wechsel zur Hauptmarke 2018 baute er im Rahmen eines globalen Digital-Media-Inhousing eine neue Abteilungsgruppe für die digitale Markenkommunikation auf, die er bis 2022 leitete.  \n",
+        "descriptionEn": "Sven Stühmeier, works as Head of Media & Data Services at Vodafone Germany and is responsible for implementing data monteization and business models in the advertising industry. He holds a diploma in business administration and a bachelor in sport economics. In 2010 he started his career on agency side at GroupM and McCann. End of the year 2015 he joins Vodafone as Senior Marketing Manager Brand & Strategy where he was responsible for offline and online communication of Vodafone’s second brand otelo. In 2016 he led the Digital-Media-Inhousing for the Vodafone Brand Department. In connection with this, he build up and established a new group for digital brand communication & technology in the Vodafone organization which he led till 2022.  \n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Vodafone",
+        "position": null,
+        "title": "Head of Data & Media Services",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3082/Sven1.jpg",
+        "slug": "sven-stuehmeier-38870bbf-1b3a-4c6f-a856-f04a7fab6321",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2980",
+            "name": "Einfach mal machen – wie Vodafone mit 1st Party Daten signifikant mehr Reichweite im TV erzielt. ",
+            "nameDe": "Einfach mal machen – wie Vodafone mit 1st Party Daten signifikant mehr Reichweite im TV erzielt. ",
+            "nameEn": "Getting it done – how Vodafone achieves significantly more reach in TV with first party data",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T11:30:00+01:00",
+            "endsAt": "2022-11-08T12:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1950",
+        "name": "Michael Witzenleiter",
+        "descriptionDe": "Michael Witzenleiter ist CEO und Gründer von Conversion Maker, einem Technologie-Unternehmen für Conversion-Rate-Optimierung. Neben der eigenen KI-gestützten Software Conversion Maker AI zur Erstellung und Optimierung von Marketing-Texten, setzt das Unternehmen dafür auf eine Palette führender Lösungen von Drittanbietern. Michael Witzenleiter beschäftigt sich bereits seit über 15 Jahren mit Online Marketing und etablierte zuletzt als Managing Director die französische A/B-Testing-Plattform Kameleoon im deutschsprachigen Raum.",
+        "descriptionEn": "Michael Witzenleiter is CEO and founder of Conversion Maker, a technology company for conversion rate optimization. In addition to Conversion Maker AI, the company's own AI-based software for generating and optimizing marketing texts, the Conversion Maker relies on a portfolio of leading solutions for CRO. Michael Witzenleiter has been working in online marketing for over 15 years and most recently established the French A/B-testing and personalization platform Kameleoon in DACH region as Managing Director.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Conversion Maker GmbH",
+        "position": null,
+        "title": "Chief Executive Officer and Founder",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://conversionmaker.ai/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1950/B1338201_quadrat.png",
+        "slug": "empty-speaker-7b607959-091c-42e3-adb9-5588b44a4bdc",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2969",
+            "name": "Die perfekte Produktbeschreibung - wie sich Eure Produkte von allein verkaufen",
+            "nameDe": "Die perfekte Produktbeschreibung - wie sich Eure Produkte von allein verkaufen",
+            "nameEn": "The perfect product description - how your products sell themselves",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T11:30:00+01:00",
+            "endsAt": "2022-11-08T12:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2015",
+        "name": "Yvonne Teufel",
+        "descriptionDe": "Yvonne Teufel ist Chief Marketing Officer bei Conversion Maker, einem Technologieunternehmen zur Conversion-Rate-Optimierung. Ihr fundiertes Fachwissen, welches Yvonne Teufel als erfahrene Conversion Rate Consultant mitbringt, teilt sie gerne mit der Marketing Community. ",
+        "descriptionEn": "Yvonne Teufel is Chief Marketing Officer at Conversion Maker, a conversion rate optimization technology company. As an experienced conversion rate consultant, Yvonne shares her in-depth expertise with the marketing community. ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Conversion Maker GmbH ",
+        "position": null,
+        "title": "Chief Marketing Officer",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://conversionmaker.ai/",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2015/Yvonne_quadrat.png",
+        "slug": "yvonne-teufel",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2969",
+            "name": "Die perfekte Produktbeschreibung - wie sich Eure Produkte von allein verkaufen",
+            "nameDe": "Die perfekte Produktbeschreibung - wie sich Eure Produkte von allein verkaufen",
+            "nameEn": "The perfect product description - how your products sell themselves",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T11:30:00+01:00",
+            "endsAt": "2022-11-08T12:30:00+01:00",
+            "hall": null,
+            "stageId": "103"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3084",
+        "name": "Leeres Speaker*in Profil",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "",
+        "position": null,
+        "title": "",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": null,
+        "slug": "",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1618",
+        "name": "Marko  Stuka",
+        "descriptionDe": "Marko Stuka ist seit über 7 Jahren im MarTech Bereich aktiv und berät national und international Kunden zu digitalen Themen. Als Regional Sales Manager DACH bei inRiver verantwortet er den Vertrieb in Deutschland, Österreich und der Schweiz.\nMarko studierte Business Administration mit Fokus auf Vertrieb und Marketing und konnte damit seine Leidenschaft zu digitalen Medien zum Beruf machen.\nIn seiner Freizeit berät er seinen heimischen Fussballverein 'Kickers Offenbach' zu Marketingthemen.",
+        "descriptionEn": "Marko Stuka has been active in the MarTech sector for over 7 years and advises national and international customers on digital topics. As Regional Sales Manager DACH at inRiver, he is responsible for sales in Germany, Austria and Switzerland.\nMarko studied business administration with a focus on sales and marketing and was able to turn his passion for digital media into a career.\nIn his spare time, he advises his local soccer club 'Kickers Offenbach' on marketing topics.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "inriver",
+        "position": null,
+        "title": "Regional Sales Manager DACH ",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1618/Marko_Stuka_inRiver.jpg",
+        "slug": "marko-stuka",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3007",
+            "name": "Im Kopf der Kund*innen: verstehen wie Online-Shopper wirklich ticken",
+            "nameDe": "Im Kopf der Kund*innen: verstehen wie Online-Shopper wirklich ticken",
+            "nameEn": "Inside the mind of an online shopper",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T11:30:00+01:00",
+            "endsAt": "2022-11-10T12:30:00+01:00",
+            "hall": null,
+            "stageId": "112"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3085",
+        "name": "Maximilian Maucher",
+        "descriptionDe": "x",
+        "descriptionEn": "x",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Ravensburger AG",
+        "position": null,
+        "title": "Product Owner Sales Platforms",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3085/MicrosoftTeams-image__5_.png",
+        "slug": "maximilian-maucher",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2968",
+            "name": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameDe": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameEn": "International E-Commerce Rollout: Success Story Ravensburger AG",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3086",
+        "name": "Patrick  Bartl",
+        "descriptionDe": "x",
+        "descriptionEn": "x",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Ravensburger AG",
+        "position": null,
+        "title": "Head of Data & Platform Management",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3086/Patrick.png",
+        "slug": "patrick-bartl",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2968",
+            "name": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameDe": "So geht Internationalisierung: Das Erfolgsrezept der Ravensburger AG",
+            "nameEn": "International E-Commerce Rollout: Success Story Ravensburger AG",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T12:30:00+01:00",
+            "endsAt": "2022-11-09T13:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2099",
+        "name": "Tobias Ring",
+        "descriptionDe": "Tobias Ring ist Director Growth Services bei SCAYLE, der B2B-Division der ABOUT YOU Holding SE. Der 31-jährige leitet dort das Neukundengeschäft der SCAYLE Commerce Engine und berät Bestandskunden entlang der gesamten Wertschöpfungskette. Zuvor sammelte der Master of Science in General Management langjährige Erfahrung als Senior Manager bei der internationalen Unternehmensberatungsfirma Bain & Company, einige Zeit davon im Silicon Valley.",
+        "descriptionEn": "Tobias Ring is Director Growth Services at SCAYLE, the B2B division of ABOUT YOU Holding SE. The 31-year-old manages the new customer business of the SCAYLE Commerce Engine and advises existing customers along the entire value chain. Previously, the Master of Science in General Management gained many years of experience as a senior manager at the international management consulting firm Bain & Company, some of which he spent in Silicon Valley. ",
+        "partnerCompanyLogoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/partner_company_logo/2099/logo.png",
+        "partnerCompanyName": "ABOUT YOU Holding SE",
+        "position": null,
+        "title": "Director Growth Services",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "https://www.scayle.com/de",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2099/scayle-about-you-tobias-ring.jpeg",
+        "slug": "tobias-ring",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3017",
+            "name": "Internationalisierung: Key Challenges und Opportunities um neue Märkte zu erschließen",
+            "nameDe": "Internationalisierung: Key Challenges und Opportunities um neue Märkte zu erschließen",
+            "nameEn": "Internationalization: Key challenges and opportunities to enter new markets",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T13:30:00+01:00",
+            "endsAt": "2022-11-08T14:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3087",
+        "name": "Jan Nathan",
+        "descriptionDe": "Jan ist ein waschechter Hamburger und studierter Soziologe mit Affinität zu Daten. Er seit über 10 Jahren im E-Commerce zu Hause und arbeitete vor seiner Station bei Channel Pilot bei einem bekannten Aggregator. Seine Verantwortungsbereiche bei Channel Pilot sind: Pilotprojekte, die Dokumentation, sämtliche Anbindungen und Consulting-Tätigkeiten.",
+        "descriptionEn": "Jan is a native Hamburger, studied sociology in his hometown and has an affinity for data. He has been in e-commerce for over 10 years and worked for a well-known aggregator before joining Channel Pilot. His areas of responsibility at Channel Pilot are: pilot projects, the documentation, all integrations and consulting activities.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Channel Pilot Solutions GmbH",
+        "position": null,
+        "title": "Marketplace Consultant",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3087/jan-nathan_quer_01.png",
+        "slug": "jan-nathan",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2987",
+            "name": "More business by doing less: 10 Insights, die Euer Marktplatzgeschäft effizienter machen",
+            "nameDe": "More business by doing less: 10 Insights, die Euer Marktplatzgeschäft effizienter machen",
+            "nameEn": "More business by doing less: 10 insights that will make your marketplace business more efficient",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3088",
+        "name": "Marco Ziemski",
+        "descriptionDe": " ",
+        "descriptionEn": " ",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Tamaris",
+        "position": null,
+        "title": "Head of eCommerce",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "www.tamaris.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3088/1650483154699.jpeg",
+        "slug": "marco-ziemski-b417e6cc-e283-49ef-b348-dd0380a5d475",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2957",
+            "name": "Ziel: Internationale Lifestyle Love Brand - Wie Tamaris durch Big Data & Speed to Insights zur Lifestyle Love Brand werden möchte.",
+            "nameDe": "Ziel: Internationale Lifestyle Love Brand - Wie Tamaris durch Big Data & Speed to Insights zur Lifestyle Love Brand werden möchte.",
+            "nameEn": "Our Vision: Becoming an international  Love Brand - How Tamaris aims to become a Love Brand through Big Data & Speed to Insights.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T12:30:00+01:00",
+            "endsAt": "2022-11-10T13:30:00+01:00",
+            "hall": null,
+            "stageId": "115"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3089",
+        "name": "Markus Dietrich",
+        "descriptionDe": "Markus ist seit 2007 Teil von IBM iX und hat seit seinem Einstieg in die Digitalagentur bereits verschiedene Positionen in den Bereichen Consulting, Vertrieb, Projekt- und Account-Management ausgeübt. Im Januar 2015 nahm er die Position des Managing Directors ein und hat in dieser Funktion unter anderem den Ausbau des stark gewachsenen Consulting Teams geleitet. Seit August 2021 leitet er die IBM iX Studios in Düsseldorf, Österreich und Kroatien als CEO eines ca. 500-köpfigen Teams.",
+        "descriptionEn": "Markus has been part of IBM iX since 2007 and has already held various positions in consulting, sales, project and account management since joining the digital agency. In January 2015, he took on the position of Managing Director and in this role, he has led the expansion of the rapidly growing consulting team, among other things. Since August 2021, he has been managing the IBM iX Studios in Düsseldorf, Austria and Croatia as CEO of a team of approximately 500 people.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "IBM iX DACH",
+        "position": null,
+        "title": "CEO Düsseldorf, Austria, Croatia",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3089/Markus-Dietrich.jpg",
+        "slug": "markus-dietrich",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2989",
+            "name": "1 Week, 3 Dimensions, 100% Focus - Effiziente Strategieentwicklung mit unserem Strategy Sprint",
+            "nameDe": "1 Week, 3 Dimensions, 100% Focus - Effiziente Strategieentwicklung mit unserem Strategy Sprint",
+            "nameEn": "1 Week, 3 Dimensions, 100% Focus - Effective strategy development with our strategy sprint",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T10:30:00+01:00",
+            "endsAt": "2022-11-09T11:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1428",
+        "name": "Andy Childs",
+        "descriptionDe": "Andy Childs unterstützt als Connection Planner bei Meta Kunden und Agenturen dabei, ihren Geschäftswachstum im mobilen Zeitalter anzutreiben. Bevor Andy Childs zu Meta wechselte, war er bereits als Global Communication Planning Director bei Anomaly tätig und hat hier unter anderem Kunden wie Diesel, Deutsche Telekom und Ikea betreut. Außerdem leitete er die Influencer und Video Relationships bei der Walt Disney Company und war als Global Strategy Director bei der Havas Media Group für die Kommunikation von Hyundai-Kia Motors zuständig. Zuvor wirkte er für OMD bei der europäischen Markteinführung von Nissans Luxusmarke Infiniti mit.",
+        "descriptionEn": "Andy helps brands simplify a complex world - An industry thought leader, an award winning, business and communication strategist. He is a dyslexic, Arsenal fan, English 'remainer' living in Berlin. At Meta, he consults across the top 100 clients, top 6 agency groups and the management consultancies. He has worked at start ups, agencies and blue chips, including Facebook, Instagram, Maker Studios, The Walt Disney Company, Havas Media Group, OMD, Anomaly and BBDO. He has partnered with a rich and diverse range of clients prior to joining Meta including Nissan- Renault, Hyundai-Kia, Disney, Lucas Film, Pixar, Marvel, Diageo, Coke, Diesel, Ikea and Deutsche Telekom/T-Mobile.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Facebook",
+        "position": null,
+        "title": "Connection Planning",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1428/andy.png",
+        "slug": "andy-childs",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3057",
+            "name": "The New Era of Brand Growth - Brand Building on Meta",
+            "nameDe": "The New Era of Brand Growth - Brand Building on Meta",
+            "nameEn": "The New Era of Brand Growth - Brand Building on Meta",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T09:30:00+01:00",
+            "endsAt": "2022-11-10T10:30:00+01:00",
+            "hall": null,
+            "stageId": "113"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2518",
+        "name": "Siros Ghaffari",
+        "descriptionDe": "Siros ist als Head of Industry bei Meta für die Region DACH zuständig. In dieser Rolle verantwortet er die Beratung und strategische Entwicklung führender Kunden und Agenturpartner der Food & Beverages Industry in Deutschland, Österreich und der Schweiz.",
+        "descriptionEn": "Siros ist als Head of Industry bei Meta für die Region DACH zuständig. In dieser Rolle verantwortet er die Beratung und strategische Entwicklung führender Kunden und Agenturpartner der Food & Beverages Industry in Deutschland, Österreich und der Schweiz.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Head of Industry Food & Beverages DACH",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2518/Bildschirmfoto_2022-04-19_um_13.04.25.png",
+        "slug": "siros-ghaffari",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3057",
+            "name": "The New Era of Brand Growth - Brand Building on Meta",
+            "nameDe": "The New Era of Brand Growth - Brand Building on Meta",
+            "nameEn": "The New Era of Brand Growth - Brand Building on Meta",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T09:30:00+01:00",
+            "endsAt": "2022-11-10T10:30:00+01:00",
+            "hall": null,
+            "stageId": "113"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3090",
+        "name": "Claudia Studtmann",
+        "descriptionDe": "20 Jahre FMCG Erfahrung in Marketing & Sales in Führungsfunktionen bei Unilever und Intersnack.\n\nClaudia Studtmann und ihr Team unterstützen Unternehmen dabei, Meta erfolgreich für Markenaufbau und Abverkauf einzusetzen. Im Anschluss an ihr Studium der BWL & Internationales Management startete sie 1997 ihre Karriere bei Unilever und war dort in führenden Marketing- und Sales-Funktionen lokal und international tätig. 2010 wechselte Sie zu Intersnack und war dort als Marketing & Customer Marketing Direktorin für die Marken funny-frisch, Chio, POM-BÄR & goldfischli zuständig bevor sie im März 2018 bei Meta startete.",
+        "descriptionEn": "20 years of FMCG experience in marketing & sales in management positions at Unilever and Intersnack\n\nClaudia Studtmann and her team support companies in successfully using Facebook and Instagram for brand building and driving sales. After her college education in Business Administration & International Management she started her career at Unilever in 1997 and served in leading local and international marketing and sales roles. In 2010, she moved on to Intersnack where she worked as Marketing & Customer Marketing Director for brands such as funny-frisch, Chio, POM-BÄR & goldfischli. In March 2018 Claudia joined Meta.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Head of Retail",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3090/Claudia_Studtmann.jpg",
+        "slug": "claudia-studtmann",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3058",
+            "name": "Angebotskommunikation 2.0: so wird Euer Handzettel erfolgreich auf Instagram und WhatsApp",
+            "nameDe": "Angebotskommunikation 2.0: so wird Euer Handzettel erfolgreich auf Instagram und WhatsApp",
+            "nameEn": "Offer communication 2.0: how to make your handout successful on Instagram and WhatsApp",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T13:30:00+01:00",
+            "endsAt": "2022-11-09T14:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3091",
+        "name": "Verena Finkeisen",
+        "descriptionDe": "Verena Finkeisen ist Senior Digital & Programmatic Consultant bei RMS. Sie steuert als Schnittstelle zwischen dem digitalen Sales Team und den Werbungtreibenden die programmatischen Audiokampagnen, sorgt für Kampagnenoptimierung und arbeitet gemeinsam mit dem Technical Partnermanagement fortlaufend an der Optimierung und Standardisierung technischer Prozesse.\nSeit ihrem Bachelor in Medien- und Kommunikationswissenschaften im Jahr 2018 ist Verena im Digitalteam bei RMS. Ihre Begeisterung für Programmatic Audio vermittelt sie im Team ebenso engagiert wie in Gremien und Fachgruppen des BVDW. Ihr erklärtes Ziel ist es, den datengetriebenen Kanal Programmatic Audio als Standard in der programmatischen Welt zu etablieren.",
+        "descriptionEn": "Verena Finkeisen is a Senior Digital & Programmatic Consultant at RMS. As the interface between the digital sales team and advertisers, she manages the programmatic audio campaigns, ensures campaign optimization and works together with Technical Partner Management on the optimization and standardization of technical processes on an ongoing basis.\nVerena joined the digital team at RMS in 2018 after receiving her bachelor's degree in media and communication studies. She shares her enthusiasm for Programmatic Audio within the team as well as in committees and expert groups of the BVDW. Her declared goal is to establish the data-driven channel Programmatic Audio as a standard in the programmatic world.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "RMS",
+        "position": null,
+        "title": "Senior Consultant Programmatic",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3091/VerenaFinkeisen.JPG",
+        "slug": "verena-finkeisen",
+        "interests": [{
+          "id": "gid://myomr/Interest/1",
+          "slug": "adtech"
+        }, {
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/9",
+          "slug": "data"
+        }, {
+          "id": "gid://myomr/Interest/40",
+          "slug": "online-audio"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3020",
+            "name": "Programmatic Audio – Cookieless in die Zukunft!",
+            "nameDe": "Programmatic Audio – Cookieless in die Zukunft!",
+            "nameEn": "Programmatic Audio - Cookieless into the future!",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T09:30:00+01:00",
+            "endsAt": "2022-11-08T10:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3092",
+        "name": "Andre Poloczek",
+        "descriptionDe": "Andre Poloczek ist Operations Manager bei HEY MARLY. Er kümmert sich um alle operativen Aufgaben von der B2B-Realisation bis zum Tagesgeschäft. Die Kernbereiche seiner Arbeit liegen in der Analyse und Optimierung der Performance, Produktivität, Qualität und Kosten. Zuvor war Andre als Operations Manager bei Kapten & Son tätig.",
+        "descriptionEn": "Andre Poloczek is Operations Manager at HEY MARLY. He takes care of all operational tasks from B2B realization to day-to-day business. The core areas of his work are the analysis and optimization of performance, productivity, quality and costs. Previously, Andre was Operations Manager at Kapten & Son.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "HEY MARLY",
+        "position": null,
+        "title": "Operations Manager",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3092/Andre_Poloczek_HeyMarly.png",
+        "slug": "andre-poloczek",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2944",
+            "name": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameDe": "Post Purchase Customer Experience: Wie HEY MARLY mit Alaiko das letzte Puzzleteil im Kund*innenerlebnis optimiert",
+            "nameEn": "Post Purchase Customer Experience: How HEY MARLY optimizes the final piece of the customer experience puzzle with AlaikoEmpty DigitalMasterclass",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "100"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3093",
+        "name": "Till Dietrich",
+        "descriptionDe": "",
+        "descriptionEn": "",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Stripe",
+        "position": null,
+        "title": "Enterprise AE ",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3093/7H5_9242a_600px.jpg",
+        "slug": "till-dietrich",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3009",
+            "name": "Fragt die Expert*innen. Die Best Practices für den Checkout von Stripe - Entdeckt versteckte Vorteile in Eurem Checkout-Prozess",
+            "nameDe": "Fragt die Expert*innen. Die Best Practices für den Checkout von Stripe - Entdeckt versteckte Vorteile in Eurem Checkout-Prozess",
+            "nameEn": "Ask the experts: Stripe’s checkout best practices - Discover hidden gains in your checkout process",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "99"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3094",
+        "name": "Dominik Johnson",
+        "descriptionDe": "Dominik Johnson schloss seinen Abschluss in Network Warfare (JFCC-NW) bei den deutschen Streitkräften im Jahr 2004 ab. Für Yandex - einem grossen Suchmaschinen-Anbieter - verantwortete über 20 Länder. Dominik wurde 2012 vom Magazin Werben & Verkaufen (W&V) zu den Top-100 Managern Deutschlands gewählt.",
+        "descriptionEn": "Dominik Johnson graduated in Network Warfare (JCC-NW) within the German Federal Forces in 2004. He was responsible at Yandex - big Search Engine Provider - for more than 20 countries. Dominik was awarded in 2012 by the Magazine Werben & Verkaufen to one of the top 100 Managers in Germany.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "fraud0 GmbH",
+        "position": null,
+        "title": "Head of Sales and Marketing",
+        "twitterUrl": "https://twitter.com/dominik_johnson",
+        "facebookUrl": "https://facebook.com/dominik.johnson",
+        "youtubeUrl": "https://www.youtube.com/channel/UC9D0rk_tVHSsPlUphYGuIBA",
+        "instagramUrl": "https://instagram.com/unicorn_divers",
+        "websiteUrl": "https://fraud0.com",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3094/039D7A95-9FE3-485C-B4E6-1B6BB3E808F6.jpeg",
+        "slug": "dominik-johnson",
+        "interests": [{
+          "id": "gid://myomr/Interest/1",
+          "slug": "adtech"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/42",
+          "slug": "brands"
+        }, {
+          "id": "gid://myomr/Interest/43",
+          "slug": "ai"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2965",
+            "name": "Fighting (Ad)Fraud using AI ",
+            "nameDe": "Fighting (Ad)Fraud using AI ",
+            "nameEn": "Fighting (Ad)Fraud using AI ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3095",
+        "name": "Jens Polomski",
+        "descriptionDe": "Jens ist total verrückt nach Tools! Irgendwie hat ihn die Welt des Marketings 2009 gefunden und seitdem nicht mehr losgelassen. Seine bisherigen Stationen bestanden aus den unterschiedlichsten Unternehmen, Branchen und Größen.\n\n2019 veröffentlichte Jens seine ersten eigenen Inhalte auf seinem Blog, seinen Tool-Newsletter und bei LinkedIn. Darüber hat er sich in den letzten Jahren als einer der Tool-Experten im DACH-Raum etabliert und spricht darüber in verschiedenen Podcasts, Vorträgen oder Workshops.\n\nSeit diesem Jahr arbeitet Jens eng mit OMR Reviews an der Weiterentwicklung der Software-Bewertungsplattform und unterstützt verschiedene Projekte bei den wachsenden Herausforderungen der digitalen Welt - stets mit Fokus auf Tools & MarTech.",
+        "descriptionEn": "Jens is absolutely crazy about tools! Somehow, the wonderful world of marketing found him around 2009 and hasn't let go since then. His previous stations included a wide variety of companies, industries and sizes. \n\nIn 2019, Jens published his first own content on his blog, newsletter & LinkedIn. By increasing his reach he managed to establish himself as one of the most important tool & MarTech experts for the German-speaking market, being a well-received guest in podcasts, talks and workshops.\nSince the beginning of this year, he has been working closely with OMR Reviews to facilitate software decisions on a larger scale. He also supports various projects for companies facing the challenges of the digital world focusing on tools & MarTech.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "OMR Reviews",
+        "position": null,
+        "title": "Tool- und MarTech-Experte",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://jens.marketing",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3095/Jens_Polomski_2000x2000.jpg",
+        "slug": "jens-polomski-5c5ad4cc-ec44-4298-8489-5368354134e5",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3033",
+            "name": "In 10 Schritten zur richtigen Software",
+            "nameDe": "In 10 Schritten zur richtigen Software",
+            "nameEn": "10 steps to the right software decision",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": "99"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3097",
+        "name": "Constantin Liebmann",
+        "descriptionDe": "Optimizing Warehouse Logistics for ecommerce merchants, SMEs, Fulfillers & 3PLs",
+        "descriptionEn": "Optimizing Warehouse Logistics for ecommerce merchants, SMEs, Fulfillers & 3PLs",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "PULPO WMS",
+        "position": null,
+        "title": "CBDO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3097/image001.png",
+        "slug": "constantin-liebmann",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2962",
+            "name": "Ship it to me! Optimale Lagerverwaltung als Stellschraube für höhere Margen und zufriedenere Kund*innen.",
+            "nameDe": "Ship it to me! Optimale Lagerverwaltung als Stellschraube für höhere Margen und zufriedenere Kund*innen.",
+            "nameEn": "Ship it to me! Optimal warehouse management as key lever for higher margins and happier customers.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T13:30:00+01:00",
+            "endsAt": "2022-11-09T14:30:00+01:00",
+            "hall": null,
+            "stageId": "110"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3098",
+        "name": "Charline GUSTAVE",
+        "descriptionDe": "Sophie ist Key Account Managerin bei Batch, zuständig für die DACH-Region. Sie kennt den deutschen Markt wie ihre eigene Westentasche und weiß bestens über unsere Kunden bescheid.",
+        "descriptionEn": "Sophie is one of our Key Account Managers on the DACH Region. She has a very strong expertise of the german market and knows everything about our customers.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Batch",
+        "position": null,
+        "title": "Key Account Executive",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3098/Capture_d_e%CC%81cran_2022-09-30_a%CC%80_09.57.28.png",
+        "slug": "charline-gustave",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2966",
+            "name": "Mit Omnichannel Strategien zu erfolgreichen Customer Journeys",
+            "nameDe": "Mit Omnichannel Strategien zu erfolgreichen Customer Journeys",
+            "nameEn": "Omnichannel strategies for successful customer journeys",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "98"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1778",
+        "name": "Thomas Peham",
+        "descriptionDe": "Thomas Peham ist ein erfahrener SaaS-Marketer, Tech Enthusiast, Hobbyläufer, semi-professioneller Fotograf und Kaffeeliebhaber. Er arbeitet seit 2014 im SaaS-Marketing und leitet als VP Marketing alle Marketingaktivitäten  bei Storyblok, dem ersten Headless CMS für Entwickler und Vermarkter.",
+        "descriptionEn": "Thomas Peham is an experienced SaaS marketer, tech enthusiast, hobby runner, semi-pro photographer, and coffee lover. He works in SaaS marketing since 2014, and heads all the marketing efforts as VP Marketing at Storyblok, the first Headless CMS for developers and marketers.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Storyblok",
+        "position": null,
+        "title": "VP of Marketing",
+        "twitterUrl": "https://twitter.com/tompeham",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1778/thomas-peham_2.jpg",
+        "slug": "thomas-peham",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2972",
+            "name": "Figma für Marketer? So muss gute Content Collaboration funktionieren",
+            "nameDe": "Figma für Marketer? So muss gute Content Collaboration funktionieren",
+            "nameEn": "Figma for Marketers? How content collaboration should really work",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "98"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/DigitalMasterclass/2973",
+            "name": "Houston – we have a Localization Problem",
+            "nameDe": "Houston – we have a Localization Problem",
+            "nameEn": "Houston – we have a Localization Problem",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3099",
+        "name": "Puya  Tavakoli",
+        "descriptionDe": "Seit 2021 ist Puya Customer Success Director bei Siteimprove und somit verantwortlich für Kunden in der gesamten DACH-Region – das sind Unternehmen aus verschiedensten Branchen, die Ihre Website im Hinblick auf Qualitätssicherung, Barrierefreiheit, Content, Conversions und natürlich letzten Endes Umsatz optimieren möchten. Insgesamt ist Puya schon seit über 10 Jahren in der Softwarebranche zuhause und hat dabei stets den Erfolg der Kunden im Fokus. Was ihm im Job sonst am Herzen liegt: eine positive Unternehmenskultur und zeitgemäße Leadership.",
+        "descriptionEn": "Puya joined Siteimprove as Customer Success Director in 2021 and is responsible for customer relations in the entire DACH region - his customers include businesses from all types of industries that are optimizing their website with regard to quality assurance, accessibility, content, conversions and, of course - its impact on revenue. Puya had found his home in the software industry more than 10 years ago and since then has kept a strong focus on his customers' success and experience. Some other \"random\" things he cares about: a rewarding corporate culture and a modern approach to leadership.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Siteimprove",
+        "position": null,
+        "title": "Director Customer Success",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3099/Foto_Puya_Tavakoli.jpg",
+        "slug": "puya-tavakoli",
+        "interests": [{
+          "id": "gid://myomr/Interest/4",
+          "slug": "analytics"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3014",
+            "name": "No pain no gain: Was Ihr beim Website Relaunch alles richtig - oder eben auch falsch machen könnt",
+            "nameDe": "No pain no gain: Was Ihr beim Website Relaunch alles richtig - oder eben auch falsch machen könnt",
+            "nameEn": "No pain no gain: Relaunching the right way",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-10T11:30:00+01:00",
+            "endsAt": "2022-11-10T12:30:00+01:00",
+            "hall": null,
+            "stageId": "113"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3100",
+        "name": "Stefan Metzger",
+        "descriptionDe": "TBA",
+        "descriptionEn": "TBA",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "KPS AG",
+        "position": null,
+        "title": "Managing Partner",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3100/465x465-stefan-metzger-blog.jpg",
+        "slug": "stefan-metzger",
+        "interests": [{
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2963",
+            "name": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameDe": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameEn": "The Clash of Social Commerce & Metaverse! 10 essentials for your retail strategy",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/1795",
+        "name": "Isabella Wolf",
+        "descriptionDe": "Als Kommunikations- und Digital Marketing Expertin bringt Isabella Erfahrung in der Umsetzung von globalen Kampagnen mit, sowohl intern als auch extern. \nSpezialisiert auf die Entwicklung von holistischen Kanal- und CRM Strategien, um dem Endkunden den bestmöglichen Service über den richtigen Kanal zu liefen und gleichzeitig Geschäftsziele zu erreichen. \n\nIsabella ist bei der KPS AG im Bereich Digital Marketing tätig und fokussiert auf das Business Consulting und personalisierte Kommunikation strategisch zu entwickeln, zu testen und Mehrwert zu generieren.",
+        "descriptionEn": "As a communications and digital marketing expert, Isabella brings experience in implementing global campaigns, both internally and externally.  Specialised in the development of holistic channel and CRM strategies to deliver the best possible service for the end customer through the right channel while achieving business objectives. \n\nIsabella works in Digital Marketing at KPS AG and focuses on business consulting and personalised communication to strategically develop, test and add value.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "KPS AG",
+        "position": null,
+        "title": "Senior Marketing Consultant",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "https://de.linkedin.com/in/isabella-wolf-239a9658",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/1795/465x465-Isabella_Wolf.jpg",
+        "slug": "isabella-wolf",
+        "interests": [{
+          "id": "gid://myomr/Interest/2",
+          "slug": "affiliate"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/22",
+          "slug": "performance"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2963",
+            "name": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameDe": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameEn": "The Clash of Social Commerce & Metaverse! 10 essentials for your retail strategy",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3101",
+        "name": "Philipp Do Castelo Correia",
+        "descriptionDe": "Als leidenschaftlicher Business Development Specialist unterstütze ich beratend, als Praktiker und Aufklärer, KMUs und Startups in Deutschland dabei ihr Geschäft digital umzugestalten.",
+        "descriptionEn": "As a passionate business development specialist, I support SMEs and start-ups in Germany in an advisory capacity, as a practitioner and educator, in transforming their business digitally.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "SAP Customer Experience",
+        "position": null,
+        "title": "Business Development Specialist",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3101/Philipp.jpg",
+        "slug": "philipp-do-castelo-correia",
+        "interests": [{
+          "id": "gid://myomr/Interest/17",
+          "slug": "it"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2963",
+            "name": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameDe": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameEn": "The Clash of Social Commerce & Metaverse! 10 essentials for your retail strategy",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3102",
+        "name": "Charlotte Greiß",
+        "descriptionDe": "TBA",
+        "descriptionEn": "TBA",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "KPS AG",
+        "position": null,
+        "title": "Social Commerce Expertin",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3102/CHARLOTTE.jpg",
+        "slug": "charlotte-greiss",
+        "interests": [{
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2963",
+            "name": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameDe": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameEn": "The Clash of Social Commerce & Metaverse! 10 essentials for your retail strategy",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3103",
+        "name": "Yurdanur Marangoz-Yesilirmak",
+        "descriptionDe": "TBA",
+        "descriptionEn": "TBA",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "SAP Customer Experience",
+        "position": null,
+        "title": "Head of Presales Germany",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3103/Yur.jpg",
+        "slug": "yurdanur-marangoz-yesilirmak",
+        "interests": [{
+          "id": "gid://myomr/Interest/11",
+          "slug": "e-commerce"
+        }, {
+          "id": "gid://myomr/Interest/26",
+          "slug": "social"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2963",
+            "name": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameDe": "Der Clash von Social Commerce & Metaverse! 10 Basics für Deine Retailer Strategie",
+            "nameEn": "The Clash of Social Commerce & Metaverse! 10 essentials for your retail strategy",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T10:30:00+01:00",
+            "endsAt": "2022-11-08T11:30:00+01:00",
+            "hall": null,
+            "stageId": "106"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3104",
+        "name": "Niklas Dorn",
+        "descriptionDe": "Niklas Dorn ist CEO und Co-Founder der Review- und Freigabe-Software Filestage mit Sitz in Stuttgart. Er hat einen Master-Abschluss im Bereich Elektronische Medien mit einer Spezialisierung in Medienwirtschaft. Sein Unternehmen Filestage ist Marktführer in der Kategorie für Freigabe-Workflow-Software. Filestage ist zu 100% ein Remote-Unternehmen und wird von Kunden wie Sharp, Lufthansa, BBraun, ABInbev und PublicisHealth genutzt.",
+        "descriptionEn": "Niklas Dorn is the co-founder and CEO of the review and approval software scale up Filestage located in Stuttgart, Germany. He holds a master's degree in Electronic Media and has specialized in media and web technologies. His company Filestage is the category leader for approval workflow software. Filestage is a 100% remote company and is used by customers like Sharp, Lufthansa, BBraun, ABInbev and PublicisHealth.\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Filestage",
+        "position": null,
+        "title": "CEO & Co-founder",
+        "twitterUrl": "",
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3104/Niklas_profile_pic.png",
+        "slug": "niklas-dorn",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/28",
+          "slug": "startup"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3015",
+            "name": "So optimiert ihr Euren Content-Review-Prozess und verschafft Eurem Team mehr Zeit für andere Aufgaben.",
+            "nameDe": "So optimiert ihr Euren Content-Review-Prozess und verschafft Eurem Team mehr Zeit für andere Aufgaben.",
+            "nameEn": "How to optimize your content review and approval process and win back precious time for your team",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3105",
+        "name": "Sascha Neuß",
+        "descriptionDe": "Sascha Neuß ist Teamlead Consulting bei Filestage und hilft Unternehmen dabei, ihre Herausforderungen im Content-Review-Prozess zu meistern. Als Medienprofi mit mehr als 10 Jahren Berufserfahrung in der Werbebranche und der Produktion von mehr als 100 Werbespots hat Sascha Neuß ein tiefes Verständnis für die Content-Produktion, die Probleme der Unternehmen im Review-Prozess und wie man sie lösen kann.",
+        "descriptionEn": "Sascha Neuß is the Teamlead Consulting at Filestage and helps companies to overcome their challenges in the content review process. As a media professional with more than 10 years of working experience in the advertising industry, producing 100+ commercials, Sascha has an in-depth understanding of content production and the customer's pain in the review process and how to solve it.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Filestage",
+        "position": null,
+        "title": "Content review and approval consultant",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3105/1661784550329__1_.jfif",
+        "slug": "sascha-neuss",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3015",
+            "name": "So optimiert ihr Euren Content-Review-Prozess und verschafft Eurem Team mehr Zeit für andere Aufgaben.",
+            "nameDe": "So optimiert ihr Euren Content-Review-Prozess und verschafft Eurem Team mehr Zeit für andere Aufgaben.",
+            "nameEn": "How to optimize your content review and approval process and win back precious time for your team",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T11:30:00+01:00",
+            "endsAt": "2022-11-07T12:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3106",
+        "name": "Christian Röhrich",
+        "descriptionDe": "Christian Röhrich ist Wahlberliner, Asana-Enthusiast, Globetrotter und Team Lead Pitch & Project Management bei We Are Era. Das pan-europäische Unternehmen führt Content-Studio und Talent Agency mit 1.500 Creators und Artists unter einem Dach zusammen. Christian gestaltet mit seinem Team die interne- und externe Prozesssteuerung über alle Abteilungen hinweg. Themen wie New Work, Work Management und Digitalisierung stehen dabei ganz oben auf seiner Tagesordnung. Als ehemaliger Digital Nomade und Digital Native entwickelt Christian leidenschaftlich gern digitale Arbeitsprozesse. Allen voran über Tools wie Asana und M365 im Zusammenhang mit modernen Methodiken aus dem Bereich Kanban, Scrum, GTD, Eat the Frog und ähnlichen.",
+        "descriptionEn": "Christian Röhrich is a passionate Berlin dweller, Asana enthusiast, globetrotter und Team Lead Pitch & Project Management at We Are Era",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "We Are Era (eine Bertelsmann Company)",
+        "position": null,
+        "title": "Team Lead Pitch & Project Management",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3106/Christian_Ro%CC%88hrich_schwarz.jpg",
+        "slug": "christian-roehrich",
+        "interests": [{
+          "id": "gid://myomr/Interest/3",
+          "slug": "agency"
+        }, {
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3010",
+            "name": "We Are Era & Asana: Hat man die Arbeit im Griff wird der ROI eine Liebeserklärung",
+            "nameDe": "We Are Era & Asana: Hat man die Arbeit im Griff wird der ROI eine Liebeserklärung",
+            "nameEn": "We Are Era & Asana: Make Work Work for you! So ROI becomes a Love Affaire ",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3107",
+        "name": "Peer Woerpel",
+        "descriptionDe": "Als Creative Agency Partner bei Meta hat es sich Peer Wörpel zum Ziel gemacht, seine fundierte Expertise dahingehend einzubringen, Kreation im eigentlichen Sinne weiterzudenken; Kreation für maximalen Impact je Kanal kombiniert mit innovativen Ansätzen und Formaten. Peer arbeitet tagtäglich mit den namhaftesten Kreativagenturen Deutschlands zusammen und unterstützt diese in der Ausarbeitung plattformgerechter Kampagnen für Deutschlands größte Marken und in ihren Transformationsprozessen.\n",
+        "descriptionEn": "Als Creative Agency Partner bei Meta hat es sich Peer Wörpel zum Ziel gemacht, seine fundierte Expertise dahingehend einzubringen, Kreation im eigentlichen Sinne weiterzudenken; Kreation für maximalen Impact je Kanal kombiniert mit innovativen Ansätzen und Formaten. Peer arbeitet tagtäglich mit den namhaftesten Kreativagenturen Deutschlands zusammen und unterstützt diese in der Ausarbeitung plattformgerechter Kampagnen für Deutschlands größte Marken und in ihren Transformationsprozessen.\n\n",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Meta",
+        "position": null,
+        "title": "Creative Agency Partner",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3107/PeerWo%CC%88rpel.jpg",
+        "slug": "peer-woerpel",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3058",
+            "name": "Angebotskommunikation 2.0: so wird Euer Handzettel erfolgreich auf Instagram und WhatsApp",
+            "nameDe": "Angebotskommunikation 2.0: so wird Euer Handzettel erfolgreich auf Instagram und WhatsApp",
+            "nameEn": "Offer communication 2.0: how to make your handout successful on Instagram and WhatsApp",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-09T13:30:00+01:00",
+            "endsAt": "2022-11-09T14:30:00+01:00",
+            "hall": null,
+            "stageId": "108"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3108",
+        "name": "Alexander Woelke",
+        "descriptionDe": "Folgt",
+        "descriptionEn": "Folgt",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Samdock",
+        "position": null,
+        "title": "Founder & CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3108/1633091881500.jpeg",
+        "slug": "alexander-woelke",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2994",
+            "name": "TBA",
+            "nameDe": "TBA",
+            "nameEn": "TBA",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3109",
+        "name": "Philipp Zöld",
+        "descriptionDe": "Philipp Zöld lebt und arbeitet in Schwerin und kommt ursprünglich aus dem Ingenieurwesen. Er hat Multimediatechnik studiert und anschließend im Bereich UX und Softwareentwicklung gearbeitet. In den letzten Jahren hat er sich intensiv mit den Themen E-Mail-Marketing-Architektur, -Strategie, - Zustellbarkeit und -Sicherheit sowie Marketingautomation und Subscriber Journey beschäftigt. Als E-Mail-Marketing-Engineer ist es sein Ziel, Strategien und technische Lösungen für Herausforderungen zu finden, mit denen sich E-Mail-Marketing-Teams konfrontiert sehen.",
+        "descriptionEn": "Philipp Zöld lives and works in Schwerin and originally comes from an engineering background. He studied multimedia technology and then worked in the field of UX and software development. In recent years, he has been intensively involved with the topics of email marketing architecture, strategy, deliverability and security, as well as marketing automation and subscriber journey. As an email marketing engineer, his goal is to find strategies and technical solutions to challenges faced by email marketing teams.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Mailculture",
+        "position": null,
+        "title": "Founder & CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3109/philipp.png",
+        "slug": "philipp-zoeld",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2994",
+            "name": "TBA",
+            "nameDe": "TBA",
+            "nameEn": "TBA",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3110",
+        "name": "Philipp Zöld",
+        "descriptionDe": "Philipp Zöld lebt und arbeitet in Schwerin und kommt ursprünglich aus dem Ingenieurwesen. Er hat Multimediatechnik studiert und anschließend im Bereich UX und Softwareentwicklung gearbeitet. In den letzten Jahren hat er sich intensiv mit den Themen E-Mail-Marketing-Architektur, -Strategie, - Zustellbarkeit und -Sicherheit sowie Marketingautomation und Subscriber Journey beschäftigt. Als E-Mail-Marketing-Engineer ist es sein Ziel, Strategien und technische Lösungen für Herausforderungen zu finden, mit denen sich E-Mail-Marketing-Teams konfrontiert sehen.",
+        "descriptionEn": "Philipp Zöld lives and works in Schwerin and originally comes from an engineering background. He studied multimedia technology and then worked in the field of UX and software development. In recent years, he has been intensively involved with the topics of email marketing architecture, strategy, deliverability and security, as well as marketing automation and subscriber journey. As an email marketing engineer, his goal is to find strategies and technical solutions to challenges faced by email marketing teams.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Mailculture",
+        "position": null,
+        "title": "Founder & CEO",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3110/philipp.png",
+        "slug": "philipp-zoeld-a9f13531-a984-43fe-9235-89d694c51aa3",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/7",
+          "slug": "consulting"
+        }, {
+          "id": "gid://myomr/Interest/8",
+          "slug": "content"
+        }, {
+          "id": "gid://myomr/Interest/18",
+          "slug": "marketing"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2994",
+            "name": "TBA",
+            "nameDe": "TBA",
+            "nameEn": "TBA",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T12:30:00+01:00",
+            "endsAt": "2022-11-07T13:30:00+01:00",
+            "hall": null,
+            "stageId": null
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3111",
+        "name": "Kristian Kretschmann",
+        "descriptionDe": "Kristian Kretschmann ist langjähriger Branchenexperte und beschäftigt sich regelmäßig mit den neusten HR-Trends. Er ist Autor und Co-Autor verschiedener Beiträge rund um das Human Resource Management. Kristian Kretschmann hat über 15 Jahre Erfahrung im Personalmanagement und schafft mit dem rexxperts HR-Podcast spannenden Content für HRler und Recruiter.",
+        "descriptionEn": "Kristian Kretschmann is a long-standing industry expert and regularly deals with the latest HR trends. He is the author and co-author of various articles on all aspects of human resource management. Kristian Kretschmann has over 15 years of experience in HR management and creates exciting content for HR professionals and recruiters with the rexxperts HR podcast.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "rexx systems",
+        "position": null,
+        "title": "HR Experte",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3111/kristian-kretschmann.jpg",
+        "slug": "kristian-kretschmann",
+        "interests": [{
+          "id": "gid://myomr/Interest/14",
+          "slug": "hr"
+        }, {
+          "id": "gid://myomr/Interest/15",
+          "slug": "influencer"
+        }, {
+          "id": "gid://myomr/Interest/21",
+          "slug": "native"
+        }, {
+          "id": "gid://myomr/Interest/27",
+          "slug": "software"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2981",
+            "name": "Personalentwicklung 4.0: So bekommen Sie Personal- und Business Strategie endlich unter einen Hut!",
+            "nameDe": "Personalentwicklung 4.0: So bekommen Sie Personal- und Business Strategie endlich unter einen Hut!",
+            "nameEn": "Personnel development 4.0: This is how you can finally reconcile personnel and business strategy!",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:30:00+01:00",
+            "endsAt": "2022-11-07T10:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3114",
+        "name": "Tom Dupont",
+        "descriptionDe": "\nTom Dupont ist ein eCommerce-Experte mit Leidenschaft für grenzüberschreitende Geschäftsfelder. Als Director of International Markets bei ABOUT YOU, mit Sitz in Hamburg (DE), ist er für die Aufrechterhaltung und Optimierung der internationalen Geschäftsabläufe und Kundenerfahrung verantwortlich. Darüber hinaus spielte er in den letzten 5 Jahren eine entscheidende Rolle bei der erfolgreichen Marktexpansion von ABOUT YOU in Europa und darüber hinaus, indem er mit führenden digitalen Fachleuten und Best-in-Class-Dienstleistern zusammenarbeitete.",
+        "descriptionEn": "Tom Dupont is an eCommerce expert with a passion for cross-border business. As Director of International Markets at ABOUT YOU, operating out of the HQ in Hamburg (DE), he is responsible for maintaining and optimizing the international business operations and customer experience. In addition, over the past 5 years, he played a decisive role in AY's successful market expansion in Europe and beyond, working together with leading digital professionals and best-in-class service providers.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Scayle",
+        "position": null,
+        "title": "Director of International Markets",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3114/Tom-Dupont_klein.jpg",
+        "slug": "tom-dupont",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3017",
+            "name": "Internationalisierung: Key Challenges und Opportunities um neue Märkte zu erschließen",
+            "nameDe": "Internationalisierung: Key Challenges und Opportunities um neue Märkte zu erschließen",
+            "nameEn": "Internationalization: Key challenges and opportunities to enter new markets",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T13:30:00+01:00",
+            "endsAt": "2022-11-08T14:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/2049",
+        "name": "Michael Arends",
+        "descriptionDe": "Michael Arends ist seit 2021 Team Lead des Digital Management Office bei Vorwerk. Mit seinem Team unterstützt er mit Hilfe von Tool Ownern der Kollaborationstools, agile Mastern und weiteren KoordinatorInnen die verschiedenen Abteilungen im Bereich Software der Digital R&D bei Vorwerk. Er kennt Vorwerk im Detail aus verschiedenen Perspektiven und Rollen. Er startete seine Karriere bei den Vorwerk Elektrowerken und stieg danach als Projektmanager für die Tests des Thermomix 5 ein. Anschließend wechselte er zu Vorwerk Deutschland in den Bereich Vertriebsunterstützung für den Thermomix. Vor 4 Jahren ging er schließlich zur Digital IT ins Digital Management Office, für das er heute tätig ist.",
+        "descriptionEn": "Michael Arends ist seit 2021 Team Lead des Digital Management Office bei Vorwerk. Mit seinem Team unterstützt er mit Hilfe von Tool Ownern der Kollaborationstools, agile Mastern und weiteren KoordinatorInnen die verschiedenen Abteilungen im Bereich Software der Digital R&D bei Vorwerk. Er kennt Vorwerk im Detail aus verschiedenen Perspektiven und Rollen. Er startete seine Karriere bei den Vorwerk Elektrowerken und stieg danach als Projektmanager für die Tests des Thermomix 5 ein. Anschließend wechselte er zu Vorwerk Deutschland in den Bereich Vertriebsunterstützung für den Thermomix. Vor 4 Jahren ging er schließlich zur Digital IT ins Digital Management Office, für das er heute tätig ist.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Vorwerk Gruppe",
+        "position": null,
+        "title": "Lead Digital Management Office",
+        "twitterUrl": "",
+        "facebookUrl": "",
+        "youtubeUrl": "",
+        "instagramUrl": "",
+        "websiteUrl": "",
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/2049/Bild1.jpg",
+        "slug": "michael-arends",
+        "interests": [{
+          "id": "gid://myomr/Interest/6",
+          "slug": "b2b"
+        }, {
+          "id": "gid://myomr/Interest/16",
+          "slug": "innovation"
+        }, {
+          "id": "gid://myomr/Interest/37",
+          "slug": "tech"
+        }, {
+          "id": "gid://myomr/Interest/48",
+          "slug": "new-work"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/3006",
+            "name": "Wie Vorwerk Digital Slack als Integrationsplattform nutzt, um die Employee Experience auf ein neues Level zu heben",
+            "nameDe": "Wie Vorwerk Digital Slack als Integrationsplattform nutzt, um die Employee Experience auf ein neues Level zu heben",
+            "nameEn": "How Vorwerk Digital uses Slack as an Integration Platform to up-level employee experience",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T13:30:00+01:00",
+            "endsAt": "2022-11-07T14:30:00+01:00",
+            "hall": null,
+            "stageId": "102"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3303",
+        "name": "Christian  Endres",
+        "descriptionDe": "OTTO",
+        "descriptionEn": "OTTO",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "OTTO ",
+        "position": null,
+        "title": "Product Owner P.N.T.A.",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3303/OTTO_Christian-Endres.png",
+        "slug": "christian-endres-974c86da-caa8-4b4c-a468-554c98519247",
+        "interests": [{
+          "id": "gid://myomr/Interest/1",
+          "slug": "adtech"
+        }],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2947",
+            "name": "Retail Media im Full Funnel? OTTO Advertising zeigt wie's geht.",
+            "nameDe": "Retail Media im Full Funnel? OTTO Advertising zeigt wie's geht.",
+            "nameEn": "Retail media in the full funnel? OTTO Advertising shows how to.",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-08T11:30:00+01:00",
+            "endsAt": "2022-11-08T12:30:00+01:00",
+            "hall": null,
+            "stageId": "104"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }, {
+        "id": "gid://myomr/Speaker/3307",
+        "name": "Oliver Wahner",
+        "descriptionDe": "Als Senior Solutions Consultant arbeitet Oliver Wahner eng mit Amplitude's europäischen Kunden an deren Analysefähigkeiten und Optimierung ihrer digitalen Produkte. Mit langjähriger Erfahrung aus dem Bereich Datenbanken und -analyse, u.a. bei Alteryx und QL2 Software, unterstützt er besonders in der Bedarfsanalyse, der Identifikation von Optimierungspotenzial und dem Aufbau zielgerichteter Lösungen.\nAmplitude™ bietet produktspezifische Datenanalyse für Unternehmen mit digitalen Mobile- und Web-Produkten an.",
+        "descriptionEn": "As Senior Solutions Consultant, Oliver Wahner works closely with Amplitude's European clients on their analytics capabilities and optimisation of their digital products. With many years of experience in the field of databases and analytics, including at Alteryx and QL2 Software, he provides particular support in needs discovery, identifying optimisation potential and building targeted solutions.\nAmplitude™ offers product-specific data analytics for companies with digital mobile and web products.",
+        "partnerCompanyLogoUrl": null,
+        "partnerCompanyName": "Amplitude",
+        "position": null,
+        "title": "Senior Solutions Consultant",
+        "twitterUrl": null,
+        "facebookUrl": null,
+        "youtubeUrl": null,
+        "instagramUrl": null,
+        "websiteUrl": null,
+        "photoUrl": "https://storage.googleapis.com/myomr_profilepic_prod/uploads/speaker/photo/3307/Amplitude_OliverWahner.png",
+        "slug": "oliver-wahner",
+        "interests": [],
+        "events": {
+          "nodes": [{
+            "id": "gid://myomr/DigitalMasterclass/2976",
+            "name": "Mamor, Stein und Eisen war einmal - inzwischen sind Daten die Grundlage für Kundenliebe",
+            "nameDe": "Mamor, Stein und Eisen war einmal - inzwischen sind Daten die Grundlage für Kundenliebe",
+            "nameEn": "Once upon a time, marble, stone and iron - now data is the basis for customer love",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T10:30:00+01:00",
+            "endsAt": "2022-11-07T11:30:00+01:00",
+            "hall": null,
+            "stageId": "101"
+          }, {
+            "id": "gid://myomr/Event/2924",
+            "name": "Digital Masterclasses 2022 Vol. 5",
+            "nameDe": "Digital Masterclasses 2022 Vol. 5",
+            "nameEn": "Digital Masterclasses 2022 Vol. 5",
+            "subtitle": "",
+            "subtitleDe": "",
+            "subtitleEn": "",
+            "startsAt": "2022-11-07T09:00:00+01:00",
+            "endsAt": "2022-11-10T16:00:00+01:00",
+            "hall": null,
+            "stageId": null
+          }]
+        }
+      }]
+    }
+  }
+};
+/* harmony default export */ __webpack_exports__["default"] = (function (_ref) {
+  var options = _ref.options;
+
+  if (options.__staticData) {
+    options.__staticData.data = data;
+    return;
+  }
+
+  options.__staticData = vue__WEBPACK_IMPORTED_MODULE_0__["default"].observable({
+    data: data
+  });
+  options.computed = computed({
+    $static: function $static() {
+      return options.__staticData.data;
+    }
+  }, options.computed);
+});
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js&":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var core_js_modules_es_array_filter__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.array.filter */ "./node_modules/gridsome/node_modules/core-js/modules/es.array.filter.js");
+/* harmony import */ var core_js_modules_es_array_filter__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_filter__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_omr_Speakers_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ~/components/omr/Speakers.vue */ "./src/components/omr/Speakers.vue");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! lodash */ "./node_modules/lodash/lodash.js");
+/* harmony import */ var lodash__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(lodash__WEBPACK_IMPORTED_MODULE_2__);
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: {
+    Speakers: _components_omr_Speakers_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  },
+  computed: {
+    uniqueSpeakers: function uniqueSpeakers() {
+      return Object(lodash__WEBPACK_IMPORTED_MODULE_2__["uniqBy"])(this.$static.myomr.speakers.nodes, "id");
+    },
+    filteredSpeakers: function filteredSpeakers() {
+      return this.uniqueSpeakers.filter(function (o) {
+        return o.photoUrl;
+      });
+    }
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _helpers_resizeHeroHelper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/helpers/resizeHeroHelper */ "./src/helpers/resizeHeroHelper.js");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  props: {
+    head_text: {
+      require: false,
+      type: String
+    },
+    logos: {
+      require: false,
+      type: Array,
+      "default": null
+    },
+    backgroundImage: {
+      require: false,
+      type: String
+    }
+  },
+  mounted: function mounted() {
+    Object(_helpers_resizeHeroHelper__WEBPACK_IMPORTED_MODULE_0__["resizeHero"])();
+    window.addEventListener("resize", _helpers_resizeHeroHelper__WEBPACK_IMPORTED_MODULE_0__["resizeHero"]);
+  },
+  beforeDestroy: function beforeDestroy() {
+    window.removeEventListener("resize", _helpers_resizeHeroHelper__WEBPACK_IMPORTED_MODULE_0__["resizeHero"]);
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+/* harmony default export */ __webpack_exports__["default"] = ({
+  props: {
+    event: {
+      required: true,
+      type: String
+    }
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var core_js_modules_web_timers__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/web.timers */ "./node_modules/gridsome/node_modules/core-js/modules/web.timers.js");
+/* harmony import */ var core_js_modules_web_timers__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_timers__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _components_omr_dynamic_Hero_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ~/components/omr/dynamic/Hero.vue */ "./src/components/omr/dynamic/Hero.vue");
+/* harmony import */ var _components_dmc_SpeakersWrapper_vue__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ~/components/dmc/SpeakersWrapper.vue */ "./src/components/dmc/SpeakersWrapper.vue");
+/* harmony import */ var _components_omr_dynamic_Timetable_vue__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ~/components/omr/dynamic/Timetable.vue */ "./src/components/omr/dynamic/Timetable.vue");
+/* harmony import */ var _components_omr_dynamic_TicketShop_vue__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ~/components/omr/dynamic/TicketShop.vue */ "./src/components/omr/dynamic/TicketShop.vue");
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+ // import ExhibitorsPremium from "~/components/omr/dynamic/exhibitors/ExhibitorsPremium.vue";
+
+
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  metaInfo: function metaInfo() {
+    return {
+      title: this.$translate(this.$context.eventSlug + ".homepage.pagetitle") + " | " + this.$translate(this.$context.eventSlug + ".meta.title"),
+      htmlAttrs: {
+        lang: this.currentLocale()
+      },
+      meta: [{
+        key: "description",
+        name: "description",
+        content: this.$translate(this.$context.eventSlug + ".meta.description")
+      }, {
+        property: "og:type",
+        content: "website"
+      }, {
+        property: "og:title",
+        content: this.$translate(this.$context.eventSlug + ".homepage.pagetitle") + " | " + this.$translate(this.$context.eventSlug + ".meta.title")
+      }, {
+        property: "og:description",
+        content: this.$translate(this.$context.eventSlug + ".meta.description")
+      }, {
+        property: "og:url",
+        content: this.$context.canonical
+      }, {
+        property: "og:image",
+        content: this.$translate(this.$context.eventSlug + ".meta.social_image_URL")
+      }, {
+        property: "fb:app_id",
+        content: this.$translate(this.$context.eventSlug + ".meta.fbAppID")
+      }, {
+        name: "twitter:card",
+        content: "summary_large_image"
+      }, {
+        name: "twitter:title",
+        content: this.$translate(this.$context.eventSlug + ".homepage.pagetitle") + " | " + this.$translate(this.$context.eventSlug + ".meta.title")
+      }, {
+        name: "twitter:description",
+        content: this.$translate(this.$context.eventSlug + ".meta.description")
+      }, {
+        name: "twitter:site",
+        content: this.$translate(this.$context.eventSlug + ".meta.twitterHandle")
+      }, {
+        name: "twitter:creator",
+        content: this.$translate(this.$context.eventSlug + ".meta.twitterHandle")
+      }, {
+        name: "twitter:image",
+        content: this.$translate(this.$context.eventSlug + ".meta.social_image_URL")
+      }],
+      bodyAttrs: {
+        "class": "page__masterclasses"
+      },
+      link: [{
+        rel: "canonical",
+        href: this.$context.canonical
+      }]
+    };
+  },
+  data: function data() {
+    return {
+      eventSlug: "",
+      logos: [{
+        "class": '',
+        alt: 'Presented by asana',
+        url: 'dmc/logos/asana-sponsor.png'
+      }]
+    };
+  },
+  watch: {
+    $route: {
+      deep: true,
+      immediate: true,
+      handler: function handler(val) {
+        var _this = this;
+
+        var slug = val.params.eventSlug || val.query.eventSlug || "";
+
+        if (slug) {
+          this.$nextTick(function () {
+            _this.eventSlug = slug;
+
+            _this.$scrollTo("#timetable");
+          });
+        }
+      }
+    }
+  },
+  components: {
+    Hero: _components_omr_dynamic_Hero_vue__WEBPACK_IMPORTED_MODULE_1__["default"],
+    // ExhibitorsPremium,
+    Timetable: _components_omr_dynamic_Timetable_vue__WEBPACK_IMPORTED_MODULE_3__["default"],
+    SpeakersWrapper: _components_dmc_SpeakersWrapper_vue__WEBPACK_IMPORTED_MODULE_2__["default"],
+    TicketShop: _components_omr_dynamic_TicketShop_vue__WEBPACK_IMPORTED_MODULE_4__["default"]
+  },
+  mounted: function mounted() {
+    var _this2 = this;
+
+    //display page only after first paint
+    this.$refs.digitalMasterclasses.style.opacity = "100"; // Add TicketShop App before the closing </body> tag
+
+    var omrticketapp = document.createElement("script");
+    omrticketapp.setAttribute("src", "https://tickets.omr.com/omr-tickets-app.js");
+    document.head.appendChild(omrticketapp);
+    this.$nextTick(function () {
+      if (_this2.$route.hash == "kontakt") {
+        setTimeout(function () {
+          VueScrollTo.scrollTo("#kontakt");
+        }, 3000);
+      }
+    });
+  },
+  methods: {
+    doNavigation: function doNavigation(payload) {
+      this.eventSlug = payload.eventSlug || "";
+      var query = {};
+
+      if (payload.eventSlug) {
+        query = {
+          eventSlug: payload.eventSlug || ""
+        };
+      }
+
+      this.$router.push({
+        query: query
+      })["catch"](function () {});
+    }
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979&":
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('Speakers',{attrs:{"top":"","speakers":_vm.filteredSpeakers}},[_c('h2',{attrs:{"slot":"header"},slot:"header"},[_vm._v("\n    "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.topspeakers.head1"))+"\n    "),_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.topspeakers.head2"))+"\n      "),_c('br'),_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.topspeakers.head3")))])]),_c('p',{staticClass:"sreveal",attrs:{"slot":"intro"},slot:"intro"},[_vm._v("\n    "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.topspeakers.intro"))+"\n  ")])])}
+var staticRenderFns = []
+
+
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('section',{staticClass:"hero-page",style:({
+      backgroundImage: ("url(" + (__webpack_require__("./src/events-assets sync recursive ^\\.\\/.*$")("./" + _vm.backgroundImage)) + ")")
+    })},[_c('h1',[_vm._v("\n      "+_vm._s(_vm.head_text)),_c('br'),(_vm.logos)?_c('div',{staticClass:"logo-wrapper"},[_c('span',{staticClass:"presented-by"},[_vm._v("PRESENTED BY")]),_vm._l((_vm.logos),function(logo){return _c('g-image',{key:logo.alt,class:logo.class,attrs:{"src":__webpack_require__("./src/events-assets sync recursive ^\\.\\/.*$")("./" + (logo.url)),"alt":logo.alt}})})],2):_vm._e()]),_vm._t("default")],2),_c('section',{staticClass:"hero--placeholder"})])}
+var staticRenderFns = []
+
+
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4&":
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4& ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"ticketshop-embed",attrs:{"id":"tickets"}},[_c('div',{staticClass:"ticketembed_wrapper",attrs:{"id":"ticketshop"}},[_c('div',{staticClass:"ticketshop-teaser"},[_c('div',{staticClass:"sreveal container text-center"},[_vm._t("header")],2),_c('div',{staticClass:"container text-center teaser"},[_c('div',{staticClass:"row justify-content-center"},[_c('div',{staticClass:"col-lg-6 col-xl-5"},[_vm._t("intro")],2)])])]),_c('div',{staticClass:"container"},[_c('div',{staticClass:"row"},[_c('div',{staticClass:"col-12"},[_c('div',{staticClass:"wrapper"},[_c('omr-tickets-app',{attrs:{"head-event-slug":_vm.event,"locale":this.currentLocale()}})],1)])])])])])}
+var staticRenderFns = []
+
+
+
+/***/ }),
+
+/***/ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{ref:"digitalMasterclasses",staticStyle:{"opacity":"0"}},[_c('Hero',{attrs:{"head_text":_vm.$translate(_vm.$context.eventSlug + '.homepage.hero.head'),"backgroundImage":"dmc/dmc3-header.jpg","logos":_vm.logos}}),_c('section',{staticClass:"hero-teaser hero-teaser-subpage"},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"row"},[_c('div',{staticClass:"col-12"},[_vm._v("\n          "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.hero.intro"))+"\n        ")])])])]),_c('section',{staticClass:"checklist"},[_c('div',{staticClass:"container text-center"},[_c('h2',[_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.head1")))]),_vm._v("\n        "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.head2"))+"\n        "),_c('br'),_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.head3"))+"\n      ")])]),_c('div',{staticClass:"container"},[_c('div',{staticClass:"row"},[_c('div',{staticClass:"checklist__check offset-2 col-8 offset-md-3 col-md-6 offset-lg-2 col-lg-4 offset-xl-3 col-xl-3"},[_c('g-image',{attrs:{"src":__webpack_require__(/*! !assets-loader?!~/events-assets/omr20/img/icons/time-icon.svg */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/time-icon.svg"),"alt":""}}),_c('div',[_c('h5',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact3-head"))+"\n            ")]),_c('p',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact3"))+"\n            ")])])],1),_c('div',{staticClass:"checklist__check offset-2 col-8 offset-md-3 col-md-6 offset-lg-0 col-lg-4 col-xl-3"},[_c('g-image',{attrs:{"src":__webpack_require__(/*! !assets-loader?!~/events-assets/omr20/img/icons/talk-icon.svg */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/talk-icon.svg"),"alt":""}}),_c('div',[_c('h5',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact2-head"))+"\n            ")]),_c('p',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact2"))+"\n            ")])])],1)]),_c('div',{staticClass:"row"},[_c('div',{staticClass:"checklist__check offset-2 col-8 offset-md-3 col-md-6 offset-lg-2 col-lg-4 offset-xl-3 col-xl-3"},[_c('g-image',{attrs:{"src":__webpack_require__(/*! !assets-loader?!~/events-assets/omr20/img/icons/ticket.svg */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/ticket.svg"),"alt":""}}),_c('div',[_c('h5',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact5-head"))+"\n            ")]),_c('p',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact5"))+"\n            ")])])],1),_c('div',{staticClass:"checklist__check offset-2 col-8 offset-md-3 col-md-6 offset-lg-0 col-lg-4 col-xl-3"},[_c('g-image',{attrs:{"src":__webpack_require__(/*! !assets-loader?!~/events-assets/omr20/img/icons/date.svg */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js!./src/events-assets/omr20/img/icons/date.svg"),"alt":""}}),_c('div',[_c('h5',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact6-head"))+"\n            ")]),_c('p',[_vm._v("\n              "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.facts.fact6"))+"\n            ")])])],1)])])]),_c('Timetable',{attrs:{"id":"timetable","event-slug":_vm.eventSlug},on:{"event":_vm.doNavigation}},[_c('h2',{attrs:{"slot":"header"},slot:"header"},[_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.timetable.head1")))]),_c('br'),_vm._v("\n      "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.timetable.head2"))+"\n    ")])]),_c('SpeakersWrapper',{attrs:{"slug":"digitalmasterclasses","event":_vm.$context.eventSlug}}),_c('section',{staticClass:"calltoaction calltoaction--golden text-center",attrs:{"id":"kontakt"}},[_c('div',{staticClass:"sreveal container teaser"},[_c('div',{staticClass:"container text-center"},[_c('h2',{staticClass:"sreveal"},[_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.head1"))+"\n          ")]),_vm._v("\n          "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.head2"))+"\n          "),_c('br'),_vm._v("\n          "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.head3"))+"\n        ")])]),_c('div',{staticClass:"row justify-content-center"},[_c('div',{staticClass:"col-lg-6 col-xl-5"},[_c('p',[_vm._v("\n            "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.intro"))+"\n          ")])]),_c('div',{staticClass:"col-12 button-container"},[(_vm.$context.lang == 'de')?_c('a',{staticClass:"button button--black",attrs:{"href":"mailto:dmc@omr.com?subject=Infos%20DMC4%20Nov%202022%20%7C%20Wir%20wollen%20dabei%20sein!"}},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.button")))]):_vm._e(),(_vm.$context.lang == 'en')?_c('a',{staticClass:"button button--black",attrs:{"href":"mailto:dmc@omr.com?subject=Info%20DMC4%20Nov%202021%20%7C%20We%20want%20to%20take%20part!"}},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.contact-cta.button")))]):_vm._e()])])])]),_c('section',{attrs:{"id":"steps"}},[_c('div',{staticClass:"row"},[_c('div',{staticClass:"container text-center"},[_c('h2',[_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.steps.head1")))]),_vm._v("\n          "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.steps.head2"))+"\n          "),_c('br'),_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.steps.head3"))+"\n        ")]),(_vm.$context.lang == 'de')?_c('g-image',{staticClass:"steps-desktop",attrs:{"src":__webpack_require__(/*! !assets-loader?alt=Masterclass%20bewerben%20steps!~/events-assets/dmc/DMC5_SBS_deutsch_quer.png */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch_quer.png"),"alt":"Masterclass bewerben steps"}}):_vm._e(),(_vm.$context.lang == 'de')?_c('g-image',{staticClass:"steps-mobile",attrs:{"src":__webpack_require__(/*! !assets-loader?alt=Masterclass%20bewerben%20steps!~/events-assets/dmc/DMC5_SBS_deutsch.png */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/DMC5_SBS_deutsch.png"),"alt":"Masterclass bewerben steps"}}):_vm._e(),(_vm.$context.lang == 'en')?_c('g-image',{staticClass:"steps-desktop",attrs:{"src":__webpack_require__(/*! !assets-loader?alt=Masterclass%20bewerben%20steps!~/events-assets/dmc/dmc-nov-21-steps-en.png */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-en.png"),"alt":"Masterclass bewerben steps"}}):_vm._e(),(_vm.$context.lang == 'en')?_c('g-image',{staticClass:"steps-mobile",attrs:{"src":__webpack_require__(/*! !assets-loader?alt=Masterclass%20bewerben%20steps!~/events-assets/dmc/dmc-nov-21-steps-mobile-en.png */ "./node_modules/gridsome/lib/webpack/loaders/assets-loader.js?alt=Masterclass%20bewerben%20steps!./src/events-assets/dmc/dmc-nov-21-steps-mobile-en.png"),"alt":"Masterclass bewerben steps"}}):_vm._e()],1)])]),_c('TicketShop',{attrs:{"event":"digital-masterclasses-2022-vol-5"}},[_c('h2',{attrs:{"slot":"header"},slot:"header"},[_c('span',{staticClass:"stroke"},[_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.ticketshop.head1")))]),_vm._v("\n      "+_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.ticketshop.head2"))),_c('br'),_vm._v(_vm._s(_vm.$translate(_vm.$context.eventSlug + ".homepage.ticketshop.head3"))+"\n    ")]),_c('p',{directives:[{name:"g-image",rawName:"v-g-image"}],attrs:{"slot":"intro"},domProps:{"innerHTML":_vm._s(_vm.$translate(_vm.$context.eventSlug + '.homepage.ticketshop.intro'))},slot:"intro"})])],1)}
+var staticRenderFns = []
+
+
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js??ref--4-oneOf-1-1!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--4-oneOf-1-2!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib??ref--4-oneOf-1-4!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js??ref--4-oneOf-1-1!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--4-oneOf-1-2!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib??ref--4-oneOf-1-4!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
+/***/ "./src/components/dmc/SpeakersWrapper.vue":
+/*!************************************************!*\
+  !*** ./src/components/dmc/SpeakersWrapper.vue ***!
+  \************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SpeakersWrapper.vue?vue&type=template&id=40542979& */ "./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979&");
+/* harmony import */ var _SpeakersWrapper_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SpeakersWrapper.vue?vue&type=script&lang=js& */ "./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* harmony import */ var _SpeakersWrapper_vue_vue_type_custom_index_0_blockType_static_query__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query */ "./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _SpeakersWrapper_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* custom blocks */
+
+if (typeof _SpeakersWrapper_vue_vue_type_custom_index_0_blockType_static_query__WEBPACK_IMPORTED_MODULE_3__["default"] === 'function') Object(_SpeakersWrapper_vue_vue_type_custom_index_0_blockType_static_query__WEBPACK_IMPORTED_MODULE_3__["default"])(component)
+
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query":
+/*!***********************************************************************************************!*\
+  !*** ./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query ***!
+  \***********************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_14_0_node_modules_gridsome_lib_plugins_vue_components_lib_loaders_static_query_js_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_custom_index_0_blockType_static_query__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/gridsome/node_modules/babel-loader/lib??ref--14-0!../../../node_modules/gridsome/lib/plugins/vue-components/lib/loaders/static-query.js!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query */ "./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/lib/plugins/vue-components/lib/loaders/static-query.js!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=custom&index=0&blockType=static-query");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_14_0_node_modules_gridsome_lib_plugins_vue_components_lib_loaders_static_query_js_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_custom_index_0_blockType_static_query__WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js&":
+/*!*************************************************************************!*\
+  !*** ./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js& ***!
+  \*************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!../../../node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./SpeakersWrapper.vue?vue&type=script&lang=js& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979&":
+/*!*******************************************************************************!*\
+  !*** ./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979& ***!
+  \*******************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./SpeakersWrapper.vue?vue&type=template&id=40542979& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/dmc/SpeakersWrapper.vue?vue&type=template&id=40542979&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_SpeakersWrapper_vue_vue_type_template_id_40542979___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/Hero.vue":
+/*!*********************************************!*\
+  !*** ./src/components/omr/dynamic/Hero.vue ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Hero.vue?vue&type=template&id=76730b17&scoped=true& */ "./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true&");
+/* harmony import */ var _Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Hero.vue?vue&type=script&lang=js& */ "./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true& */ "./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../../node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
+  _Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  "76730b17",
+  null
+  
+)
+
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js&":
+/*!**********************************************************************!*\
+  !*** ./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js& ***!
+  \**********************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!../../../../node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Hero.vue?vue&type=script&lang=js& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true&":
+/*!*******************************************************************************************************!*\
+  !*** ./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true& ***!
+  \*******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../../node_modules/css-loader/dist/cjs.js??ref--4-oneOf-1-1!../../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../../node_modules/postcss-loader/src??ref--4-oneOf-1-2!../../../../node_modules/sass-loader/dist/cjs.js!../../../../node_modules/style-resources-loader/lib??ref--4-oneOf-1-4!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true& */ "./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=style&index=0&id=76730b17&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_style_index_0_id_76730b17_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true&":
+/*!****************************************************************************************!*\
+  !*** ./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true& ***!
+  \****************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!../../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Hero.vue?vue&type=template&id=76730b17&scoped=true& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/Hero.vue?vue&type=template&id=76730b17&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Hero_vue_vue_type_template_id_76730b17_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/TicketShop.vue":
+/*!***************************************************!*\
+  !*** ./src/components/omr/dynamic/TicketShop.vue ***!
+  \***************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./TicketShop.vue?vue&type=template&id=8d5bc1a4& */ "./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4&");
+/* harmony import */ var _TicketShop_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./TicketShop.vue?vue&type=script&lang=js& */ "./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+  _TicketShop_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js&":
+/*!****************************************************************************!*\
+  !*** ./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js& ***!
+  \****************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_TicketShop_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!../../../../node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./TicketShop.vue?vue&type=script&lang=js& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/TicketShop.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_TicketShop_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4&":
+/*!**********************************************************************************!*\
+  !*** ./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4& ***!
+  \**********************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!../../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./TicketShop.vue?vue&type=template&id=8d5bc1a4& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/components/omr/dynamic/TicketShop.vue?vue&type=template&id=8d5bc1a4&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_TicketShop_vue_vue_type_template_id_8d5bc1a4___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./src/templates/digitalmasterclasses/Event.vue":
+/*!******************************************************!*\
+  !*** ./src/templates/digitalmasterclasses/Event.vue ***!
+  \******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Event.vue?vue&type=template&id=1008dcde& */ "./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde&");
+/* harmony import */ var _Event_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Event.vue?vue&type=script&lang=js& */ "./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport *//* harmony import */ var _events_assets_omr20_main_min_css_vue_type_style_index_0_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/events-assets/omr20/main.min.css?vue&type=style&index=0&lang=css& */ "./src/events-assets/omr20/main.min.css?vue&type=style&index=0&lang=css&");
+/* harmony import */ var _Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Event.vue?vue&type=style&index=1&lang=scss& */ "./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss&");
+/* harmony import */ var _node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/gridsome/node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+
+
+
+
+
+
+/* normalize component */
+
+var component = Object(_node_modules_gridsome_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_4__["default"])(
+  _Event_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
+  _Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js&":
+/*!*******************************************************************************!*\
+  !*** ./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js& ***!
+  \*******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--1-0!../../../node_modules/gridsome/node_modules/babel-loader/lib??ref--1-1!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Event.vue?vue&type=script&lang=js& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/babel-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=script&lang=js&");
+/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_gridsome_node_modules_babel_loader_lib_index_js_ref_1_1_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
+
+/***/ }),
+
+/***/ "./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss&":
+/*!****************************************************************************************!*\
+  !*** ./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss& ***!
+  \****************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../node_modules/css-loader/dist/cjs.js??ref--4-oneOf-1-1!../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--4-oneOf-1-2!../../../node_modules/sass-loader/dist/cjs.js!../../../node_modules/style-resources-loader/lib??ref--4-oneOf-1-4!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Event.vue?vue&type=style&index=1&lang=scss& */ "./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js!./node_modules/style-resources-loader/lib/index.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=style&index=1&lang=scss&");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_mini_css_extract_plugin_dist_loader_js_node_modules_css_loader_dist_cjs_js_ref_4_oneOf_1_1_node_modules_gridsome_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_4_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_node_modules_style_resources_loader_lib_index_js_ref_4_oneOf_1_4_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_style_index_1_lang_scss___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde&":
+/*!*************************************************************************************!*\
+  !*** ./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde& ***!
+  \*************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{"cacheDirectory":"node_modules/.cache/gridsome","cacheIdentifier":"6baf247c-vue-loader-template"}!../../../node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/gridsome/node_modules/cache-loader/dist/cjs.js??ref--0-0!../../../node_modules/gridsome/node_modules/vue-loader/lib??vue-loader-options!./Event.vue?vue&type=template&id=1008dcde& */ "./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/gridsome\",\"cacheIdentifier\":\"6baf247c-vue-loader-template\"}!./node_modules/gridsome/node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/gridsome/node_modules/cache-loader/dist/cjs.js?!./node_modules/gridsome/node_modules/vue-loader/lib/index.js?!./src/templates/digitalmasterclasses/Event.vue?vue&type=template&id=1008dcde&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _cache_loader_cacheDirectory_node_modules_cache_gridsome_cacheIdentifier_6baf247c_vue_loader_template_node_modules_gridsome_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_gridsome_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_gridsome_node_modules_vue_loader_lib_index_js_vue_loader_options_Event_vue_vue_type_template_id_1008dcde___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ })
+
+}]);
